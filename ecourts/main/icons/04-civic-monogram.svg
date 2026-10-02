@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">eCourts — Civic Monogram</title>
+  <desc id="desc">An original lowercase e monogram assembled from a porcelain court arch and a broad docket beam, with three fine civic step engravings. Royal blue enamel provides a bold, modern app identity.</desc>
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse"><stop stop-color="#255BCC"/><stop offset=".53" stop-color="#163FAD"/><stop offset="1" stop-color="#102877"/></linearGradient>
+    <radialGradient id="blueGlow" cx=".17" cy=".03" r="1"><stop stop-color="#6C93F0" stop-opacity=".36"/><stop offset="1" stop-color="#1B4BBD" stop-opacity="0"/></radialGradient>
+    <linearGradient id="porcelain" x1="306" y1="295" x2="686" y2="761" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset=".52" stop-color="#F4F6FC"/><stop offset="1" stop-color="#BECEF1"/></linearGradient>
+    <linearGradient id="facet" x1="300" y1="372" x2="730" y2="668" gradientUnits="userSpaceOnUse"><stop stop-color="#D3E0FC"/><stop offset="1" stop-color="#7B9BDD"/></linearGradient>
+  </defs>
+  <g id="background">
+  <rect width="1024" height="1024" fill="url(#blue)"/>
+  <rect width="1024" height="1024" fill="url(#blueGlow)"/>
+  <circle cx="517" cy="503" r="398" fill="none" stroke="#B4CCFF" stroke-opacity=".05" stroke-width="2"/>
+  <path d="M853 751C633 967 277 907 156 686" fill="none" stroke="#C5D6FF" stroke-width="52" opacity=".027"/>
+  </g>
+  <g id="symbol">
+  <path d="M802 546H322C338 638 417 708 512 708C572 708 626 682 663 639L739 700C686 762 603 801 512 801C352 801 222 671 222 511C222 351 352 221 512 221C672 221 802 351 802 511ZM702 461C680 378 604 318 512 318C420 318 344 378 322 461Z" fill="#082464" fill-rule="evenodd" opacity=".3" transform="translate(0 14)"/>
+  <path d="M802 546H322C338 638 417 708 512 708C572 708 626 682 663 639L739 700C686 762 603 801 512 801C352 801 222 671 222 511C222 351 352 221 512 221C672 221 802 351 802 511ZM702 461C680 378 604 318 512 318C420 318 344 378 322 461Z" fill="url(#porcelain)" fill-rule="evenodd"/>
+  <path d="M791 509C790 355 666 232 512 232C358 232 233 357 233 511C233 665 358 790 512 790C595 790 674 756 726 700" fill="none" stroke="#FFFFFF" stroke-opacity=".58" stroke-width="3"/>
+  <path d="M322 547C338 638 417 708 512 708C572 708 626 682 663 639L677 650C637 697 577 726 512 726C406 726 318 649 303 547Z" fill="url(#facet)"/>
+  <path d="M322 461C344 378 420 318 512 318C604 318 680 378 702 461" fill="none" stroke="#7E9EE0" stroke-opacity=".5" stroke-width="4"/>
+  <path d="M320 462H800V473H320Z" fill="#FFFFFF" opacity=".76"/>
+  <path d="M322 535H802V546H322Z" fill="#89A7DD" opacity=".35"/>
+  <path d="M381 644Q438 699 509 698" fill="none" stroke="#FFF" stroke-opacity=".37" stroke-width="3" stroke-linecap="round"/>
+  <path d="M447 420H577M461 406H563M477 392H547" stroke="#A8C5FA" stroke-width="3" stroke-linecap="round" opacity=".32"/>
+  </g>
+</svg>

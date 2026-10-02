@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">eCourts · Orbit Docket</title>
+  <desc id="desc">A luminous violet glass docket with a recessed seal, encircled by a warm silver orbit, on aubergine.</desc>
+  <defs>
+    <filter id="ambient" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+    <filter id="soft" x="-30%" y="-50%" width="160%" height="200%"><feGaussianBlur stdDeviation="12"/></filter>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="200%"><feGaussianBlur in="SourceAlpha" stdDeviation="20" result="shadow-blur"/><feOffset in="shadow-blur" dy="24" result="shadow-offset"/><feFlood flood-color="#020c20" flood-opacity=".28" result="shadow-color"/><feComposite in="shadow-color" in2="shadow-offset" operator="in" result="shadow-layer"/><feMerge><feMergeNode in="shadow-layer"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#271b45"/><stop offset=".6" stop-color="#18132f"/><stop offset="1" stop-color="#492d56"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#bc88df" stop-opacity=".3"/><stop offset="1" stop-color="#bc88df" stop-opacity="0"/></radialGradient>
+    <linearGradient id="glass" x1=".08" y1="0" x2=".85" y2="1"><stop stop-color="#fff1ff" stop-opacity=".96"/><stop offset=".17" stop-color="#c3acfa" stop-opacity=".83"/><stop offset=".42" stop-color="#615093" stop-opacity=".8"/><stop offset=".73" stop-color="#9c7cbc" stop-opacity=".6"/><stop offset="1" stop-color="#efd0f9" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff7ff"/><stop offset=".27" stop-color="#ddc4fc"/><stop offset=".55" stop-color="#70609e" stop-opacity=".3"/><stop offset=".8" stop-color="#b297cf"/><stop offset="1" stop-color="#fff3ff"/></linearGradient>
+    <linearGradient id="orbit" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbdbc8"/><stop offset=".16" stop-color="#967b91"/><stop offset=".43" stop-color="#eed3db"/><stop offset=".63" stop-color="#ac849f"/><stop offset=".85" stop-color="#ffeddf"/><stop offset="1" stop-color="#ab7e99"/></linearGradient>
+    <linearGradient id="seal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4d395f"/><stop offset=".32" stop-color="#b68aac"/><stop offset=".6" stop-color="#e9bed0"/><stop offset="1" stop-color="#734d80"/></linearGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff6ea"/><stop offset="1" stop-color="#dcadc7"/></linearGradient>
+    <clipPath id="doc"><path d="M364 263H579L679 361V704C679 729 659 749 634 749H364C339 749 319 729 319 704V308C319 283 339 263 364 263Z"/></clipPath>
+  </defs>
+
+  <rect id="background" width="1024" height="1024" fill="url(#bg)"/>
+  <ellipse cx="751" cy="308" rx="430" ry="400" fill="url(#halo)"/>
+  <ellipse cx="260" cy="720" rx="300" ry="330" fill="url(#halo)" opacity=".5"/>
+  <path d="M-61 883C143 643 376 707 688 467S1048 276 1103 100" fill="none" stroke="#e5c7e2" stroke-width="50" opacity=".02"/>
+  <ellipse cx="509" cy="796" rx="245" ry="39" fill="#0a0416" opacity=".4" filter="url(#soft)"/>
+  <path d="M224 636C169 565 253 432 411 338C569 244 742 225 800 300C822 329 820 367 799 409" fill="none" stroke="url(#orbit)" stroke-width="27" opacity=".75"/>
+  <path d="M225 626C185 554 266 437 414 349C566 259 729 238 790 301" fill="none" stroke="#f9dbdd" stroke-width="3" opacity=".72"/>
+  <g id="symbol" filter="url(#shadow)">
+    <path d="M364 263H579L679 361V704C679 729 659 749 634 749H364C339 749 319 729 319 704V308C319 283 339 263 364 263Z" fill="url(#glass)" stroke="url(#rim)" stroke-width="3"/>
+    <path d="M365 277H574M333 685V311C333 292 345 277 365 277" fill="none" stroke="#fff5ff" stroke-width="3" opacity=".75" stroke-linecap="round"/>
+    <path d="M343 704C343 716 350 725 365 725H632C646 725 656 716 656 704V373" fill="none" stroke="#d2acdc" stroke-width="3" opacity=".55" stroke-linecap="round"/>
+    <path d="M573 265V329C573 351 588 365 610 365H676Z" fill="#eed7ff" opacity=".35" stroke="url(#rim)" stroke-width="2"/>
+    <path d="M574 271L669 359H609C589 359 578 347 578 329" fill="none" stroke="#fff0ff" stroke-width="2" opacity=".73"/>
+    <g clip-path="url(#doc)"><path d="M254 290C433 328 492 478 719 389L730 455C494 550 424 399 285 419Z" fill="#fff" opacity=".08"/></g>
+    <path d="M378 390H519M378 436H608" fill="none" stroke="#e7d5f5" stroke-width="12" stroke-linecap="round" opacity=".75"/>
+    <path d="M378 394H519M378 440H608" fill="none" stroke="#332047" stroke-width="3" stroke-linecap="round" opacity=".25"/>
+    <circle cx="496" cy="575" r="83" fill="url(#seal)" stroke="url(#rim)" stroke-width="3"/>
+    <circle cx="496" cy="575" r="70" fill="none" stroke="#f1d2e0" stroke-width="2" opacity=".65"/>
+    <circle cx="496" cy="575" r="57" fill="#362143" opacity=".2"/>
+    <path d="M460 575L484 600L535 548" fill="none" stroke="#462b55" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" opacity=".2" transform="translate(0 4)"/>
+    <path d="M460 575L484 600L535 548" fill="none" stroke="url(#mark)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M462 571L484 594L531 546" fill="none" stroke="#fff7ed" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  </g>
+  <path d="M800 300C859 376 775 510 617 604C459 698 282 710 224 636" fill="none" stroke="url(#orbit)" stroke-width="28"/>
+  <path d="M809 310C851 383 767 505 613 596C458 687 293 703 236 640" fill="none" stroke="#ffe9e1" stroke-width="4" opacity=".87" stroke-linecap="round"/>
+  <path d="M799 332C816 404 736 506 606 581" fill="none" stroke="#e8c1db" stroke-width="2" opacity=".4"/>
+  <path d="M272 679C368 712 500 665 615 598" fill="none" stroke="#9d6f92" stroke-width="3" opacity=".6"/>
+  <circle cx="743" cy="506" r="22" fill="url(#seal)" stroke="#ffe8e5" stroke-width="2"/>
+  <path d="M730 500C733 489 745 485 754 494" fill="none" stroke="#fff4ed" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+
+</svg>

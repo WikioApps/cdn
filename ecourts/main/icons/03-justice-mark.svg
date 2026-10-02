@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">eCourts — Justice Mark</title>
+  <desc id="desc">A balanced ivory and champagne justice symbol on deep emerald. Twin carved bowls, a faceted finial and a stable stepped pedestal give the mark a clear, original silhouette.</desc>
+  <defs>
+    <linearGradient id="green" x1="100" y1="0" x2="940" y2="1024" gradientUnits="userSpaceOnUse"><stop stop-color="#134E44"/><stop offset=".45" stop-color="#0B3D35"/><stop offset="1" stop-color="#072E2D"/></linearGradient>
+    <radialGradient id="light" cx=".45" cy=".1" r=".9"><stop stop-color="#72A088" stop-opacity=".24"/><stop offset="1" stop-color="#174C3D" stop-opacity="0"/></radialGradient>
+    <linearGradient id="ivory" x1="0" y1="300" x2="0" y2="746" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF5DC"/><stop offset=".55" stop-color="#E6D6AC"/><stop offset="1" stop-color="#C2AD76"/></linearGradient>
+    <linearGradient id="metal" x1="239" y1="306" x2="783" y2="721" gradientUnits="userSpaceOnUse"><stop stop-color="#EFE2BA"/><stop offset=".36" stop-color="#FFFAE8"/><stop offset=".65" stop-color="#DFCCA0"/><stop offset="1" stop-color="#A88D58"/></linearGradient>
+    <linearGradient id="bowl" x1="0" y1="534" x2="0" y2="596" gradientUnits="userSpaceOnUse"><stop stop-color="#FCF0CF"/><stop offset=".28" stop-color="#E2D0A0"/><stop offset="1" stop-color="#B69D62"/></linearGradient>
+  </defs>
+  <g id="background">
+  <rect width="1024" height="1024" fill="url(#green)"/>
+  <rect width="1024" height="1024" fill="url(#light)"/>
+  <path d="M512 126 853 322V704L512 900 171 704V322Z" fill="none" stroke="#B9D0B8" stroke-width="2" opacity=".055"/>
+  <path d="M512 238 761 381V662L512 806 263 662V381Z" fill="none" stroke="#D4D8BA" stroke-width="2" opacity=".13"/>
+  </g>
+  <g id="symbol" transform="translate(512 512) scale(1.12) translate(-512 -512)">
+  <path d="M481 331Q486 312 512 302Q538 312 543 331L536 352 536 664 570 708H619V731H405V708H454L488 664V352Z" fill="#031D1B" opacity=".33" transform="translate(0 15)"/>
+  <path d="M488 345H536V664L571 707H618V733H406V707H453L488 664Z" fill="url(#metal)"/>
+  <path d="M504 355H520V669L539 699H485L504 669Z" fill="#F9EDCD" opacity=".45"/>
+  <path d="M489 345H499V664L466 707H453L488 664Z" fill="#FFF7DB" opacity=".5"/>
+  <path d="M527 345H536V664L571 707H558L527 665Z" fill="#A58F5C" opacity=".52"/>
+  <path d="M456 698H568L578 709H446Z" fill="#F7E8C6"/>
+  <path d="M406 708H618" stroke="#FFF6DD" stroke-width="3"/>
+  <path d="M390 734H634V751H390Z" fill="url(#ivory)"/>
+  <path d="M391 735H633" stroke="#FFF4D3" stroke-width="2"/>
+  <path d="M271 381Q358 389 444 368Q512 350 580 368Q666 389 753 381L749 415Q660 423 574 402Q512 387 450 402Q364 423 275 415Z" fill="url(#metal)"/>
+  <path d="M278 386Q359 395 445 374Q512 356 579 374Q665 395 746 386" fill="none" stroke="#FFF8E0" stroke-width="3"/>
+  <path d="M278 413Q361 420 449 399Q512 385 575 399Q663 420 746 413" fill="none" stroke="#9F8C5E" stroke-width="3" opacity=".45"/>
+  <path d="M490 300 512 277 534 300V336L512 357 490 336Z" fill="url(#metal)"/>
+  <path d="M496 302 512 285 528 302" fill="none" stroke="#FFF9E6" stroke-width="2"/>
+  <path d="M512 290V341" stroke="#FFF6D7" stroke-width="2" opacity=".7"/>
+  <circle cx="512" cy="386" r="23" fill="#C9B983"/>
+  <circle cx="512" cy="386" r="18" fill="url(#ivory)" stroke="#FFF6D8" stroke-width="2"/>
+  <circle cx="512" cy="386" r="5" fill="#8D8154"/>
+  <path d="M320 410 249 539M320 410 391 539M704 410 633 539M704 410 775 539" fill="none" stroke="#F1E4BF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M321 420V538M703 420V538" stroke="#D7C392" stroke-width="4"/>
+  <path d="M233 542H407Q393 608 320 611Q247 608 233 542Z" fill="#022A25" opacity=".3" transform="translate(0 10)"/>
+  <path d="M617 542H791Q777 608 704 611Q631 608 617 542Z" fill="#022A25" opacity=".3" transform="translate(0 10)"/>
+  <path d="M233 538H407Q393 600 320 603Q247 600 233 538Z" fill="url(#bowl)"/>
+  <path d="M617 538H791Q777 600 704 603Q631 600 617 538Z" fill="url(#bowl)"/>
+  <path d="M241 545H399M625 545H783" stroke="#FFF8DD" stroke-width="4" stroke-linecap="round"/>
+  <path d="M254 560Q272 587 311 590M638 560Q656 587 695 590" fill="none" stroke="#F7EBD0" stroke-opacity=".56" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="320" cy="407" r="10" fill="url(#ivory)" stroke="#FAEFD1" stroke-width="2"/>
+  <circle cx="704" cy="407" r="10" fill="url(#ivory)" stroke="#FAEFD1" stroke-width="2"/>
+  <path d="M296 674V664M728 674V664" stroke="#B9C4A5" stroke-width="3" opacity=".3"/>
+
+  </g>
+</svg>

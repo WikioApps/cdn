@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">eCourts — Hearing Docket</title>
+  <desc id="desc">An ivory hearing calendar with a deep crimson binding, brushed metal rings and original vector 24 numerals. Layered paper edges and restrained docket details make a practical, distinctive app icon.</desc>
+  <defs>
+    <linearGradient id="paperBack" x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse"><stop stop-color="#F9F5F0"/><stop offset=".54" stop-color="#EAE4DF"/><stop offset="1" stop-color="#D9D2CF"/></linearGradient>
+    <linearGradient id="sheet" x1="310" y1="300" x2="724" y2="779" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F2EEEA"/></linearGradient>
+    <linearGradient id="crimson" x1="284" y1="281" x2="737" y2="447" gradientUnits="userSpaceOnUse"><stop stop-color="#BD4157"/><stop offset=".5" stop-color="#9C2943"/><stop offset="1" stop-color="#78243D"/></linearGradient>
+    <linearGradient id="binder" x1="0" y1="248" x2="0" y2="344" gradientUnits="userSpaceOnUse"><stop stop-color="#EEE9E3"/><stop offset=".48" stop-color="#D0CAC5"/><stop offset="1" stop-color="#A29DA1"/></linearGradient>
+    <linearGradient id="numerals" x1="378" y1="484" x2="665" y2="640" gradientUnits="userSpaceOnUse"><stop stop-color="#263443"/><stop offset="1" stop-color="#152B3C"/></linearGradient>
+  </defs>
+  <g id="background">
+  <rect width="1024" height="1024" fill="url(#paperBack)"/>
+  <path d="M0 980 1024 400V1024H0Z" fill="#C7BDB6" opacity=".08"/>
+  </g>
+  <g id="symbol" transform="translate(512 512) scale(1.1) translate(-512 -512)">
+  <path d="M304 307H720Q752 307 752 339V750Q752 782 720 782H304Q272 782 272 750V339Q272 307 304 307Z" fill="#86766F" opacity=".13" transform="translate(0 20)"/>
+  <path d="M303 306H721Q752 306 752 337V747Q752 778 721 778H303Q272 778 272 747V337Q272 306 303 306Z" fill="#C9BFBA"/>
+  <path d="M298 291H726Q758 291 758 323V727Q758 759 726 759H298Q266 759 266 727V323Q266 291 298 291Z" fill="#E9E2DC" stroke="#C9BFBA" stroke-width="2"/>
+  <path d="M298 278H726Q758 278 758 310V710Q758 742 726 742H298Q266 742 266 710V310Q266 278 298 278Z" fill="url(#sheet)" stroke="#D3CAC3" stroke-width="2"/>
+  <path d="M298 278H726Q758 278 758 310V421H266V310Q266 278 298 278Z" fill="url(#crimson)"/>
+  <path d="M299 282H725Q753 282 754 310" fill="none" stroke="#DB7B85" stroke-width="3" opacity=".7"/>
+  <path d="M266 414H758V424H266Z" fill="#681D36" opacity=".24"/>
+  <path d="M267 425H757" stroke="#D8CCC8" stroke-width="2"/>
+  <path d="M298 748H726M299 764H725" stroke="#FCF9F6" stroke-width="2"/>
+  <path d="M299 731H724Q746 731 747 710" fill="none" stroke="#FFF" stroke-width="3"/>
+  <circle cx="363" cy="316" r="21" fill="#641B33" opacity=".48"/>
+  <circle cx="661" cy="316" r="21" fill="#641B33" opacity=".48"/>
+  <rect x="348" y="246" width="30" height="91" rx="15" fill="url(#binder)"/>
+  <rect x="646" y="246" width="30" height="91" rx="15" fill="url(#binder)"/>
+  <path d="M355 320V260Q355 253 362 253M653 320V260Q653 253 660 253" fill="none" stroke="#FFF" stroke-width="3" stroke-linecap="round" opacity=".85"/>
+  <path d="M364 331Q373 331 373 319M662 331Q671 331 671 319" fill="none" stroke="#8C8589" stroke-width="2"/>
+  <path d="M344 373H443" stroke="#F6CFCC" stroke-width="9" stroke-linecap="round" opacity=".92"/>
+  <path d="M470 373H530" stroke="#F6CFCC" stroke-width="9" stroke-linecap="round" opacity=".58"/>
+  <circle cx="683" cy="377" r="19" fill="none" stroke="#F2C9C7" stroke-width="2" opacity=".8"/>
+  <path d="m673 377 7 7 13-15" fill="none" stroke="#F2C9C7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M350 511C350 478 374 460 405 460C440 460 462 479 462 508C462 533 447 548 421 570L392 596H464V625H348V601L400 552C423 531 430 522 430 510C430 496 421 488 406 488C390 488 381 499 381 514Z" fill="url(#numerals)"/>
+  <path d="M568 464H604V561H630V589H604V625H573V589H499V560ZM573 506 527 561H573Z" fill="url(#numerals)" fill-rule="evenodd"/>
+  <path d="M342 657H682" stroke="#DDD5CF" stroke-width="2"/>
+  <path d="M343 689H420" stroke="#B7ACA6" stroke-width="6" stroke-linecap="round"/>
+  <path d="M438 689H482" stroke="#C5BBB5" stroke-width="6" stroke-linecap="round"/>
+  <rect x="553" y="674" width="127" height="30" rx="15" fill="#EEE2DF"/>
+  <circle cx="570" cy="689" r="4" fill="#A5344B"/>
+  <path d="M585 689H660" stroke="#A75361" stroke-width="4" stroke-linecap="round"/>
+
+  </g>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">eCourts — Casebook</title>
+  <desc id="desc">An open ivory casebook with burgundy bookmark, layered page edges and an embossed courthouse medallion. The warm paper and leather palette is built entirely from editable vectors.</desc>
+  <defs>
+    <linearGradient id="back" x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse"><stop stop-color="#6C263B"/><stop offset=".5" stop-color="#541E32"/><stop offset="1" stop-color="#301728"/></linearGradient>
+    <radialGradient id="aura" cx=".5" cy=".28" r=".78"><stop stop-color="#C57B72" stop-opacity=".25"/><stop offset="1" stop-color="#763047" stop-opacity="0"/></radialGradient>
+    <linearGradient id="cover" x1="512" y1="440" x2="512" y2="763" gradientUnits="userSpaceOnUse"><stop stop-color="#C58B68"/><stop offset="1" stop-color="#8E5344"/></linearGradient>
+    <linearGradient id="leftPage" x1="241" y1="407" x2="512" y2="472" gradientUnits="userSpaceOnUse"><stop stop-color="#F3E4C9"/><stop offset=".72" stop-color="#FFF6E6"/><stop offset="1" stop-color="#CAB596"/></linearGradient>
+    <linearGradient id="rightPage" x1="512" y1="439" x2="772" y2="404" gradientUnits="userSpaceOnUse"><stop stop-color="#D4BFA0"/><stop offset=".18" stop-color="#F5EAD6"/><stop offset="1" stop-color="#FFF7E8"/></linearGradient>
+    <linearGradient id="ribbon" x1="552" y1="350" x2="623" y2="720" gradientUnits="userSpaceOnUse"><stop stop-color="#A7555E"/><stop offset=".5" stop-color="#7D3045"/><stop offset="1" stop-color="#532035"/></linearGradient>
+    <linearGradient id="medal" x1="325" y1="410" x2="434" y2="538" gradientUnits="userSpaceOnUse"><stop stop-color="#BB8C5D"/><stop offset=".5" stop-color="#916444"/><stop offset="1" stop-color="#B08255"/></linearGradient>
+  </defs>
+  <g id="background">
+  <rect width="1024" height="1024" fill="url(#back)"/>
+  <rect width="1024" height="1024" fill="url(#aura)"/>
+  <path d="M89 792C285 939 783 990 999 721" fill="none" stroke="#E4BB9A" stroke-width="85" opacity=".025"/>
+  </g>
+  <g id="symbol" transform="translate(512 512) scale(1.1) translate(-512 -512)">
+  <path d="M218 368Q365 308 512 370Q659 308 806 368V717Q659 696 512 767Q365 696 218 717Z" fill="#240C1B" opacity=".3" transform="translate(0 19)"/>
+  <path d="M218 359Q364 300 512 361Q660 300 806 359V710Q664 683 512 759Q360 683 218 710Z" fill="url(#cover)"/>
+  <path d="M231 359Q370 309 512 371Q654 309 793 359V694Q646 679 512 741Q378 679 231 694Z" fill="#3E1D2A"/>
+  <path d="M238 350Q385 310 512 374Q641 310 786 350V690Q650 670 512 729Q374 670 238 690Z" fill="#BAA186"/>
+  <path d="M241 339Q387 304 512 367Q637 304 783 339V674Q646 657 512 716Q378 657 241 674Z" fill="#DAC4A5"/>
+  <path d="M250 333Q391 301 512 361Q633 301 774 333V659Q643 645 512 703Q381 645 250 659Z" fill="#E9D6B9"/>
+  <path d="M250 324Q381 296 512 355V689Q381 630 250 655Z" fill="url(#leftPage)"/>
+  <path d="M512 355Q643 296 774 324V655Q643 630 512 689Z" fill="url(#rightPage)"/>
+  <path d="M251 325Q381 297 512 356Q643 297 773 325" fill="none" stroke="#FFF9EE" stroke-width="3"/>
+  <path d="M512 359V686" stroke="#96765B" stroke-width="3" opacity=".55"/>
+  <path d="M501 357V680" stroke="#FFF8EA" stroke-width="3" opacity=".32"/>
+  <path d="M252 664Q380 640 508 698M252 673Q377 650 508 708M252 684Q379 660 508 718" fill="none" stroke="#AA8965" stroke-opacity=".46" stroke-width="2"/>
+  <path d="M516 699Q646 641 780 665M516 709Q646 652 780 675M516 719Q646 663 780 686" fill="none" stroke="#9B7B59" stroke-opacity=".38" stroke-width="2"/>
+  <path d="M527 739Q648 686 790 702M234 702Q376 686 497 739" fill="none" stroke="#E2B188" stroke-width="3"/>
+  <path d="M491 714Q512 722 533 714V741Q512 753 491 741Z" fill="#6A3540"/>
+  <path d="M553 342Q583 333 614 329V710L583 691 553 722Z" fill="#9A684A" opacity=".15" transform="translate(6 3)"/>
+  <path d="M553 341Q583 332 614 328V702L583 684 553 715Z" fill="url(#ribbon)"/>
+  <path d="M558 343V704M609 331V692" stroke="#D28989" stroke-width="2" opacity=".55"/>
+  <path d="M553 342Q583 333 614 329" stroke="#CF8890" stroke-width="3"/>
+  <path d="M284 576Q382 564 477 602M284 590Q382 578 477 616M284 604Q382 592 442 614" fill="none" stroke="#AC8D6E" stroke-opacity=".45" stroke-width="4" stroke-linecap="round"/>
+  <path d="M641 377Q686 368 736 371M641 393Q687 384 736 387M641 409Q687 400 717 402" fill="none" stroke="#B09273" stroke-opacity=".42" stroke-width="4" stroke-linecap="round"/>
+  <path d="M647 546Q691 538 737 541M647 562Q691 554 737 557M647 578Q691 570 737 573M647 594Q691 586 716 588" fill="none" stroke="#AE9172" stroke-opacity=".34" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="381" cy="463" r="78" fill="none" stroke="#BD9D77" stroke-opacity=".52" stroke-width="2"/>
+  <circle cx="381" cy="463" r="69" fill="#D3B995" fill-opacity=".15" stroke="#B69874" stroke-width="2"/>
+  <path d="m327 441 54-33 54 33v9H327Z" fill="url(#medal)"/>
+  <path d="m342 439 39-24 39 24Z" fill="#F3E4CA"/>
+  <path d="M336 455H350V493H336ZM374 455H388V493H374ZM412 455H426V493H412Z" fill="url(#medal)"/>
+  <path d="M330 496H432V504H330ZM324 509H438V518H324Z" fill="url(#medal)"/>
+  <path d="M330 498H432" stroke="#D5B38A" stroke-width="1.5"/>
+  <path d="M376 373H387" stroke="#B19069" stroke-width="2"/>
+
+  </g>
+</svg>

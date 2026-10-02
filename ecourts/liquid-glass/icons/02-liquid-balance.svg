@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">eCourts · Liquid Balance</title>
+  <desc id="desc">An asymmetric violet glass balance, suspended from a flowing central stem on a cool porcelain field.</desc>
+  <defs>
+    <filter id="ambient" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+    <filter id="soft" x="-30%" y="-50%" width="160%" height="200%"><feGaussianBlur stdDeviation="12"/></filter>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="200%"><feGaussianBlur in="SourceAlpha" stdDeviation="20" result="shadow-blur"/><feOffset in="shadow-blur" dy="24" result="shadow-offset"/><feFlood flood-color="#020c20" flood-opacity=".28" result="shadow-color"/><feComposite in="shadow-color" in2="shadow-offset" operator="in" result="shadow-layer"/><feMerge><feMergeNode in="shadow-layer"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7f6ff"/><stop offset=".6" stop-color="#dedff1"/><stop offset="1" stop-color="#bdc3e6"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2=".92" y2="1"><stop stop-color="#fcf6ff"/><stop offset=".17" stop-color="#bcb2fa" stop-opacity=".96"/><stop offset=".4" stop-color="#7c76ca" stop-opacity=".82"/><stop offset=".62" stop-color="#4842a1" stop-opacity=".96"/><stop offset=".79" stop-color="#b1acfb"/><stop offset="1" stop-color="#473c85"/></linearGradient>
+    <linearGradient id="bowl" x1=".1" y1="0" x2=".7" y2="1"><stop stop-color="#f2eaff"/><stop offset=".26" stop-color="#a499df" stop-opacity=".86"/><stop offset=".54" stop-color="#59468f" stop-opacity=".78"/><stop offset=".78" stop-color="#b6a5ea" stop-opacity=".86"/><stop offset="1" stop-color="#f2e8ff"/></linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#fff"/><stop offset=".39" stop-color="#ede8ff"/><stop offset=".63" stop-color="#7060a9" stop-opacity=".65"/><stop offset="1" stop-color="#dfd0ff"/></linearGradient>
+    <linearGradient id="string" x1="0" x2="1"><stop stop-color="#5a4d93"/><stop offset=".4" stop-color="#fff"/><stop offset="1" stop-color="#8072b1"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <radialGradient id="haze"><stop stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  </defs>
+
+  <rect id="background" width="1024" height="1024" fill="url(#bg)"/>
+  <ellipse cx="280" cy="235" rx="600" ry="580" fill="url(#haze)" opacity=".8"/>
+  <path d="M-80 669C191 398 533 482 760 172S1200-74 1193-74" fill="none" stroke="#fff" stroke-width="105" opacity=".15"/>
+  <path d="M-80 615C211 360 540 445 710 225" fill="none" stroke="#fff" stroke-width="2" opacity=".62"/>
+  <ellipse cx="525" cy="804" rx="220" ry="27" fill="#655190" opacity=".2" filter="url(#soft)"/>
+  <g id="symbol" filter="url(#shadow)">
+    <path d="M509 262C541 262 558 280 553 308L501 631C495 672 512 699 553 712L619 733C641 740 647 765 630 779C616 790 574 793 515 793C447 793 403 788 391 775C377 759 390 735 414 725C441 713 448 694 454 658L496 286C498 271 501 262 509 262Z" fill="url(#glass)" stroke="url(#rim)" stroke-width="3"/>
+    <path d="M512 295L466 663C460 708 444 723 419 738" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".78"/>
+    <path d="M536 302L488 641C480 694 501 717 546 730" fill="none" stroke="#29286e" stroke-width="7" stroke-linecap="round" opacity=".28"/>
+    <path d="M415 761C465 775 579 773 616 759" fill="none" stroke="#f3eeff" stroke-width="4" opacity=".65" stroke-linecap="round"/>
+    <path d="M257 390C318 385 378 366 441 334C474 317 494 306 518 307C573 309 642 351 737 365C759 368 771 383 766 396C761 409 745 414 725 410C620 392 564 352 519 351C479 350 391 413 282 428C260 431 242 420 242 407C242 397 247 391 257 390Z" fill="url(#glass)" stroke="url(#rim)" stroke-width="3"/>
+    <path d="M263 398C368 385 468 318 516 320C582 322 641 367 744 382" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" opacity=".85"/>
+    <path d="M274 418C386 399 472 342 517 338C573 334 646 384 738 397" fill="none" stroke="#322171" stroke-width="4" stroke-linecap="round" opacity=".27"/>
+    <circle cx="519" cy="324" r="30" fill="url(#bowl)" stroke="url(#rim)" stroke-width="2"/>
+    <circle cx="519" cy="324" r="13" fill="#ebdfff" opacity=".72"/>
+    <path d="M283 423L211 585M283 423L356 585M734 409L661 539M734 409L807 539" stroke="url(#string)" stroke-width="8" stroke-linecap="round"/>
+    <path d="M283 429V581M734 415V535" stroke="#8978bd" stroke-width="3" opacity=".4"/>
+    <path d="M193 583C192 642 232 676 285 676C338 676 375 642 375 583Z" fill="url(#bowl)" stroke="url(#rim)" stroke-width="3"/>
+    <ellipse cx="284" cy="583" rx="92" ry="17" fill="#8775b7" stroke="#e9e0ff" stroke-width="3"/>
+    <ellipse cx="284" cy="580" rx="75" ry="10" fill="#c7bde7" opacity=".73"/>
+    <path d="M211 610C231 650 271 662 314 649" fill="none" stroke="#f9f1ff" stroke-width="4" opacity=".7" stroke-linecap="round"/>
+    <path d="M643 537C642 596 682 630 735 630C788 630 825 596 825 537Z" fill="url(#bowl)" stroke="url(#rim)" stroke-width="3"/>
+    <ellipse cx="734" cy="537" rx="92" ry="17" fill="#8775b7" stroke="#e9e0ff" stroke-width="3"/>
+    <ellipse cx="734" cy="534" rx="75" ry="10" fill="#c7bde7" opacity=".73"/>
+    <path d="M661 564C681 604 721 616 764 603" fill="none" stroke="#f9f1ff" stroke-width="4" opacity=".7" stroke-linecap="round"/>
+  </g>
+  <path d="M368 816C451 833 578 833 649 809" fill="none" stroke="#ac91df" stroke-width="6" opacity=".25" filter="url(#soft)"/>
+
+</svg>

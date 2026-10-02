@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">eCourts · Glass Monogram</title>
+  <desc id="desc">A continuous coral and pearl glass ribbon forms a lowercase e and an open court arch, against warm porcelain.</desc>
+  <defs>
+    <filter id="ambient" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+    <filter id="soft" x="-30%" y="-50%" width="160%" height="200%"><feGaussianBlur stdDeviation="12"/></filter>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="200%"><feGaussianBlur in="SourceAlpha" stdDeviation="20" result="shadow-blur"/><feOffset in="shadow-blur" dy="24" result="shadow-offset"/><feFlood flood-color="#020c20" flood-opacity=".28" result="shadow-color"/><feComposite in="shadow-color" in2="shadow-offset" operator="in" result="shadow-layer"/><feMerge><feMergeNode in="shadow-layer"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff6ed"/><stop offset=".53" stop-color="#f1ddd6"/><stop offset="1" stop-color="#d4b9bd"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="glass" x1=".03" y1=".1" x2=".92" y2=".92"><stop stop-color="#fff0df"/><stop offset=".14" stop-color="#edaea2"/><stop offset=".31" stop-color="#b65465"/><stop offset=".49" stop-color="#802c50"/><stop offset=".67" stop-color="#d9767d"/><stop offset=".84" stop-color="#f7c6b1"/><stop offset="1" stop-color="#9a4b6c"/></linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".27" stop-color="#ffe1cb"/><stop offset=".57" stop-color="#853d63" stop-opacity=".8"/><stop offset=".79" stop-color="#ffe3d3"/><stop offset="1" stop-color="#b7637d"/></linearGradient>
+    <linearGradient id="face" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#fff8e4" stop-opacity=".65"/><stop offset=".42" stop-color="#f8a48c" stop-opacity=".2"/><stop offset="1" stop-color="#733154" stop-opacity=".18"/></linearGradient>
+    <linearGradient id="cross" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaa391"/><stop offset=".27" stop-color="#ffdbba"/><stop offset=".53" stop-color="#e19a98"/><stop offset=".75" stop-color="#9f4e70"/><stop offset="1" stop-color="#f3bead"/></linearGradient>
+    <clipPath id="monogram"><path d="M770 476C770 329 661 236 522 236C363 236 251 355 251 518C251 681 356 793 517 793C619 793 699 751 750 679C763 661 759 639 742 628L706 604C689 593 672 598 659 614C623 660 577 683 521 683C440 683 387 638 371 568H721C751 568 770 548 770 519Z M372 462C388 387 442 342 518 342C591 342 646 386 655 462Z" clip-rule="evenodd"/></clipPath>
+  </defs>
+
+  <rect id="background" width="1024" height="1024" fill="url(#bg)"/>
+  <ellipse cx="264" cy="209" rx="579" ry="612" fill="url(#halo)" opacity=".6"/>
+  <path d="M-72 812C194 617 397 1030 781 607S1120 397 1160 397" fill="none" stroke="#fff5e4" stroke-width="110" opacity=".12"/>
+  <path d="M-72 760C194 565 397 978 781 555" fill="none" stroke="#fff" stroke-width="2" opacity=".35"/>
+  <ellipse cx="511" cy="833" rx="252" ry="30" fill="#6e3044" opacity=".19" filter="url(#soft)"/>
+  <g id="symbol" filter="url(#shadow)">
+    <path d="M770 476C770 329 661 236 522 236C363 236 251 355 251 518C251 681 356 793 517 793C619 793 699 751 750 679C763 661 759 639 742 628L706 604C689 593 672 598 659 614C623 660 577 683 521 683C440 683 387 638 371 568H721C751 568 770 548 770 519Z M372 462C388 387 442 342 518 342C591 342 646 386 655 462Z" fill="url(#glass)" fill-rule="evenodd" stroke="url(#rim)" stroke-width="3"/>
+    <g clip-path="url(#monogram)">
+      <path d="M231 443C405 209 615 328 799 266L803 429C618 490 407 348 231 557Z" fill="url(#face)"/>
+      <path d="M211 647C389 496 617 700 814 555V676C607 806 438 627 222 765Z" fill="#ffe7bd" opacity=".11"/>
+      <path d="M222 509C354 387 555 405 785 346" fill="none" stroke="#fff5db" stroke-width="20" opacity=".035"/>
+    </g>
+    <path d="M273 506C273 357 377 254 522 254C646 254 743 337 751 465" fill="none" stroke="#ffead6" stroke-width="4" opacity=".79" stroke-linecap="round"/>
+    <path d="M270 548C282 684 376 774 517 774C610 774 684 736 735 667" fill="none" stroke="#fac2b1" stroke-width="4" opacity=".78" stroke-linecap="round"/>
+    <path d="M382 448C405 386 450 358 518 358C581 358 624 390 642 448" fill="none" stroke="#73364e" stroke-width="7" opacity=".26" stroke-linecap="round"/>
+    <path d="M371 578C392 657 445 695 521 695C583 695 632 668 667 626" fill="none" stroke="#68243c" stroke-width="8" opacity=".3" stroke-linecap="round"/>
+    <path d="M356 474H738C743 490 745 510 741 526C739 537 731 544 718 544H357C352 521 352 498 356 474Z" fill="url(#cross)" opacity=".74"/>
+    <path d="M370 477H734" fill="none" stroke="#fff2d6" stroke-width="3" opacity=".87" stroke-linecap="round"/>
+    <path d="M382 549H718C735 549 747 541 750 526" fill="none" stroke="#743b62" stroke-width="3" opacity=".48" stroke-linecap="round"/>
+    <path d="M332 364C353 333 380 313 410 298" fill="none" stroke="#fff9eb" stroke-width="6" opacity=".63" stroke-linecap="round"/>
+    <path d="M347 357C363 337 383 321 405 309" fill="none" stroke="#fff9eb" stroke-width="2" opacity=".5" stroke-linecap="round"/>
+    <path d="M603 734C637 721 665 702 687 681" fill="none" stroke="#fff3d3" stroke-width="3" opacity=".75" stroke-linecap="round"/>
+  </g>
+  <path d="M356 842C440 857 588 857 666 832" fill="none" stroke="#cc8f94" stroke-width="7" opacity=".2" filter="url(#soft)"/>
+
+</svg>

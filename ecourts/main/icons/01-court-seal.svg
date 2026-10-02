@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">eCourts — Court Seal</title>
+  <desc id="desc">An original gold courthouse medallion on deep navy enamel. Four fluted pillars, layered stone steps and a fine engraved seal form a confident legal identity.</desc>
+  <defs>
+    <linearGradient id="navy" x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse"><stop stop-color="#14314B"/><stop offset=".52" stop-color="#0C2138"/><stop offset="1" stop-color="#071523"/></linearGradient>
+    <radialGradient id="sky" cx=".32" cy=".08" r=".94"><stop stop-color="#3B5B70" stop-opacity=".52"/><stop offset="1" stop-color="#0B2136" stop-opacity="0"/></radialGradient>
+    <linearGradient id="gold" x1="270" y1="240" x2="745" y2="770" gradientUnits="userSpaceOnUse"><stop stop-color="#D9B37A"/><stop offset=".26" stop-color="#FAE5BA"/><stop offset=".56" stop-color="#D9B784"/><stop offset="1" stop-color="#B9894D"/></linearGradient>
+    <linearGradient id="goldEdge" x1="220" y1="160" x2="775" y2="875" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF2D5"/><stop offset=".48" stop-color="#C6A06C"/><stop offset="1" stop-color="#8E6539"/></linearGradient>
+    <linearGradient id="stone" x1="0" y1="415" x2="0" y2="673" gradientUnits="userSpaceOnUse"><stop stop-color="#FBEED4"/><stop offset="1" stop-color="#D6B986"/></linearGradient>
+    <linearGradient id="flute" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#9D7848" stop-opacity=".32"/><stop offset=".55" stop-color="#D3B784" stop-opacity=".08"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".65"/></linearGradient>
+    <linearGradient id="enamel" x1="512" y1="200" x2="512" y2="825" gradientUnits="userSpaceOnUse"><stop stop-color="#1C3D52"/><stop offset="1" stop-color="#10263B"/></linearGradient>
+  </defs>
+  <g id="background">
+  <rect width="1024" height="1024" fill="url(#navy)"/>
+  <rect width="1024" height="1024" fill="url(#sky)"/>
+  <circle cx="512" cy="516" r="420" fill="none" stroke="#C6A774" stroke-opacity=".035" stroke-width="72"/>
+  </g>
+  <g id="symbol">
+  <circle cx="512" cy="528" r="321" fill="#030D18" opacity=".35"/>
+  <circle cx="512" cy="512" r="317" fill="url(#goldEdge)"/>
+  <circle cx="512" cy="512" r="310" fill="url(#enamel)"/>
+  <circle cx="512" cy="512" r="301" fill="none" stroke="#EDD2A0" stroke-opacity=".6" stroke-width="2"/>
+  <path d="M266 346A296 296 0 0 1 758 346" fill="none" stroke="#FFF3D9" stroke-opacity=".23" stroke-width="3"/>
+  <circle cx="512" cy="512" r="282" fill="none" stroke="#99ACAD" stroke-opacity=".16" stroke-width="2"/>
+  <path d="M306 421 512 313 718 421V444H306Z" fill="#06182B" opacity=".72" transform="translate(0 10)"/>
+  <path d="M306 412 512 299 718 412V437H306Z" fill="url(#gold)"/>
+  <path d="m336 410 176-94 176 94Z" fill="#243F4E"/>
+  <path d="m364 402 148-79 148 79Z" fill="#C8A271"/>
+  <path d="m383 395 129-69 129 69Z" fill="#D9B984"/>
+  <path d="m336 410 176-94 176 94" fill="none" stroke="#FFF0CB" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M314 420H710" stroke="#FFF3D4" stroke-opacity=".6" stroke-width="3"/>
+  <path d="M328 443H696V461H328Z" fill="url(#goldEdge)"/>
+  <path d="M327 441H697" stroke="#FFF0C8" stroke-width="3"/>
+  <g>
+    <path d="M342 467H400V480H342Z" fill="#081C2D" opacity=".48"/>
+    <path d="M349 476H392L397 637H344Z" fill="url(#stone)"/>
+    <path d="M356 481H365L363 629H353Z" fill="url(#flute)"/>
+    <path d="M376 481H385L388 629H378Z" fill="url(#flute)"/>
+    <path d="M339 462H402V479H339Z" fill="url(#gold)"/>
+    <path d="M339 463H402" stroke="#FFF0D0" stroke-width="2"/>
+    <path d="M340 636H401V650H340Z" fill="url(#gold)"/>
+    <path d="M335 650H406V663H335Z" fill="url(#goldEdge)"/>
+    <path d="M340 637H401" stroke="#FFF0D0" stroke-opacity=".65" stroke-width="2"/>
+  </g>
+  <g>
+    <path d="M435 467H493V480H435Z" fill="#081C2D" opacity=".48"/>
+    <path d="M442 476H485L490 637H437Z" fill="url(#stone)"/>
+    <path d="M449 481H458L456 629H446Z" fill="url(#flute)"/>
+    <path d="M469 481H478L481 629H471Z" fill="url(#flute)"/>
+    <path d="M432 462H495V479H432Z" fill="url(#gold)"/>
+    <path d="M432 463H495" stroke="#FFF0D0" stroke-width="2"/>
+    <path d="M433 636H494V650H433Z" fill="url(#gold)"/>
+    <path d="M428 650H499V663H428Z" fill="url(#goldEdge)"/>
+    <path d="M433 637H494" stroke="#FFF0D0" stroke-opacity=".65" stroke-width="2"/>
+  </g>
+  <g>
+    <path d="M528 467H586V480H528Z" fill="#081C2D" opacity=".48"/>
+    <path d="M535 476H578L583 637H530Z" fill="url(#stone)"/>
+    <path d="M542 481H551L549 629H539Z" fill="url(#flute)"/>
+    <path d="M562 481H571L574 629H564Z" fill="url(#flute)"/>
+    <path d="M525 462H588V479H525Z" fill="url(#gold)"/>
+    <path d="M525 463H588" stroke="#FFF0D0" stroke-width="2"/>
+    <path d="M526 636H587V650H526Z" fill="url(#gold)"/>
+    <path d="M521 650H592V663H521Z" fill="url(#goldEdge)"/>
+    <path d="M526 637H587" stroke="#FFF0D0" stroke-opacity=".65" stroke-width="2"/>
+  </g>
+  <g>
+    <path d="M621 467H679V480H621Z" fill="#081C2D" opacity=".48"/>
+    <path d="M628 476H671L676 637H623Z" fill="url(#stone)"/>
+    <path d="M635 481H644L642 629H632Z" fill="url(#flute)"/>
+    <path d="M655 481H664L667 629H657Z" fill="url(#flute)"/>
+    <path d="M618 462H681V479H618Z" fill="url(#gold)"/>
+    <path d="M618 463H681" stroke="#FFF0D0" stroke-width="2"/>
+    <path d="M619 636H680V650H619Z" fill="url(#gold)"/>
+    <path d="M614 650H685V663H614Z" fill="url(#goldEdge)"/>
+    <path d="M619 637H680" stroke="#FFF0D0" stroke-opacity=".65" stroke-width="2"/>
+  </g>
+  <path d="M324 665H700V683H324Z" fill="url(#gold)"/>
+  <path d="M309 687H715V706H309Z" fill="url(#goldEdge)"/>
+  <path d="M293 710H731V731H293Z" fill="url(#gold)"/>
+  <path d="M324 666H700M309 688H715M293 711H731" stroke="#FFEDD0" stroke-width="2" opacity=".65"/>
+  <path d="M473 764H551" stroke="#E0C391" stroke-width="3" stroke-linecap="round"/>
+  <path d="m512 751 6 6-6 6-6-6Z" fill="#E7CAA1"/>
+  <path d="M253 510H266M758 510H771" stroke="#DABB8A" stroke-width="3"/>
+  <circle cx="512" cy="262" r="4" fill="#E2C190"/>
+
+  </g>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">eCourts · Prism Court</title>
+  <desc id="desc">An architectural glass arch with three fluted columns and a stepped foundation, in aquamarine on midnight blue.</desc>
+  <defs>
+    <filter id="ambient" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+    <filter id="soft" x="-30%" y="-50%" width="160%" height="200%"><feGaussianBlur stdDeviation="12"/></filter>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="200%"><feGaussianBlur in="SourceAlpha" stdDeviation="20" result="shadow-blur"/><feOffset in="shadow-blur" dy="24" result="shadow-offset"/><feFlood flood-color="#020c20" flood-opacity=".28" result="shadow-color"/><feComposite in="shadow-color" in2="shadow-offset" operator="in" result="shadow-layer"/><feMerge><feMergeNode in="shadow-layer"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102b49"/><stop offset=".52" stop-color="#07192f"/><stop offset="1" stop-color="#073b49"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#23dac8" stop-opacity=".52"/><stop offset="1" stop-color="#23dac8" stop-opacity="0"/></radialGradient>
+    <linearGradient id="arch" x1=".07" y1=".03" x2=".94" y2=".93"><stop stop-color="#f2ffff" stop-opacity=".95"/><stop offset=".14" stop-color="#74f8e7" stop-opacity=".82"/><stop offset=".36" stop-color="#26b8bc" stop-opacity=".52"/><stop offset=".62" stop-color="#18769c" stop-opacity=".36"/><stop offset=".82" stop-color="#b2ffef" stop-opacity=".85"/><stop offset="1" stop-color="#48c5d8" stop-opacity=".65"/></linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".28" stop-color="#b9fff8" stop-opacity=".9"/><stop offset=".56" stop-color="#4db0ce" stop-opacity=".25"/><stop offset=".79" stop-color="#7fede3"/><stop offset="1" stop-color="#dcffff"/></linearGradient>
+    <linearGradient id="pillar" x1="0" x2="1"><stop stop-color="#60cdd3" stop-opacity=".65"/><stop offset=".19" stop-color="#edfffb" stop-opacity=".92"/><stop offset=".3" stop-color="#8ee8e1" stop-opacity=".5"/><stop offset=".69" stop-color="#28a7bd" stop-opacity=".34"/><stop offset=".85" stop-color="#75ddde" stop-opacity=".7"/><stop offset="1" stop-color="#d3fff4" stop-opacity=".9"/></linearGradient>
+    <linearGradient id="base" x1="0" y1="0" x2=".3" y2="1"><stop stop-color="#d3fff3" stop-opacity=".95"/><stop offset=".12" stop-color="#54c9cb" stop-opacity=".85"/><stop offset=".47" stop-color="#1b829c" stop-opacity=".75"/><stop offset="1" stop-color="#36b4b8" stop-opacity=".65"/></linearGradient>
+    <linearGradient id="light" x1="0" x2="1"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".35" stop-color="#fff" stop-opacity=".9"/><stop offset=".75" stop-color="#a0ffe3" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="clip"><rect width="1024" height="1024"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect id="background" width="1024" height="1024" fill="url(#bg)"/>
+    <ellipse cx="758" cy="774" rx="470" ry="510" fill="url(#halo)"/>
+    <ellipse cx="200" cy="180" rx="200" ry="170" fill="#319cb6" opacity=".18" filter="url(#ambient)"/>
+    <path d="M-140 789C139 477 424 968 765 567S1113 263 1250 180" fill="none" stroke="#57e3d2" stroke-width="70" opacity=".035"/>
+    <path d="M-90 805C200 477 429 949 780 562" fill="none" stroke="#95fff1" stroke-width="2" opacity=".10"/>
+    <ellipse cx="516" cy="809" rx="296" ry="38" fill="#010b1a" opacity=".5" filter="url(#soft)"/>
+    <g id="symbol" filter="url(#shadow)">
+      <path d="M250 468C250 322 367 214 512 214S774 322 774 468V500H704V468C704 361 620 283 512 283S320 361 320 468V500H250Z" fill="url(#arch)" stroke="url(#rim)" stroke-width="3"/>
+      <path d="M263 458C267 327 375 229 512 229C643 229 748 321 760 450" fill="none" stroke="#ecffff" stroke-width="3" opacity=".7" stroke-linecap="round"/>
+      <path d="M318 469C318 359 403 277 512 277S707 359 707 469" fill="none" stroke="#071e40" stroke-width="9" opacity=".24"/>
+      <path d="M332 387C375 312 441 288 512 288S648 315 687 382" fill="none" stroke="#6dfce1" stroke-width="4" opacity=".65"/>
+      <path d="M294 361C344 271 426 238 512 238C573 238 630 258 680 294C611 263 564 260 512 264C420 269 354 301 294 361Z" fill="#fff" opacity=".16"/>
+      <rect x="263" y="496" width="87" height="194" rx="20" fill="url(#pillar)" stroke="url(#rim)" stroke-width="2"/>
+      <rect x="470" y="386" width="84" height="304" rx="23" fill="url(#pillar)" stroke="url(#rim)" stroke-width="2"/>
+      <rect x="674" y="496" width="87" height="194" rx="20" fill="url(#pillar)" stroke="url(#rim)" stroke-width="2"/>
+      <path d="M279 519V667M486 410V667M690 519V667" stroke="#ecfff9" stroke-width="3" opacity=".76" stroke-linecap="round"/>
+      <path d="M326 519V666M532 410V666M737 519V666" stroke="#042e51" stroke-width="5" opacity=".24" stroke-linecap="round"/>
+      <path d="M294 523V663M502 411V663M706 523V663" stroke="#bffff2" stroke-width="10" opacity=".07" stroke-linecap="round"/>
+      <rect x="243" y="478" width="125" height="32" rx="14" fill="url(#arch)" stroke="url(#rim)" stroke-width="2"/>
+      <rect x="450" y="368" width="124" height="35" rx="16" fill="url(#arch)" stroke="url(#rim)" stroke-width="2"/>
+      <rect x="656" y="478" width="124" height="32" rx="14" fill="url(#arch)" stroke="url(#rim)" stroke-width="2"/>
+      <path d="M273 685H751L779 721H245Z" fill="#b8fff1" opacity=".42"/>
+      <rect x="239" y="696" width="546" height="51" rx="21" fill="url(#base)" stroke="url(#rim)" stroke-width="2"/>
+      <rect x="204" y="751" width="616" height="46" rx="20" fill="url(#base)" stroke="url(#rim)" stroke-width="2"/>
+      <path d="M264 708H760M228 763H796" stroke="url(#light)" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <path d="M370 825C456 842 599 842 691 817" fill="none" stroke="#7efed9" stroke-width="9" opacity=".25" filter="url(#soft)"/>
+    <path d="M399 814C470 826 577 827 642 815" fill="none" stroke="#9affe5" stroke-width="2" opacity=".37"/>
+  </g>
+</svg>
