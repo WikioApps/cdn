@@ -1,8 +1,108 @@
 {
-  "status": "prepared-not-yet-published",
-  "confirmedUrls": [],
-  "proposedPatterns": [
-    "https://cdn.jsdelivr.net/gh/WikioApps/cdn@{revision}/ecourts/interface/{static|animated}/{light|dark|mono}/{id}.svg"
+  "checkedAt": "2026-10-02T10:38:17.794098+00:00",
+  "assetCommit": "87e404e7cc48cf11811c295a464467a6337935fc",
+  "confirmedUrls": [
+    {
+      "path": "static/light/courthouse.svg",
+      "url": "https://cdn.jsdelivr.net/gh/WikioApps/cdn@87e404e7cc48cf11811c295a464467a6337935fc/ecourts/interface/static/light/courthouse.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "bytes": 1364,
+      "sha256": "bd7616d884fdccde74b8556ee44506581af8bd1701c4a5384c8f2def7dd437e3",
+      "matchesCommittedFile": true
+    },
+    {
+      "path": "static/dark/fir-search.svg",
+      "url": "https://cdn.jsdelivr.net/gh/WikioApps/cdn@87e404e7cc48cf11811c295a464467a6337935fc/ecourts/interface/static/dark/fir-search.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "bytes": 1069,
+      "sha256": "51cd93d732a97c724bc613664f66ceed30690cb41d8e2cfeea2cac4455f944e6",
+      "matchesCommittedFile": true
+    },
+    {
+      "path": "static/mono/people.svg",
+      "url": "https://cdn.jsdelivr.net/gh/WikioApps/cdn@87e404e7cc48cf11811c295a464467a6337935fc/ecourts/interface/static/mono/people.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "bytes": 666,
+      "sha256": "1adb4f39c150f4327019f342d7b33975132186aa7aee5484261b328b9093530e",
+      "matchesCommittedFile": true
+    },
+    {
+      "path": "animated/light/gavel.svg",
+      "url": "https://cdn.jsdelivr.net/gh/WikioApps/cdn@87e404e7cc48cf11811c295a464467a6337935fc/ecourts/interface/animated/light/gavel.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "bytes": 1347,
+      "sha256": "4f6ec8ad7572d80db3524a6ff84bf431b560112a4bec790c0cfef49c9663cfb4",
+      "matchesCommittedFile": true
+    },
+    {
+      "path": "animated/dark/download.svg",
+      "url": "https://cdn.jsdelivr.net/gh/WikioApps/cdn@87e404e7cc48cf11811c295a464467a6337935fc/ecourts/interface/animated/dark/download.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "bytes": 1354,
+      "sha256": "937597bc7f5ad335b0e699c06c677c78b126191690dcfe243f30af5d72457b1a",
+      "matchesCommittedFile": true
+    },
+    {
+      "path": "animated/mono/cat.svg",
+      "url": "https://cdn.jsdelivr.net/gh/WikioApps/cdn@87e404e7cc48cf11811c295a464467a6337935fc/ecourts/interface/animated/mono/cat.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "bytes": 1036,
+      "sha256": "d3e6ac44a00a0c9d4c7727b8f5767677d3ab4b6cb92c3ee45ea30e0ec7a28093",
+      "matchesCommittedFile": true
+    },
+    {
+      "path": "android/res/drawable/ecui_courthouse_animated.xml",
+      "url": "https://cdn.jsdelivr.net/gh/WikioApps/cdn@87e404e7cc48cf11811c295a464467a6337935fc/ecourts/interface/android/res/drawable/ecui_courthouse_animated.xml",
+      "status": 200,
+      "contentType": "application/xml",
+      "bytes": 2724,
+      "sha256": "80b2a3d49b89f30b598a440b1741d971f202054c28131ec414573026fcb7ce03",
+      "matchesCommittedFile": true
+    },
+    {
+      "path": "catalog.json",
+      "url": "https://cdn.jsdelivr.net/gh/WikioApps/cdn@87e404e7cc48cf11811c295a464467a6337935fc/ecourts/interface/catalog.json",
+      "status": 200,
+      "contentType": "application/json; charset=utf-8",
+      "bytes": 147287,
+      "sha256": "d764c5d2cd743287f8facb429ef50fa0cf16cebe562646275097bb267d46ba42",
+      "matchesCommittedFile": true
+    },
+    {
+      "path": "inventory.csv",
+      "url": "https://cdn.jsdelivr.net/gh/WikioApps/cdn@87e404e7cc48cf11811c295a464467a6337935fc/ecourts/interface/inventory.csv",
+      "status": 200,
+      "contentType": "text/csv; charset=utf-8",
+      "bytes": 228420,
+      "sha256": "af6a64c9907bbcdb3b2b5584c05a02e47f6682072f19f2ae6ae54007064d63b9",
+      "matchesCommittedFile": true
+    },
+    {
+      "path": "index.html",
+      "url": "https://cdn.jsdelivr.net/gh/WikioApps/cdn@87e404e7cc48cf11811c295a464467a6337935fc/ecourts/interface/index.html",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "bytes": 2266882,
+      "sha256": "2ac98c1ed8f510522282d710d8b6b39ef4fb67cfe64831fbbb30a99904699c6b",
+      "matchesCommittedFile": true
+    }
   ],
-  "note": "Relative paths are generated and validated local files. Public URLs must be tested after the asset commit is published."
+  "failedChecks": [],
+  "proposedPatterns": [
+    "https://cdn.jsdelivr.net/gh/WikioApps/cdn@87e404e7cc48cf11811c295a464467a6337935fc/ecourts/interface/{static|animated}/{light|dark|mono}/{id}.svg"
+  ],
+  "note": "Only the listed URLs were fetched and byte-matched. Other committed asset paths follow the given pattern but were not individually fetched from the CDN. The verified HTML URL is downloadable source, not a live rendered webpage.",
+  "status": "published-and-checked",
+  "preview": {
+    "path": "index.html",
+    "selfContained": true,
+    "cdnContentType": "text/plain; charset=utf-8",
+    "howToOpen": "Download index.html and open it locally in a browser. The one file embeds all SVGs and the complete source mapping."
+  }
 }
