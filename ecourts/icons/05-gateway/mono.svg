@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="05-gateway-mono-title 05-gateway-mono-description">
+<title id="05-gateway-mono-title">eCourts — Gateway — mono</title>
+<desc id="05-gateway-mono-description">Single-colour white foreground on transparency for tinting and silhouette inspection. Original native vector artwork without raster images, fonts or external resources.</desc>
+<defs>
+
+</defs>
+<g id="05-gateway-mono-symbol">
+<g id="05-gateway-mono-shape-body" fill="#FFFFFF">
+<path d="M248 748V474C248 327 358 222 512 222S776 327 776 474V748H648V476C648 397 593 350 512 350S376 397 376 476V748Z"/>
+<rect x="456" y="500" width="112" height="248" rx="56"/>
+</g>
+</g>
+</svg>

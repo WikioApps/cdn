@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="04-forum-light-title 04-forum-light-description">
+<title id="04-forum-light-title">eCourts — Forum — light</title>
+<desc id="04-forum-light-description">Full-bleed light app icon. Two voices with a clear space between them. Independently editable silhouette, colour and surface layers. Original native vector artwork without raster images, fonts or external resources.</desc>
+<defs>
+<linearGradient id="04-forum-light-tile" gradientUnits="userSpaceOnUse" x1="170" y1="0" x2="860" y2="1024"><stop offset="0" stop-color="#F2FAF7" stop-opacity="1"/><stop offset="1" stop-color="#DAEAE3" stop-opacity="1"/></linearGradient>
+<linearGradient id="04-forum-light-body" gradientUnits="userSpaceOnUse" x1="270" y1="260" x2="770" y2="795"><stop offset="0" stop-color="#176B5C" stop-opacity="1"/><stop offset="0.5" stop-color="#176B5C" stop-opacity="1"/><stop offset="1" stop-color="#0F4D45" stop-opacity="1"/></linearGradient>
+<linearGradient id="04-forum-light-accent" gradientUnits="userSpaceOnUse" x1="290" y1="240" x2="730" y2="800"><stop offset="0" stop-color="#86D8B9" stop-opacity="1"/><stop offset="0.6" stop-color="#62BCA1" stop-opacity="1"/><stop offset="1" stop-color="#62BCA1" stop-opacity="1"/></linearGradient>
+<linearGradient id="04-forum-light-fold" gradientUnits="userSpaceOnUse" x1="250" y1="270" x2="520" y2="530"><stop offset="0" stop-color="#86D8B9" stop-opacity="1"/><stop offset="1" stop-color="#62BCA1" stop-opacity="1"/></linearGradient>
+<linearGradient id="04-forum-light-surface-light" gradientUnits="userSpaceOnUse" x1="245" y1="210" x2="782" y2="802"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.16"/><stop offset="0.36" stop-color="#FFFFFF" stop-opacity="0.035"/><stop offset="0.8" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.045"/></linearGradient>
+<linearGradient id="04-forum-light-rim" gradientUnits="userSpaceOnUse" x1="264" y1="224" x2="774" y2="810"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/><stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.06"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.18"/></linearGradient>
+<linearGradient id="04-forum-light-reflection" gradientUnits="userSpaceOnUse" x1="200" y1="175" x2="860" y2="900"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.47" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.13"/><stop offset="0.54" stop-color="#FFFFFF" stop-opacity="0.035"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+<clipPath id="04-forum-light-mark-clip"><path d="M340 230H496Q602 230 602 336V356H476Q376 356 376 456V548H350L278 618Q258 638 258 610V540Q226 510 226 464V344Q226 230 340 230Z"/><path d="M530 402H686Q798 402 798 514V626Q798 694 751 723L772 775Q784 804 755 790L648 738H530Q422 738 422 630V510Q422 402 530 402Z"/></clipPath>
+<filter id="04-forum-light-contact" x="-15%" y="-15%" width="130%" height="140%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="3.5"/></filter>
+</defs>
+<g id="04-forum-light-background">
+<rect x="0" y="0" width="1024" height="1024" rx="0" fill="url(#04-forum-light-tile)"/>
+</g>
+<g id="04-forum-light-contact-shadow" fill="#000714" opacity="0.09" filter="url(#04-forum-light-contact)" transform="translate(0 5)">
+<path d="M340 230H496Q602 230 602 336V356H476Q376 356 376 456V548H350L278 618Q258 638 258 610V540Q226 510 226 464V344Q226 230 340 230Z"/>
+<path d="M530 402H686Q798 402 798 514V626Q798 694 751 723L772 775Q784 804 755 790L648 738H530Q422 738 422 630V510Q422 402 530 402Z"/>
+</g>
+<g id="04-forum-light-symbol">
+<g id="04-forum-light-shape-accent" fill="url(#04-forum-light-accent)">
+<path d="M340 230H496Q602 230 602 336V356H476Q376 356 376 456V548H350L278 618Q258 638 258 610V540Q226 510 226 464V344Q226 230 340 230Z"/>
+</g>
+<g id="04-forum-light-shape-body" fill="url(#04-forum-light-body)">
+<path d="M530 402H686Q798 402 798 514V626Q798 694 751 723L772 775Q784 804 755 790L648 738H530Q422 738 422 630V510Q422 402 530 402Z"/>
+</g>
+</g>
+<g id="04-forum-light-satin-finish" clip-path="url(#04-forum-light-mark-clip)">
+<rect x="190" y="190" width="644" height="644" rx="0" fill="url(#04-forum-light-surface-light)"/>
+<rect x="190" y="190" width="644" height="644" rx="0" fill="url(#04-forum-light-reflection)"/>
+</g>
+<g id="04-forum-light-edge-definition" fill="none" stroke="url(#04-forum-light-rim)" stroke-width="1.25" stroke-linejoin="round" opacity="0.46">
+<path d="M340 230H496Q602 230 602 336V356H476Q376 356 376 456V548H350L278 618Q258 638 258 610V540Q226 510 226 464V344Q226 230 340 230Z"/>
+<path d="M530 402H686Q798 402 798 514V626Q798 694 751 723L772 775Q784 804 755 790L648 738H530Q422 738 422 630V510Q422 402 530 402Z"/>
+</g>
+</svg>

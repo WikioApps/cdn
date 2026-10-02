@@ -1,165 +1,198 @@
 {
+  "version": 3,
   "format": "SVG",
-  "viewBox": "0 0 1024 1024",
-  "version": 2,
+  "canvas": [
+    1024,
+    1024
+  ],
   "icons": [
     {
-      "id": "01-balance",
-      "name": "Balance",
-      "collection": "main",
-      "description": "Bronze balance with linked suspension chains, engraved metal, enamel pans and a turned pedestal.",
+      "id": "01-civic",
+      "name": "Civic",
+      "description": "A custom e with an open circular silhouette.",
       "variants": {
         "light": {
-          "path": "main/icons/01-balance/light.svg",
-          "bytes": 52290
+          "path": "icons/01-civic/light.svg",
+          "bytes": 4053
         },
         "dark": {
-          "path": "main/icons/01-balance/dark.svg",
-          "bytes": 52183
+          "path": "icons/01-civic/dark.svg",
+          "bytes": 4026
+        },
+        "mono": {
+          "path": "icons/01-civic/mono.svg",
+          "bytes": 722
         }
       }
     },
     {
-      "id": "02-courthouse",
-      "name": "Courthouse",
-      "collection": "main",
-      "description": "A domed courthouse in carved sandstone, with ribbed roof, fluted columns, arched windows and layered steps.",
+      "id": "02-parity",
+      "name": "Parity",
+      "description": "Two equal bars with opposing diagonal cuts.",
       "variants": {
         "light": {
-          "path": "main/icons/02-courthouse/light.svg",
-          "bytes": 24544
+          "path": "icons/02-parity/light.svg",
+          "bytes": 4826
         },
         "dark": {
-          "path": "main/icons/02-courthouse/dark.svg",
-          "bytes": 24450
+          "path": "icons/02-parity/dark.svg",
+          "bytes": 4795
+        },
+        "mono": {
+          "path": "icons/02-parity/mono.svg",
+          "bytes": 875
         }
       }
     },
     {
-      "id": "03-verdict",
-      "name": "Verdict",
-      "collection": "main",
-      "description": "Walnut gavel with curved wood grain, machined brass cuffs and a concentric sounding block.",
+      "id": "03-folio",
+      "name": "Folio",
+      "description": "An open record expressed as two folded planes.",
       "variants": {
         "light": {
-          "path": "main/icons/03-verdict/light.svg",
-          "bytes": 37342
+          "path": "icons/03-folio/light.svg",
+          "bytes": 4531
         },
         "dark": {
-          "path": "main/icons/03-verdict/dark.svg",
-          "bytes": 37289
+          "path": "icons/03-folio/dark.svg",
+          "bytes": 4498
+        },
+        "mono": {
+          "path": "icons/03-folio/mono.svg",
+          "bytes": 763
         }
       }
     },
     {
-      "id": "04-statute",
-      "name": "Statute",
-      "collection": "main",
-      "description": "Burgundy leather law book with foil border, embossed scales, gilt page edges and a silk bookmark.",
+      "id": "04-forum",
+      "name": "Forum",
+      "description": "Two voices with a clear space between them.",
       "variants": {
         "light": {
-          "path": "main/icons/04-statute/light.svg",
-          "bytes": 133505
+          "path": "icons/04-forum/light.svg",
+          "bytes": 4877
         },
         "dark": {
-          "path": "main/icons/04-statute/dark.svg",
-          "bytes": 133369
+          "path": "icons/04-forum/dark.svg",
+          "bytes": 4846
+        },
+        "mono": {
+          "path": "icons/04-forum/mono.svg",
+          "bytes": 887
         }
       }
     },
     {
-      "id": "05-counsel-seal",
-      "name": "Counsel seal",
-      "collection": "main",
-      "description": "Sculpted wax seal with milled bronze rim, guilloche engraving, fountain nib and laurel branches.",
+      "id": "05-gateway",
+      "name": "Gateway",
+      "description": "A broad arch and a central column form one mark.",
       "variants": {
         "light": {
-          "path": "main/icons/05-counsel-seal/light.svg",
-          "bytes": 115452
+          "path": "icons/05-gateway/light.svg",
+          "bytes": 4487
         },
         "dark": {
-          "path": "main/icons/05-counsel-seal/dark.svg",
-          "bytes": 115379
+          "path": "icons/05-gateway/dark.svg",
+          "bytes": 4458
+        },
+        "mono": {
+          "path": "icons/05-gateway/mono.svg",
+          "bytes": 752
         }
       }
     },
     {
-      "id": "01-court-shield",
-      "name": "Court shield",
-      "collection": "liquid-glass",
-      "description": "Faceted optical-glass shield with refracted edges, a divided glass face and a raised silver court column.",
+      "id": "06-docket",
+      "name": "Docket",
+      "description": "A four-part case index with a folded corner.",
       "variants": {
         "light": {
-          "path": "liquid-glass/icons/01-court-shield/light.svg",
-          "bytes": 17977
+          "path": "icons/06-docket/light.svg",
+          "bytes": 4784
         },
         "dark": {
-          "path": "liquid-glass/icons/01-court-shield/dark.svg",
-          "bytes": 17934
+          "path": "icons/06-docket/dark.svg",
+          "bytes": 4753
+        },
+        "mono": {
+          "path": "icons/06-docket/mono.svg",
+          "bytes": 865
         }
       }
     },
     {
-      "id": "02-case-docket",
-      "name": "Case docket",
-      "collection": "liquid-glass",
-      "description": "Layered glass case folders with folded documents, recessed index plaque and polished folder lip.",
+      "id": "07-case-link",
+      "name": "Case Link",
+      "description": "Two open links connect a case and its history.",
       "variants": {
         "light": {
-          "path": "liquid-glass/icons/02-case-docket/light.svg",
-          "bytes": 13564
+          "path": "icons/07-case-link/light.svg",
+          "bytes": 5132
         },
         "dark": {
-          "path": "liquid-glass/icons/02-case-docket/dark.svg",
-          "bytes": 13520
+          "path": "icons/07-case-link/dark.svg",
+          "bytes": 5101
+        },
+        "mono": {
+          "path": "icons/07-case-link/mono.svg",
+          "bytes": 953
         }
       }
     },
     {
-      "id": "03-hearing-day",
-      "name": "Hearing day",
-      "collection": "liquid-glass",
-      "description": "Lavender glass hearing calendar with steel binder rings, selected date and an inset precision clock.",
+      "id": "08-decide",
+      "name": "Decide",
+      "description": "A decisive stroke breaks through an open circle.",
       "variants": {
         "light": {
-          "path": "liquid-glass/icons/03-hearing-day/light.svg",
-          "bytes": 19865
+          "path": "icons/08-decide/light.svg",
+          "bytes": 4847
         },
         "dark": {
-          "path": "liquid-glass/icons/03-hearing-day/dark.svg",
-          "bytes": 19810
+          "path": "icons/08-decide/dark.svg",
+          "bytes": 4816
+        },
+        "mono": {
+          "path": "icons/08-decide/mono.svg",
+          "bytes": 879
         }
       }
     },
     {
-      "id": "04-ionic-column",
-      "name": "Ionic column",
-      "collection": "liquid-glass",
-      "description": "Carved jade-glass Ionic column with spiral volutes, egg-and-dart capital, eleven flutes and a stepped plinth.",
+      "id": "09-bench",
+      "name": "Bench",
+      "description": "A roof and three pillars reduced to bold geometry.",
       "variants": {
         "light": {
-          "path": "liquid-glass/icons/04-ionic-column/light.svg",
-          "bytes": 25218
+          "path": "icons/09-bench/light.svg",
+          "bytes": 4873
         },
         "dark": {
-          "path": "liquid-glass/icons/04-ionic-column/dark.svg",
-          "bytes": 25150
+          "path": "icons/09-bench/dark.svg",
+          "bytes": 4844
+        },
+        "mono": {
+          "path": "icons/09-bench/mono.svg",
+          "bytes": 848
         }
       }
     },
     {
-      "id": "05-court-search",
-      "name": "Court search",
-      "collection": "liquid-glass",
-      "description": "Emerald optical magnifier with a silver courthouse inside the lens, a milled rim and metal-banded handle.",
+      "id": "10-juris",
+      "name": "Juris",
+      "description": "Two court brackets create a shared hexagonal space.",
       "variants": {
         "light": {
-          "path": "liquid-glass/icons/05-court-search/light.svg",
-          "bytes": 59615
+          "path": "icons/10-juris/light.svg",
+          "bytes": 4821
         },
         "dark": {
-          "path": "liquid-glass/icons/05-court-search/dark.svg",
-          "bytes": 59547
+          "path": "icons/10-juris/dark.svg",
+          "bytes": 4790
+        },
+        "mono": {
+          "path": "icons/10-juris/mono.svg",
+          "bytes": 871
         }
       }
     }

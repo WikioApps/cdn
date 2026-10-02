@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="02-parity-dark-title 02-parity-dark-description">
+<title id="02-parity-dark-title">eCourts — Parity — dark</title>
+<desc id="02-parity-dark-description">Full-bleed dark app icon. Two equal bars with opposing diagonal cuts. Independently editable silhouette, colour and surface layers. Original native vector artwork without raster images, fonts or external resources.</desc>
+<defs>
+<linearGradient id="02-parity-dark-tile" gradientUnits="userSpaceOnUse" x1="170" y1="0" x2="860" y2="1024"><stop offset="0" stop-color="#261717" stop-opacity="1"/><stop offset="1" stop-color="#100F14" stop-opacity="1"/></linearGradient>
+<linearGradient id="02-parity-dark-body" gradientUnits="userSpaceOnUse" x1="270" y1="260" x2="770" y2="795"><stop offset="0" stop-color="#FFAC8A" stop-opacity="1"/><stop offset="0.5" stop-color="#FFAC8A" stop-opacity="1"/><stop offset="1" stop-color="#F05A48" stop-opacity="1"/></linearGradient>
+<linearGradient id="02-parity-dark-accent" gradientUnits="userSpaceOnUse" x1="290" y1="240" x2="730" y2="800"><stop offset="0" stop-color="#FFD1A6" stop-opacity="1"/><stop offset="0.6" stop-color="#FFA17B" stop-opacity="1"/><stop offset="1" stop-color="#FFA17B" stop-opacity="1"/></linearGradient>
+<linearGradient id="02-parity-dark-fold" gradientUnits="userSpaceOnUse" x1="250" y1="270" x2="520" y2="530"><stop offset="0" stop-color="#FFD1A6" stop-opacity="1"/><stop offset="1" stop-color="#FFA17B" stop-opacity="1"/></linearGradient>
+<linearGradient id="02-parity-dark-surface-light" gradientUnits="userSpaceOnUse" x1="245" y1="210" x2="782" y2="802"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.16"/><stop offset="0.36" stop-color="#FFFFFF" stop-opacity="0.035"/><stop offset="0.8" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.045"/></linearGradient>
+<linearGradient id="02-parity-dark-rim" gradientUnits="userSpaceOnUse" x1="264" y1="224" x2="774" y2="810"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/><stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.06"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.18"/></linearGradient>
+<linearGradient id="02-parity-dark-reflection" gradientUnits="userSpaceOnUse" x1="200" y1="175" x2="860" y2="900"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.47" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.13"/><stop offset="0.54" stop-color="#FFFFFF" stop-opacity="0.035"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+<clipPath id="02-parity-dark-mark-clip"><path d="M362 284H744Q771 284 758 308L698 418Q686 440 661 440H280Q253 440 266 416L326 306Q338 284 362 284Z"/><path d="M362 284H744Q771 284 758 308L698 418Q686 440 661 440H280Q253 440 266 416L326 306Q338 284 362 284Z" transform="rotate(180 512 512)"/></clipPath>
+<filter id="02-parity-dark-contact" x="-15%" y="-15%" width="130%" height="140%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="3.5"/></filter>
+</defs>
+<g id="02-parity-dark-background">
+<rect x="0" y="0" width="1024" height="1024" rx="0" fill="url(#02-parity-dark-tile)"/>
+</g>
+<g id="02-parity-dark-contact-shadow" fill="#000714" opacity="0.2" filter="url(#02-parity-dark-contact)" transform="translate(0 5)">
+<path d="M362 284H744Q771 284 758 308L698 418Q686 440 661 440H280Q253 440 266 416L326 306Q338 284 362 284Z"/>
+<path d="M362 284H744Q771 284 758 308L698 418Q686 440 661 440H280Q253 440 266 416L326 306Q338 284 362 284Z" transform="rotate(180 512 512)"/>
+</g>
+<g id="02-parity-dark-symbol">
+<g id="02-parity-dark-shape-body" fill="url(#02-parity-dark-body)">
+<path d="M362 284H744Q771 284 758 308L698 418Q686 440 661 440H280Q253 440 266 416L326 306Q338 284 362 284Z"/>
+</g>
+<g id="02-parity-dark-shape-accent" fill="url(#02-parity-dark-accent)">
+<path d="M362 284H744Q771 284 758 308L698 418Q686 440 661 440H280Q253 440 266 416L326 306Q338 284 362 284Z" transform="rotate(180 512 512)"/>
+</g>
+</g>
+<g id="02-parity-dark-satin-finish" clip-path="url(#02-parity-dark-mark-clip)">
+<rect x="190" y="190" width="644" height="644" rx="0" fill="url(#02-parity-dark-surface-light)"/>
+<rect x="190" y="190" width="644" height="644" rx="0" fill="url(#02-parity-dark-reflection)"/>
+</g>
+<g id="02-parity-dark-edge-definition" fill="none" stroke="url(#02-parity-dark-rim)" stroke-width="1.25" stroke-linejoin="round" opacity="0.46">
+<path d="M362 284H744Q771 284 758 308L698 418Q686 440 661 440H280Q253 440 266 416L326 306Q338 284 362 284Z"/>
+<path d="M362 284H744Q771 284 758 308L698 418Q686 440 661 440H280Q253 440 266 416L326 306Q338 284 362 284Z" transform="rotate(180 512 512)"/>
+</g>
+</svg>

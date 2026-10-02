@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="10-juris-mono-title 10-juris-mono-description">
+<title id="10-juris-mono-title">eCourts — Juris — mono</title>
+<desc id="10-juris-mono-description">Single-colour white foreground on transparency for tinting and silhouette inspection. Original native vector artwork without raster images, fonts or external resources.</desc>
+<defs>
+
+</defs>
+<g id="10-juris-mono-symbol">
+<g id="10-juris-mono-shape-body" fill="#FFFFFF">
+<path d="M485 229V367L382 427Q366 437 366 456V568Q366 587 382 597L485 657V795L263 667Q238 652 238 624V400Q238 372 263 357Z"/>
+</g>
+<g id="10-juris-mono-shape-accent" fill="#FFFFFF">
+<path d="M539 229L761 357Q786 372 786 400V624Q786 652 761 667L539 795V657L642 597Q658 587 658 568V456Q658 437 642 427L539 367Z"/>
+</g>
+</g>
+</svg>

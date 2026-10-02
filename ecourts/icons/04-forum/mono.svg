@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="04-forum-mono-title 04-forum-mono-description">
+<title id="04-forum-mono-title">eCourts — Forum — mono</title>
+<desc id="04-forum-mono-description">Single-colour white foreground on transparency for tinting and silhouette inspection. Original native vector artwork without raster images, fonts or external resources.</desc>
+<defs>
+
+</defs>
+<g id="04-forum-mono-symbol">
+<g id="04-forum-mono-shape-accent" fill="#FFFFFF">
+<path d="M340 230H496Q602 230 602 336V356H476Q376 356 376 456V548H350L278 618Q258 638 258 610V540Q226 510 226 464V344Q226 230 340 230Z"/>
+</g>
+<g id="04-forum-mono-shape-body" fill="#FFFFFF">
+<path d="M530 402H686Q798 402 798 514V626Q798 694 751 723L772 775Q784 804 755 790L648 738H530Q422 738 422 630V510Q422 402 530 402Z"/>
+</g>
+</g>
+</svg>

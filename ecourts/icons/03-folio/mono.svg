@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="03-folio-mono-title 03-folio-mono-description">
+<title id="03-folio-mono-title">eCourts — Folio — mono</title>
+<desc id="03-folio-mono-description">Single-colour white foreground on transparency for tinting and silhouette inspection. Original native vector artwork without raster images, fonts or external resources.</desc>
+<defs>
+
+</defs>
+<g id="03-folio-mono-symbol">
+<g id="03-folio-mono-shape-body" fill="#FFFFFF">
+<path d="M244 300Q244 267 273 280L489 373V758L274 663Q244 650 244 618Z"/>
+</g>
+<g id="03-folio-mono-shape-accent" fill="#FFFFFF">
+<path d="M531 373L747 280Q776 267 776 300V618Q776 650 746 663L531 758Z"/>
+</g>
+</g>
+</svg>

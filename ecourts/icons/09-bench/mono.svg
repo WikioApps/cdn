@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="09-bench-mono-title 09-bench-mono-description">
+<title id="09-bench-mono-title">eCourts — Bench — mono</title>
+<desc id="09-bench-mono-description">Single-colour white foreground on transparency for tinting and silhouette inspection. Original native vector artwork without raster images, fonts or external resources.</desc>
+<defs>
+
+</defs>
+<g id="09-bench-mono-symbol">
+<g id="09-bench-mono-shape-body" fill="#FFFFFF">
+<path d="M254 352L483 218Q512 201 541 218L770 352Q792 365 780 387L740 456L512 324L284 456L244 387Q232 365 254 352Z"/>
+<rect x="282" y="500" width="116" height="256" rx="26"/>
+<rect x="454" y="426" width="116" height="330" rx="26"/>
+<rect x="626" y="500" width="116" height="256" rx="26"/>
+</g>
+</g>
+</svg>
