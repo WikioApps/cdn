@@ -1,0 +1,3 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" android:drawable="@drawable/ic_ecourts_mono">
+  <target android:name="ecourts_motion" android:animation="@animator/ecourts_launch" />
+</animated-vector>

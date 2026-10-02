@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="ecourts-loading-light-title ecourts-loading-light-description">
+  <title id="ecourts-loading-light-title">eCourts loading — light</title>
+  <desc id="ecourts-loading-light-description">Transparent courthouse mark. A continuous 1600 ms gentle loading pulse. Reduced motion shows the complete, still mark.</desc>
+  <defs>
+    <linearGradient id="ecourts-loading-light-body" gradientUnits="userSpaceOnUse" x1="270" y1="260" x2="770" y2="795">
+      <stop offset="0" stop-color="#EF533D" stop-opacity="1" />
+      <stop offset="0.5" stop-color="#EF533D" stop-opacity="1" />
+      <stop offset="1" stop-color="#D43438" stop-opacity="1" />
+    </linearGradient>
+    <linearGradient id="ecourts-loading-light-accent" gradientUnits="userSpaceOnUse" x1="290" y1="240" x2="730" y2="800">
+      <stop offset="0" stop-color="#F4775B" stop-opacity="1" />
+      <stop offset="0.6" stop-color="#F39677" stop-opacity="1" />
+      <stop offset="1" stop-color="#F39677" stop-opacity="1" />
+    </linearGradient>
+    <linearGradient id="ecourts-loading-light-surface-light" gradientUnits="userSpaceOnUse" x1="245" y1="210" x2="782" y2="802">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.16" />
+      <stop offset="0.36" stop-color="#FFFFFF" stop-opacity="0.035" />
+      <stop offset="0.8" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.045" />
+    </linearGradient>
+    <linearGradient id="ecourts-loading-light-rim" gradientUnits="userSpaceOnUse" x1="264" y1="224" x2="774" y2="810">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55" />
+      <stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.06" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.18" />
+    </linearGradient>
+    <linearGradient id="ecourts-loading-light-reflection" gradientUnits="userSpaceOnUse" x1="200" y1="175" x2="860" y2="900">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="0.47" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.13" />
+      <stop offset="0.54" stop-color="#FFFFFF" stop-opacity="0.035" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="ecourts-loading-light-mark-clip">
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" />
+      <rect x="351" y="448" width="66" height="128" rx="13" />
+      <rect x="479" y="448" width="66" height="128" rx="13" />
+      <rect x="607" y="448" width="66" height="128" rx="13" />
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)" />
+    </clipPath>
+    <filter id="ecourts-loading-light-contact" x="-15%" y="-15%" width="130%" height="140%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="3.5" />
+    </filter>
+  </defs>
+  <style>
+#ecourts-loading-light-motion { transform-box: view-box; transform-origin: 512px 512px; }
+@keyframes ecourts-loading-light-pulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(.985); opacity: .84; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  #ecourts-loading-light-motion { animation: ecourts-loading-light-pulse 1600ms cubic-bezier(.42, 0, .58, 1) infinite; }
+}
+@media (prefers-reduced-motion: reduce) {
+  #ecourts-loading-light-motion { animation: none; transform: none; opacity: 1; }
+}
+</style>
+  <g id="ecourts-loading-light-motion">
+    <g id="ecourts-loading-light-contact-shadow" fill="#000714" opacity="0.09" filter="url(#ecourts-loading-light-contact)" transform="translate(0 5)">
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" />
+      <rect x="351" y="448" width="66" height="128" rx="13" />
+      <rect x="479" y="448" width="66" height="128" rx="13" />
+      <rect x="607" y="448" width="66" height="128" rx="13" />
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)" />
+    </g>
+    <g id="ecourts-loading-light-symbol">
+      <g id="ecourts-loading-light-shape-body" fill="url(#ecourts-loading-light-body)">
+        <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" />
+        <rect x="351" y="448" width="66" height="128" rx="13" />
+        <rect x="479" y="448" width="66" height="128" rx="13" />
+        <rect x="607" y="448" width="66" height="128" rx="13" />
+      </g>
+      <g id="ecourts-loading-light-shape-accent" fill="url(#ecourts-loading-light-accent)">
+        <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)" />
+      </g>
+    </g>
+    <g id="ecourts-loading-light-satin-finish" clip-path="url(#ecourts-loading-light-mark-clip)">
+      <rect x="190" y="190" width="644" height="644" rx="0" fill="url(#ecourts-loading-light-surface-light)" />
+      <rect x="190" y="190" width="644" height="644" rx="0" fill="url(#ecourts-loading-light-reflection)" />
+    </g>
+    <g id="ecourts-loading-light-edge-definition" fill="none" stroke="url(#ecourts-loading-light-rim)" stroke-width="1.25" stroke-linejoin="round" opacity="0.46">
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" />
+      <rect x="351" y="448" width="66" height="128" rx="13" />
+      <rect x="479" y="448" width="66" height="128" rx="13" />
+      <rect x="607" y="448" width="66" height="128" rx="13" />
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)" />
+    </g>
+  </g>
+</svg>

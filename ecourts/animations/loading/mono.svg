@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="ecourts-loading-mono-title ecourts-loading-mono-description">
+  <title id="ecourts-loading-mono-title">eCourts loading — mono</title>
+  <desc id="ecourts-loading-mono-description">Transparent courthouse mark. A continuous 1600 ms gentle loading pulse. Reduced motion shows the complete, still mark.</desc>
+  <defs>
+
+</defs>
+  <style>
+#ecourts-loading-mono-motion { transform-box: view-box; transform-origin: 512px 512px; }
+@keyframes ecourts-loading-mono-pulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(.985); opacity: .84; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  #ecourts-loading-mono-motion { animation: ecourts-loading-mono-pulse 1600ms cubic-bezier(.42, 0, .58, 1) infinite; }
+}
+@media (prefers-reduced-motion: reduce) {
+  #ecourts-loading-mono-motion { animation: none; transform: none; opacity: 1; }
+}
+</style>
+  <g id="ecourts-loading-mono-motion">
+    <g id="ecourts-loading-mono-symbol">
+      <g id="ecourts-loading-mono-shape-body" fill="#FFFFFF">
+        <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" />
+        <rect x="351" y="448" width="66" height="128" rx="13" />
+        <rect x="479" y="448" width="66" height="128" rx="13" />
+        <rect x="607" y="448" width="66" height="128" rx="13" />
+      </g>
+      <g id="ecourts-loading-mono-shape-accent" fill="#FFFFFF">
+        <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)" />
+      </g>
+    </g>
+  </g>
+</svg>

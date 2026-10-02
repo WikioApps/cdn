@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:name="ecourts_vector" android:width="432dp" android:height="432dp" android:viewportWidth="1024" android:viewportHeight="1024">
+  <group android:name="ecourts_motion" android:pivotX="512" android:pivotY="512">
+    <path android:pathData="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" android:fillColor="#FFFFFFFF" />
+    <path android:pathData="M364,448H404A13,13 0 0 1 417,461V563A13,13 0 0 1 404,576H364A13,13 0 0 1 351,563V461A13,13 0 0 1 364,448Z" android:fillColor="#FFFFFFFF" />
+    <path android:pathData="M492,448H532A13,13 0 0 1 545,461V563A13,13 0 0 1 532,576H492A13,13 0 0 1 479,563V461A13,13 0 0 1 492,448Z" android:fillColor="#FFFFFFFF" />
+    <path android:pathData="M620,448H660A13,13 0 0 1 673,461V563A13,13 0 0 1 660,576H620A13,13 0 0 1 607,563V461A13,13 0 0 1 620,448Z" android:fillColor="#FFFFFFFF" />
+    <group android:rotation="180" android:pivotX="512" android:pivotY="512">
+      <path android:pathData="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" android:fillColor="#FFFFFFFF" />
+    </group>
+  </group>
+</vector>

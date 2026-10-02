@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="ecourts-launch-light-title ecourts-launch-light-description">
+  <title id="ecourts-launch-light-title">eCourts launch — light</title>
+  <desc id="ecourts-launch-light-description">Transparent courthouse mark. A single 840 ms critically damped settle. Reduced motion shows the complete, still mark.</desc>
+  <defs>
+    <linearGradient id="ecourts-launch-light-body" gradientUnits="userSpaceOnUse" x1="270" y1="260" x2="770" y2="795">
+      <stop offset="0" stop-color="#EF533D" stop-opacity="1" />
+      <stop offset="0.5" stop-color="#EF533D" stop-opacity="1" />
+      <stop offset="1" stop-color="#D43438" stop-opacity="1" />
+    </linearGradient>
+    <linearGradient id="ecourts-launch-light-accent" gradientUnits="userSpaceOnUse" x1="290" y1="240" x2="730" y2="800">
+      <stop offset="0" stop-color="#F4775B" stop-opacity="1" />
+      <stop offset="0.6" stop-color="#F39677" stop-opacity="1" />
+      <stop offset="1" stop-color="#F39677" stop-opacity="1" />
+    </linearGradient>
+    <linearGradient id="ecourts-launch-light-surface-light" gradientUnits="userSpaceOnUse" x1="245" y1="210" x2="782" y2="802">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.16" />
+      <stop offset="0.36" stop-color="#FFFFFF" stop-opacity="0.035" />
+      <stop offset="0.8" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.045" />
+    </linearGradient>
+    <linearGradient id="ecourts-launch-light-rim" gradientUnits="userSpaceOnUse" x1="264" y1="224" x2="774" y2="810">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55" />
+      <stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.06" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.18" />
+    </linearGradient>
+    <linearGradient id="ecourts-launch-light-reflection" gradientUnits="userSpaceOnUse" x1="200" y1="175" x2="860" y2="900">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="0.47" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.13" />
+      <stop offset="0.54" stop-color="#FFFFFF" stop-opacity="0.035" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="ecourts-launch-light-mark-clip">
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" />
+      <rect x="351" y="448" width="66" height="128" rx="13" />
+      <rect x="479" y="448" width="66" height="128" rx="13" />
+      <rect x="607" y="448" width="66" height="128" rx="13" />
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)" />
+    </clipPath>
+    <filter id="ecourts-launch-light-contact" x="-15%" y="-15%" width="130%" height="140%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="3.5" />
+    </filter>
+  </defs>
+  <style>
+#ecourts-launch-light-motion { transform-box: view-box; transform-origin: 512px 512px; }
+@keyframes ecourts-launch-light-settle {
+  0.000000% { transform: translateY(16.000000px) scale(0.94000000); }
+  2.380952% { transform: translateY(15.408992px) scale(0.94221628); }
+  4.761905% { transform: translateY(14.049488px) scale(0.94731442); }
+  7.142857% { transform: translateY(12.359551px) scale(0.95365168); }
+  9.523810% { transform: translateY(10.601789px) scale(0.96024329); }
+  11.904762% { transform: translateY(8.924882px) scale(0.96653169); }
+  14.285714% { transform: translateY(7.404996px) scale(0.97223126); }
+  16.666667% { transform: translateY(6.073384px) scale(0.97722481); }
+  19.047619% { transform: translateY(4.934549px) scale(0.98149544); }
+  21.428571% { transform: translateY(3.978015px) scale(0.98508244); }
+  23.809524% { transform: translateY(3.185785px) scale(0.98805331); }
+  26.190476% { transform: translateY(2.536945px) scale(0.99048646); }
+  28.571429% { transform: translateY(2.010384px) scale(0.99246106); }
+  30.952381% { transform: translateY(1.586305px) scale(0.99405136); }
+  33.333333% { transform: translateY(1.246955px) scale(0.99532392); }
+  35.714286% { transform: translateY(0.976903px) scale(0.99633661); }
+  38.095238% { transform: translateY(0.763022px) scale(0.99713867); }
+  40.476190% { transform: translateY(0.594336px) scale(0.99777124); }
+  42.857143% { transform: translateY(0.461785px) scale(0.99826831); }
+  45.238095% { transform: translateY(0.357970px) scale(0.99865761); }
+  47.619048% { transform: translateY(0.276899px) scale(0.99896163); }
+  50.000000% { transform: translateY(0.213756px) scale(0.99919841); }
+  52.380952% { transform: translateY(0.164695px) scale(0.99938240); }
+  54.761905% { transform: translateY(0.126656px) scale(0.99952504); }
+  57.142857% { transform: translateY(0.097223px) scale(0.99963541); }
+  59.523810% { transform: translateY(0.074489px) scale(0.99972067); }
+  61.904762% { transform: translateY(0.056960px) scale(0.99978640); }
+  64.285714% { transform: translateY(0.043464px) scale(0.99983701); }
+  66.666667% { transform: translateY(0.033088px) scale(0.99987592); }
+  69.047619% { transform: translateY(0.025122px) scale(0.99990579); }
+  71.428571% { transform: translateY(0.019013px) scale(0.99992870); }
+  73.809524% { transform: translateY(0.014334px) scale(0.99994625); }
+  76.190476% { transform: translateY(0.010754px) scale(0.99995967); }
+  78.571429% { transform: translateY(0.008017px) scale(0.99996994); }
+  80.952381% { transform: translateY(0.005927px) scale(0.99997777); }
+  83.333333% { transform: translateY(0.004333px) scale(0.99998375); }
+  85.714286% { transform: translateY(0.003118px) scale(0.99998831); }
+  88.095238% { transform: translateY(0.002192px) scale(0.99999178); }
+  90.476190% { transform: translateY(0.001488px) scale(0.99999442); }
+  92.857143% { transform: translateY(0.000952px) scale(0.99999643); }
+  95.238095% { transform: translateY(0.000544px) scale(0.99999796); }
+  97.619048% { transform: translateY(0.000235px) scale(0.99999912); }
+  100.000000% { transform: translateY(0.000000px) scale(1.00000000); }
+}
+@media (prefers-reduced-motion: no-preference) {
+  #ecourts-launch-light-motion { animation: ecourts-launch-light-settle 840ms linear backwards; }
+}
+@media (prefers-reduced-motion: reduce) {
+  #ecourts-launch-light-motion { animation: none; transform: none; opacity: 1; }
+}
+</style>
+  <g id="ecourts-launch-light-motion">
+    <g id="ecourts-launch-light-contact-shadow" fill="#000714" opacity="0.09" filter="url(#ecourts-launch-light-contact)" transform="translate(0 5)">
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" />
+      <rect x="351" y="448" width="66" height="128" rx="13" />
+      <rect x="479" y="448" width="66" height="128" rx="13" />
+      <rect x="607" y="448" width="66" height="128" rx="13" />
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)" />
+    </g>
+    <g id="ecourts-launch-light-symbol">
+      <g id="ecourts-launch-light-shape-body" fill="url(#ecourts-launch-light-body)">
+        <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" />
+        <rect x="351" y="448" width="66" height="128" rx="13" />
+        <rect x="479" y="448" width="66" height="128" rx="13" />
+        <rect x="607" y="448" width="66" height="128" rx="13" />
+      </g>
+      <g id="ecourts-launch-light-shape-accent" fill="url(#ecourts-launch-light-accent)">
+        <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)" />
+      </g>
+    </g>
+    <g id="ecourts-launch-light-satin-finish" clip-path="url(#ecourts-launch-light-mark-clip)">
+      <rect x="190" y="190" width="644" height="644" rx="0" fill="url(#ecourts-launch-light-surface-light)" />
+      <rect x="190" y="190" width="644" height="644" rx="0" fill="url(#ecourts-launch-light-reflection)" />
+    </g>
+    <g id="ecourts-launch-light-edge-definition" fill="none" stroke="url(#ecourts-launch-light-rim)" stroke-width="1.25" stroke-linejoin="round" opacity="0.46">
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" />
+      <rect x="351" y="448" width="66" height="128" rx="13" />
+      <rect x="479" y="448" width="66" height="128" rx="13" />
+      <rect x="607" y="448" width="66" height="128" rx="13" />
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)" />
+    </g>
+  </g>
+</svg>

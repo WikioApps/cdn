@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "name": "eCourts",
+  "viewBox": [
+    0,
+    0,
+    1024,
+    1024
+  ],
+  "icons": {
+    "light": "icons/app/light.svg",
+    "dark": "icons/app/dark.svg",
+    "mono": "icons/app/mono.svg"
+  },
+  "animations": {
+    "launch": {
+      "svg": {
+        "light": "animations/launch/light.svg",
+        "dark": "animations/launch/dark.svg",
+        "mono": "animations/launch/mono.svg"
+      },
+      "durationMs": 840,
+      "repeat": false,
+      "background": "transparent",
+      "scale": [
+        0.94,
+        1
+      ],
+      "translationY": [
+        16,
+        0
+      ],
+      "spring": {
+        "mass": 1,
+        "stiffness": 225,
+        "damping": 30,
+        "initialVelocity": 0
+      },
+      "playback": "Play once on a cold or warm start. End as soon as the app is ready; do not wait for the animation."
+    },
+    "loading": {
+      "svg": {
+        "light": "animations/loading/light.svg",
+        "dark": "animations/loading/dark.svg",
+        "mono": "animations/loading/mono.svg"
+      },
+      "durationMs": 1600,
+      "repeat": true,
+      "background": "transparent",
+      "scale": [
+        1,
+        0.985,
+        1
+      ],
+      "opacity": [
+        1,
+        0.84,
+        1
+      ],
+      "playback": "Use only while work is pending. Stop when complete and while the view is hidden or the app is in the background. This is not percentage progress."
+    }
+  },
+  "android": {
+    "resourceDirectory": "android/res",
+    "minSdk": 24,
+    "launcherIcon": "@mipmap/ic_ecourts",
+    "adaptiveIconMinSdk": 26,
+    "themedIconMinSdk": 33,
+    "foreground": "@drawable/ic_ecourts",
+    "monochrome": "@drawable/ic_ecourts_mono",
+    "launch": "@drawable/avd_ecourts_launch",
+    "launchMonochrome": "@drawable/avd_ecourts_launch_mono",
+    "loading": "@drawable/avd_ecourts_loading",
+    "loadingMonochrome": "@drawable/avd_ecourts_loading_mono",
+    "splashBackground": "@color/ecourts_splash_background",
+    "themeSelection": "values and values-night choose light and dark colours automatically.",
+    "artwork": "Same mark and gradient stops; SVG contact blur is omitted because VectorDrawable does not support blur filters.",
+    "integration": "Copy res into the app module. Assign the launch drawable and background to the splash theme. Use the platform SplashScreen API on Android 12+ or AndroidX core-splashscreen. Start and stop loading with the visible screen lifecycle."
+  },
+  "accessibility": {
+    "svg": "Animations run only when prefers-reduced-motion is no-preference. The fallback is the complete static mark.",
+    "android": "Check the system animation setting before starting in-app animations. When animations are disabled, or the app requests reduced motion, display ic_ecourts or ic_ecourts_mono without starting an animator.",
+    "mono": "White foreground on transparency. Tint natively or place on a contrasting dark surface.",
+    "loadingLabel": "Supply a localised loading label in the host UI."
+  }
+}

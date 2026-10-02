@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="ecourts-app-icon-dark-title ecourts-app-icon-dark-description">
+<title id="ecourts-app-icon-dark-title">eCourts app icon — dark</title>
+<desc id="ecourts-app-icon-dark-description">Full-bleed dark app icon. Two diagonal equality bands frame three courthouse pillars. Independently editable silhouette, colour and surface layers. Original native vector artwork without raster images, fonts or external resources.</desc>
+<defs>
+<linearGradient id="ecourts-app-icon-dark-tile" gradientUnits="userSpaceOnUse" x1="170" y1="0" x2="860" y2="1024"><stop offset="0" stop-color="#261717" stop-opacity="1"/><stop offset="1" stop-color="#100F14" stop-opacity="1"/></linearGradient>
+<linearGradient id="ecourts-app-icon-dark-body" gradientUnits="userSpaceOnUse" x1="270" y1="260" x2="770" y2="795"><stop offset="0" stop-color="#FFAC8A" stop-opacity="1"/><stop offset="0.5" stop-color="#FFAC8A" stop-opacity="1"/><stop offset="1" stop-color="#F05A48" stop-opacity="1"/></linearGradient>
+<linearGradient id="ecourts-app-icon-dark-accent" gradientUnits="userSpaceOnUse" x1="290" y1="240" x2="730" y2="800"><stop offset="0" stop-color="#FFD1A6" stop-opacity="1"/><stop offset="0.6" stop-color="#FFA17B" stop-opacity="1"/><stop offset="1" stop-color="#FFA17B" stop-opacity="1"/></linearGradient>
+<linearGradient id="ecourts-app-icon-dark-surface-light" gradientUnits="userSpaceOnUse" x1="245" y1="210" x2="782" y2="802"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.16"/><stop offset="0.36" stop-color="#FFFFFF" stop-opacity="0.035"/><stop offset="0.8" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.045"/></linearGradient>
+<linearGradient id="ecourts-app-icon-dark-rim" gradientUnits="userSpaceOnUse" x1="264" y1="224" x2="774" y2="810"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/><stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.06"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.18"/></linearGradient>
+<linearGradient id="ecourts-app-icon-dark-reflection" gradientUnits="userSpaceOnUse" x1="200" y1="175" x2="860" y2="900"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.47" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.13"/><stop offset="0.54" stop-color="#FFFFFF" stop-opacity="0.035"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+<clipPath id="ecourts-app-icon-dark-mark-clip"><path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z"/><rect x="351" y="448" width="66" height="128" rx="13"/><rect x="479" y="448" width="66" height="128" rx="13"/><rect x="607" y="448" width="66" height="128" rx="13"/><path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)"/></clipPath>
+<filter id="ecourts-app-icon-dark-contact" x="-15%" y="-15%" width="130%" height="140%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="3.5"/></filter>
+</defs>
+<g id="ecourts-app-icon-dark-background">
+<rect x="0" y="0" width="1024" height="1024" rx="0" fill="url(#ecourts-app-icon-dark-tile)"/>
+</g>
+<g id="ecourts-app-icon-dark-contact-shadow" fill="#000714" opacity="0.2" filter="url(#ecourts-app-icon-dark-contact)" transform="translate(0 5)">
+<path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z"/>
+<rect x="351" y="448" width="66" height="128" rx="13"/>
+<rect x="479" y="448" width="66" height="128" rx="13"/>
+<rect x="607" y="448" width="66" height="128" rx="13"/>
+<path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)"/>
+</g>
+<g id="ecourts-app-icon-dark-symbol">
+<g id="ecourts-app-icon-dark-shape-body" fill="url(#ecourts-app-icon-dark-body)">
+<path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z"/>
+<rect x="351" y="448" width="66" height="128" rx="13"/>
+<rect x="479" y="448" width="66" height="128" rx="13"/>
+<rect x="607" y="448" width="66" height="128" rx="13"/>
+</g>
+<g id="ecourts-app-icon-dark-shape-accent" fill="url(#ecourts-app-icon-dark-accent)">
+<path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)"/>
+</g>
+</g>
+<g id="ecourts-app-icon-dark-satin-finish" clip-path="url(#ecourts-app-icon-dark-mark-clip)">
+<rect x="190" y="190" width="644" height="644" rx="0" fill="url(#ecourts-app-icon-dark-surface-light)"/>
+<rect x="190" y="190" width="644" height="644" rx="0" fill="url(#ecourts-app-icon-dark-reflection)"/>
+</g>
+<g id="ecourts-app-icon-dark-edge-definition" fill="none" stroke="url(#ecourts-app-icon-dark-rim)" stroke-width="1.25" stroke-linejoin="round" opacity="0.46">
+<path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z"/>
+<rect x="351" y="448" width="66" height="128" rx="13"/>
+<rect x="479" y="448" width="66" height="128" rx="13"/>
+<rect x="607" y="448" width="66" height="128" rx="13"/>
+<path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)"/>
+</g>
+</svg>

@@ -1,0 +1,23 @@
+<resources>
+  <color name="ecourts_tile_0">#FF261717</color>
+  <color name="ecourts_tile_1">#FF100F14</color>
+  <color name="ecourts_body_0">#FFFFAC8A</color>
+  <color name="ecourts_body_1">#FFFFAC8A</color>
+  <color name="ecourts_body_2">#FFF05A48</color>
+  <color name="ecourts_accent_0">#FFFFD1A6</color>
+  <color name="ecourts_accent_1">#FFFFA17B</color>
+  <color name="ecourts_accent_2">#FFFFA17B</color>
+  <color name="ecourts_surface_light_0">#29FFFFFF</color>
+  <color name="ecourts_surface_light_1">#09FFFFFF</color>
+  <color name="ecourts_surface_light_2">#00FFFFFF</color>
+  <color name="ecourts_surface_light_3">#0BFFFFFF</color>
+  <color name="ecourts_rim_0">#8CFFFFFF</color>
+  <color name="ecourts_rim_1">#0FFFFFFF</color>
+  <color name="ecourts_rim_2">#2EFFFFFF</color>
+  <color name="ecourts_reflection_0">#00FFFFFF</color>
+  <color name="ecourts_reflection_1">#00FFFFFF</color>
+  <color name="ecourts_reflection_2">#21FFFFFF</color>
+  <color name="ecourts_reflection_3">#09FFFFFF</color>
+  <color name="ecourts_reflection_4">#00FFFFFF</color>
+  <color name="ecourts_splash_background">#100F14</color>
+</resources>
