@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "name": "eCourts",
   "viewBox": [
     0,
@@ -19,24 +19,41 @@
         "dark": "animations/launch/dark.svg",
         "mono": "animations/launch/mono.svg"
       },
-      "durationMs": 840,
+      "durationMs": 980,
       "repeat": false,
       "background": "transparent",
-      "scale": [
-        0.94,
-        1
+      "playback": "Play once on a cold or warm start. End as soon as the app is ready; do not wait for the animation.",
+      "parts": [
+        "roof",
+        "pillar_left",
+        "pillar_center",
+        "pillar_right",
+        "base"
       ],
-      "translationY": [
-        16,
-        0
-      ],
-      "spring": {
-        "mass": 1,
-        "stiffness": 225,
-        "damping": 30,
-        "initialVelocity": 0
+      "description": "The base enters, pillars rise left to right, then the roof locks into place.",
+      "timingMs": {
+        "base": {
+          "start": 0,
+          "duration": 480
+        },
+        "pillar_left": {
+          "start": 120,
+          "duration": 540
+        },
+        "pillar_center": {
+          "start": 200,
+          "duration": 540
+        },
+        "pillar_right": {
+          "start": 280,
+          "duration": 540
+        },
+        "roof": {
+          "start": 400,
+          "duration": 580
+        }
       },
-      "playback": "Play once on a cold or warm start. End as soon as the app is ready; do not wait for the animation."
+      "motionModel": "Sampled damped springs"
     },
     "loading": {
       "svg": {
@@ -44,20 +61,20 @@
         "dark": "animations/loading/dark.svg",
         "mono": "animations/loading/mono.svg"
       },
-      "durationMs": 1600,
+      "durationMs": 1440,
       "repeat": true,
       "background": "transparent",
-      "scale": [
-        1,
-        0.985,
-        1
+      "playback": "Use only while work is pending. Stop when complete and while the view is hidden or the app is in the background. This is not percentage progress.",
+      "parts": [
+        "pillar_left",
+        "pillar_center",
+        "pillar_right"
       ],
-      "opacity": [
-        1,
-        0.84,
-        1
-      ],
-      "playback": "Use only while work is pending. Stop when complete and while the view is hidden or the app is in the background. This is not percentage progress."
+      "description": "Each pillar compresses, lifts, rocks and settles in a travelling wave. The roof and base remain fixed.",
+      "staggerMs": 140,
+      "liftViewBoxUnits": 18,
+      "maximumRotationDegrees": 6,
+      "motionModel": "Anticipation, parabolic flight and damped landing"
     }
   },
   "android": {
@@ -75,7 +92,7 @@
     "splashBackground": "@color/ecourts_splash_background",
     "themeSelection": "values and values-night choose light and dark colours automatically.",
     "artwork": "Same mark and gradient stops; SVG contact blur is omitted because VectorDrawable does not support blur filters.",
-    "integration": "Copy res into the app module. Assign the launch drawable and background to the splash theme. Use the platform SplashScreen API on Android 12+ or AndroidX core-splashscreen. Start and stop loading with the visible screen lifecycle."
+    "integration": "Copy res into the app module. Assign the launch AVD and background to the splash theme. Use the platform SplashScreen API on Android 12+ or AndroidX core-splashscreen. Load the static ic_ecourts drawable when animations are disabled. Reuse each loading drawable instance only for one visible view and stop it when the view leaves the screen."
   },
   "accessibility": {
     "svg": "Animations run only when prefers-reduced-motion is no-preference. The fallback is the complete static mark.",

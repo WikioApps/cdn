@@ -1,0 +1,24 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android" android:ordering="together">
+  <objectAnimator android:duration="980" android:interpolator="@android:interpolator/linear">
+    <propertyValuesHolder android:propertyName="fillAlpha" android:valueType="floatType">
+      <keyframe android:fraction="0.000000000" android:value="0.0000000" />
+      <keyframe android:fraction="0.020408163" android:value="0.1040000" />
+      <keyframe android:fraction="0.040816327" android:value="0.3520000" />
+      <keyframe android:fraction="0.061224490" android:value="0.6480000" />
+      <keyframe android:fraction="0.081632653" android:value="0.8960000" />
+      <keyframe android:fraction="0.102040816" android:value="1.0000000" />
+      <keyframe android:fraction="1.000000000" android:value="1.0000000" />
+    </propertyValuesHolder>
+  </objectAnimator>
+  <objectAnimator android:duration="980" android:interpolator="@android:interpolator/linear">
+    <propertyValuesHolder android:propertyName="strokeAlpha" android:valueType="floatType">
+      <keyframe android:fraction="0.000000000" android:value="0.0000000" />
+      <keyframe android:fraction="0.020408163" android:value="0.0478400" />
+      <keyframe android:fraction="0.040816327" android:value="0.1619200" />
+      <keyframe android:fraction="0.061224490" android:value="0.2980800" />
+      <keyframe android:fraction="0.081632653" android:value="0.4121600" />
+      <keyframe android:fraction="0.102040816" android:value="0.4600000" />
+      <keyframe android:fraction="1.000000000" android:value="0.4600000" />
+    </propertyValuesHolder>
+  </objectAnimator>
+</set>

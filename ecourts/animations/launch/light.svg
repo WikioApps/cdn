@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="ecourts-launch-light-title ecourts-launch-light-description">
   <title id="ecourts-launch-light-title">eCourts launch — light</title>
-  <desc id="ecourts-launch-light-description">Transparent courthouse mark. A single 840 ms critically damped settle. Reduced motion shows the complete, still mark.</desc>
+  <desc id="ecourts-launch-light-description">The base enters, the three pillars rise in sequence, and the roof settles into place. Reduced motion shows the complete, still logo.</desc>
   <defs>
     <linearGradient id="ecourts-launch-light-body" gradientUnits="userSpaceOnUse" x1="270" y1="260" x2="770" y2="795">
       <stop offset="0" stop-color="#EF533D" stop-opacity="1" />
@@ -30,100 +30,361 @@
       <stop offset="0.54" stop-color="#FFFFFF" stop-opacity="0.035" />
       <stop offset="1" stop-color="#FFFFFF" stop-opacity="0" />
     </linearGradient>
-    <clipPath id="ecourts-launch-light-mark-clip">
-      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" />
-      <rect x="351" y="448" width="66" height="128" rx="13" />
-      <rect x="479" y="448" width="66" height="128" rx="13" />
-      <rect x="607" y="448" width="66" height="128" rx="13" />
-      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)" />
-    </clipPath>
     <filter id="ecourts-launch-light-contact" x="-15%" y="-15%" width="130%" height="140%" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation="3.5" />
     </filter>
+    <clipPath id="ecourts-launch-light-pillar_left-clip">
+      <rect x="351" y="448" width="66" height="128" rx="13" />
+    </clipPath>
+    <clipPath id="ecourts-launch-light-pillar_center-clip">
+      <rect x="479" y="448" width="66" height="128" rx="13" />
+    </clipPath>
+    <clipPath id="ecourts-launch-light-pillar_right-clip">
+      <rect x="607" y="448" width="66" height="128" rx="13" />
+    </clipPath>
+    <clipPath id="ecourts-launch-light-base-clip">
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)" />
+    </clipPath>
+    <clipPath id="ecourts-launch-light-roof-clip">
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" />
+    </clipPath>
   </defs>
   <style>
-#ecourts-launch-light-motion { transform-box: view-box; transform-origin: 512px 512px; }
-@keyframes ecourts-launch-light-settle {
-  0.000000% { transform: translateY(16.000000px) scale(0.94000000); }
-  2.380952% { transform: translateY(15.408992px) scale(0.94221628); }
-  4.761905% { transform: translateY(14.049488px) scale(0.94731442); }
-  7.142857% { transform: translateY(12.359551px) scale(0.95365168); }
-  9.523810% { transform: translateY(10.601789px) scale(0.96024329); }
-  11.904762% { transform: translateY(8.924882px) scale(0.96653169); }
-  14.285714% { transform: translateY(7.404996px) scale(0.97223126); }
-  16.666667% { transform: translateY(6.073384px) scale(0.97722481); }
-  19.047619% { transform: translateY(4.934549px) scale(0.98149544); }
-  21.428571% { transform: translateY(3.978015px) scale(0.98508244); }
-  23.809524% { transform: translateY(3.185785px) scale(0.98805331); }
-  26.190476% { transform: translateY(2.536945px) scale(0.99048646); }
-  28.571429% { transform: translateY(2.010384px) scale(0.99246106); }
-  30.952381% { transform: translateY(1.586305px) scale(0.99405136); }
-  33.333333% { transform: translateY(1.246955px) scale(0.99532392); }
-  35.714286% { transform: translateY(0.976903px) scale(0.99633661); }
-  38.095238% { transform: translateY(0.763022px) scale(0.99713867); }
-  40.476190% { transform: translateY(0.594336px) scale(0.99777124); }
-  42.857143% { transform: translateY(0.461785px) scale(0.99826831); }
-  45.238095% { transform: translateY(0.357970px) scale(0.99865761); }
-  47.619048% { transform: translateY(0.276899px) scale(0.99896163); }
-  50.000000% { transform: translateY(0.213756px) scale(0.99919841); }
-  52.380952% { transform: translateY(0.164695px) scale(0.99938240); }
-  54.761905% { transform: translateY(0.126656px) scale(0.99952504); }
-  57.142857% { transform: translateY(0.097223px) scale(0.99963541); }
-  59.523810% { transform: translateY(0.074489px) scale(0.99972067); }
-  61.904762% { transform: translateY(0.056960px) scale(0.99978640); }
-  64.285714% { transform: translateY(0.043464px) scale(0.99983701); }
-  66.666667% { transform: translateY(0.033088px) scale(0.99987592); }
-  69.047619% { transform: translateY(0.025122px) scale(0.99990579); }
-  71.428571% { transform: translateY(0.019013px) scale(0.99992870); }
-  73.809524% { transform: translateY(0.014334px) scale(0.99994625); }
-  76.190476% { transform: translateY(0.010754px) scale(0.99995967); }
-  78.571429% { transform: translateY(0.008017px) scale(0.99996994); }
-  80.952381% { transform: translateY(0.005927px) scale(0.99997777); }
-  83.333333% { transform: translateY(0.004333px) scale(0.99998375); }
-  85.714286% { transform: translateY(0.003118px) scale(0.99998831); }
-  88.095238% { transform: translateY(0.002192px) scale(0.99999178); }
-  90.476190% { transform: translateY(0.001488px) scale(0.99999442); }
-  92.857143% { transform: translateY(0.000952px) scale(0.99999643); }
-  95.238095% { transform: translateY(0.000544px) scale(0.99999796); }
-  97.619048% { transform: translateY(0.000235px) scale(0.99999912); }
-  100.000000% { transform: translateY(0.000000px) scale(1.00000000); }
+#ecourts-launch-light-roof { transform-box: view-box; transform-origin: 512px 350px; }
+#ecourts-launch-light-pillar_left { transform-box: view-box; transform-origin: 384px 576px; }
+#ecourts-launch-light-pillar_center { transform-box: view-box; transform-origin: 512px 576px; }
+#ecourts-launch-light-pillar_right { transform-box: view-box; transform-origin: 640px 576px; }
+#ecourts-launch-light-base { transform-box: view-box; transform-origin: 512px 674px; }
+@keyframes ecourts-launch-light-roof-keyframes {
+  0.0000000% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  2.0408163% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  4.0816327% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  6.1224490% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  8.1632653% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  10.2040816% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  12.2448980% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  14.2857143% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  16.3265306% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  18.3673469% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  20.4081633% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  22.4489796% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  24.4897959% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  26.5306122% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  28.5714286% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  30.6122449% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  32.6530612% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  34.6938776% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  36.7346939% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  38.7755102% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  40.8163265% { transform: translate(32.00000px, -36.00000px) rotate(10.00000deg) scale(0.7500000, 0.7500000); opacity: 0.0000000; }
+  42.8571429% { transform: translate(30.19808px, -33.97284px) rotate(9.43690deg) scale(0.7640775, 0.7640775); opacity: 0.1040000; }
+  44.8979592% { transform: translate(26.05794px, -29.31518px) rotate(8.14311deg) scale(0.7964223, 0.7964223); opacity: 0.3520000; }
+  46.9387755% { transform: translate(21.00849px, -23.63455px) rotate(6.56515deg) scale(0.8358712, 0.8358712); opacity: 0.6480000; }
+  48.9795918% { transform: translate(15.95955px, -17.95450px) rotate(4.98736deg) scale(0.8753160, 0.8753160); opacity: 0.8960000; }
+  51.0204082% { transform: translate(11.43078px, -12.85963px) rotate(3.57212deg) scale(0.9106970, 0.9106970); opacity: 1.0000000; }
+  53.0612245% { transform: translate(7.66544px, -8.62362px) rotate(2.39545deg) scale(0.9401138, 0.9401138); opacity: 1.0000000; }
+  55.1020408% { transform: translate(4.72388px, -5.31436px) rotate(1.47621deg) scale(0.9630947, 0.9630947); opacity: 1.0000000; }
+  57.1428571% { transform: translate(2.55575px, -2.87522px) rotate(0.79867deg) scale(0.9800332, 0.9800332); opacity: 1.0000000; }
+  59.1836735% { transform: translate(1.05266px, -1.18424px) rotate(0.32896deg) scale(0.9917761, 0.9917761); opacity: 1.0000000; }
+  61.2244898% { transform: translate(0.08421px, -0.09474px) rotate(0.02632deg) scale(0.9993421, 0.9993421); opacity: 1.0000000; }
+  63.2653061% { transform: translate(-0.47913px, 0.53902px) rotate(-0.14973deg) scale(1.0037432, 1.0037432); opacity: 1.0000000; }
+  65.3061224% { transform: translate(-0.75306px, 0.84719px) rotate(-0.23533deg) scale(1.0058833, 1.0058833); opacity: 1.0000000; }
+  67.3469388% { transform: translate(-0.83347px, 0.93766px) rotate(-0.26046deg) scale(1.0065115, 1.0065115); opacity: 1.0000000; }
+  69.3877551% { transform: translate(-0.79507px, 0.89445px) rotate(-0.24846deg) scale(1.0062115, 1.0062115); opacity: 1.0000000; }
+  71.4285714% { transform: translate(-0.69275px, 0.77934px) rotate(-0.21648deg) scale(1.0054121, 1.0054121); opacity: 1.0000000; }
+  73.4693878% { transform: translate(-0.56445px, 0.63501px) rotate(-0.17639deg) scale(1.0044098, 1.0044098); opacity: 1.0000000; }
+  75.5102041% { transform: translate(-0.43453px, 0.48885px) rotate(-0.13579deg) scale(1.0033948, 1.0033948); opacity: 1.0000000; }
+  77.5510204% { transform: translate(-0.31706px, 0.35669px) rotate(-0.09908deg) scale(1.0024770, 1.0024770); opacity: 1.0000000; }
+  79.5918367% { transform: translate(-0.21879px, 0.24614px) rotate(-0.06837deg) scale(1.0017093, 1.0017093); opacity: 1.0000000; }
+  81.6326531% { transform: translate(-0.14161px, 0.15931px) rotate(-0.04425deg) scale(1.0011064, 1.0011064); opacity: 1.0000000; }
+  83.6734694% { transform: translate(-0.08443px, 0.09498px) rotate(-0.02638deg) scale(1.0006596, 1.0006596); opacity: 1.0000000; }
+  85.7142857% { transform: translate(-0.04455px, 0.05012px) rotate(-0.01392deg) scale(1.0003481, 1.0003481); opacity: 1.0000000; }
+  87.7551020% { transform: translate(-0.01867px, 0.02100px) rotate(-0.00583deg) scale(1.0001458, 1.0001458); opacity: 1.0000000; }
+  89.7959184% { transform: translate(-0.00344px, 0.00387px) rotate(-0.00108deg) scale(1.0000269, 1.0000269); opacity: 1.0000000; }
+  91.8367347% { transform: translate(0.00413px, -0.00464px) rotate(0.00129deg) scale(0.9999677, 0.9999677); opacity: 1.0000000; }
+  93.8775510% { transform: translate(0.00655px, -0.00736px) rotate(0.00205deg) scale(0.9999489, 0.9999489); opacity: 1.0000000; }
+  95.9183673% { transform: translate(0.00577px, -0.00649px) rotate(0.00180deg) scale(0.9999549, 0.9999549); opacity: 1.0000000; }
+  97.9591837% { transform: translate(0.00325px, -0.00366px) rotate(0.00102deg) scale(0.9999746, 0.9999746); opacity: 1.0000000; }
+  100.0000000% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+}
+@keyframes ecourts-launch-light-pillar_left-keyframes {
+  0.0000000% { transform: translate(0.00000px, 64.00000px) rotate(-9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  2.0408163% { transform: translate(0.00000px, 64.00000px) rotate(-9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  4.0816327% { transform: translate(0.00000px, 64.00000px) rotate(-9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  6.1224490% { transform: translate(0.00000px, 64.00000px) rotate(-9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  8.1632653% { transform: translate(0.00000px, 64.00000px) rotate(-9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  10.2040816% { transform: translate(0.00000px, 64.00000px) rotate(-9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  12.2448980% { transform: translate(0.00000px, 64.00000px) rotate(-9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  14.2857143% { transform: translate(0.00000px, 60.92804px) rotate(-8.56801deg) scale(0.8667199, 0.1241594); opacity: 0.1040000; }
+  16.3265306% { transform: translate(0.00000px, 53.55564px) rotate(-7.53126deg) scale(0.8828470, 0.2301376); opacity: 0.3520000; }
+  18.3673469% { transform: translate(0.00000px, 44.12417px) rotate(-6.20496deg) scale(0.9034784, 0.3657150); opacity: 0.6480000; }
+  20.4081633% { transform: translate(0.00000px, 34.23170px) rotate(-4.81383deg) scale(0.9251182, 0.5079193); opacity: 0.8960000; }
+  22.4489796% { transform: translate(0.00000px, 24.92807px) rotate(-3.50551deg) scale(0.9454698, 0.6416590); opacity: 1.0000000; }
+  24.4897959% { transform: translate(0.00000px, 16.82365px) rotate(-2.36583deg) scale(0.9631983, 0.7581600); opacity: 1.0000000; }
+  26.5306122% { transform: translate(0.00000px, 10.19710px) rotate(-1.43397deg) scale(0.9776938, 0.8534166); opacity: 1.0000000; }
+  28.5714286% { transform: translate(0.00000px, 5.09289px) rotate(-0.71619deg) scale(0.9888593, 0.9267896); opacity: 1.0000000; }
+  30.6122449% { transform: translate(0.00000px, 1.40369px) rotate(-0.19739deg) scale(0.9969294, 0.9798219); opacity: 1.0000000; }
+  32.6530612% { transform: translate(-0.00000px, -1.06411px) rotate(0.14964deg) scale(1.0023277, 1.0152965); opacity: 1.0000000; }
+  34.6938776% { transform: translate(-0.00000px, -2.54137px) rotate(0.35738deg) scale(1.0055592, 1.0365321); opacity: 1.0000000; }
+  36.7346939% { transform: translate(-0.00000px, -3.26192px) rotate(0.45871deg) scale(1.0071355, 1.0468901); opacity: 1.0000000; }
+  38.7755102% { transform: translate(-0.00000px, -3.44069px) rotate(0.48385deg) scale(1.0075265, 1.0494600); opacity: 1.0000000; }
+  40.8163265% { transform: translate(-0.00000px, -3.26155px) rotate(0.45866deg) scale(1.0071346, 1.0468847); opacity: 1.0000000; }
+  42.8571429% { transform: translate(-0.00000px, -2.87239px) rotate(0.40393deg) scale(1.0062833, 1.0412905); opacity: 1.0000000; }
+  44.8979592% { transform: translate(-0.00000px, -2.38526px) rotate(0.33543deg) scale(1.0052178, 1.0342881); opacity: 1.0000000; }
+  46.9387755% { transform: translate(-0.00000px, -1.87961px) rotate(0.26432deg) scale(1.0041117, 1.0270194); opacity: 1.0000000; }
+  48.9795918% { transform: translate(-0.00000px, -1.40725px) rotate(0.19789deg) scale(1.0030784, 1.0202292); opacity: 1.0000000; }
+  51.0204082% { transform: translate(-0.00000px, -0.99791px) rotate(0.14033deg) scale(1.0021829, 1.0143450); opacity: 1.0000000; }
+  53.0612245% { transform: translate(-0.00000px, -0.66477px) rotate(0.09348deg) scale(1.0014542, 1.0095561); opacity: 1.0000000; }
+  55.1020408% { transform: translate(-0.00000px, -0.40936px) rotate(0.05757deg) scale(1.0008955, 1.0058845); opacity: 1.0000000; }
+  57.1428571% { transform: translate(-0.00000px, -0.22573px) rotate(0.03174deg) scale(1.0004938, 1.0032449); opacity: 1.0000000; }
+  59.1836735% { transform: translate(-0.00000px, -0.10375px) rotate(0.01459deg) scale(1.0002270, 1.0014915); opacity: 1.0000000; }
+  61.2244898% { transform: translate(-0.00000px, -0.03155px) rotate(0.00444deg) scale(1.0000690, 1.0004535); opacity: 1.0000000; }
+  63.2653061% { transform: translate(0.00000px, 0.00282px) rotate(-0.00040deg) scale(0.9999938, 0.9999594); opacity: 1.0000000; }
+  65.3061224% { transform: translate(0.00000px, 0.01025px) rotate(-0.00144deg) scale(0.9999776, 0.9998527); opacity: 1.0000000; }
+  67.3469388% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  69.3877551% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  71.4285714% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  73.4693878% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  75.5102041% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  77.5510204% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  79.5918367% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  81.6326531% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  83.6734694% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  85.7142857% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  87.7551020% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  89.7959184% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  91.8367347% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  93.8775510% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  95.9183673% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  97.9591837% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  100.0000000% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+}
+@keyframes ecourts-launch-light-pillar_center-keyframes {
+  0.0000000% { transform: translate(0.00000px, 64.00000px) rotate(0.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  2.0408163% { transform: translate(0.00000px, 64.00000px) rotate(0.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  4.0816327% { transform: translate(0.00000px, 64.00000px) rotate(0.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  6.1224490% { transform: translate(0.00000px, 64.00000px) rotate(0.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  8.1632653% { transform: translate(0.00000px, 64.00000px) rotate(0.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  10.2040816% { transform: translate(0.00000px, 64.00000px) rotate(0.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  12.2448980% { transform: translate(0.00000px, 64.00000px) rotate(0.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  14.2857143% { transform: translate(0.00000px, 64.00000px) rotate(0.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  16.3265306% { transform: translate(0.00000px, 64.00000px) rotate(0.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  18.3673469% { transform: translate(0.00000px, 64.00000px) rotate(0.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  20.4081633% { transform: translate(0.00000px, 64.00000px) rotate(0.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  22.4489796% { transform: translate(0.00000px, 60.92804px) rotate(0.00000deg) scale(0.8667199, 0.1241594); opacity: 0.1040000; }
+  24.4897959% { transform: translate(0.00000px, 53.55564px) rotate(0.00000deg) scale(0.8828470, 0.2301376); opacity: 0.3520000; }
+  26.5306122% { transform: translate(0.00000px, 44.12417px) rotate(0.00000deg) scale(0.9034784, 0.3657150); opacity: 0.6480000; }
+  28.5714286% { transform: translate(0.00000px, 34.23170px) rotate(0.00000deg) scale(0.9251182, 0.5079193); opacity: 0.8960000; }
+  30.6122449% { transform: translate(0.00000px, 24.92807px) rotate(0.00000deg) scale(0.9454698, 0.6416590); opacity: 1.0000000; }
+  32.6530612% { transform: translate(0.00000px, 16.82365px) rotate(0.00000deg) scale(0.9631983, 0.7581600); opacity: 1.0000000; }
+  34.6938776% { transform: translate(0.00000px, 10.19710px) rotate(0.00000deg) scale(0.9776938, 0.8534166); opacity: 1.0000000; }
+  36.7346939% { transform: translate(0.00000px, 5.09289px) rotate(0.00000deg) scale(0.9888593, 0.9267896); opacity: 1.0000000; }
+  38.7755102% { transform: translate(0.00000px, 1.40369px) rotate(0.00000deg) scale(0.9969294, 0.9798219); opacity: 1.0000000; }
+  40.8163265% { transform: translate(-0.00000px, -1.06411px) rotate(-0.00000deg) scale(1.0023277, 1.0152965); opacity: 1.0000000; }
+  42.8571429% { transform: translate(-0.00000px, -2.54137px) rotate(-0.00000deg) scale(1.0055592, 1.0365321); opacity: 1.0000000; }
+  44.8979592% { transform: translate(-0.00000px, -3.26192px) rotate(-0.00000deg) scale(1.0071355, 1.0468901); opacity: 1.0000000; }
+  46.9387755% { transform: translate(-0.00000px, -3.44069px) rotate(-0.00000deg) scale(1.0075265, 1.0494600); opacity: 1.0000000; }
+  48.9795918% { transform: translate(-0.00000px, -3.26155px) rotate(-0.00000deg) scale(1.0071346, 1.0468847); opacity: 1.0000000; }
+  51.0204082% { transform: translate(-0.00000px, -2.87239px) rotate(-0.00000deg) scale(1.0062833, 1.0412905); opacity: 1.0000000; }
+  53.0612245% { transform: translate(-0.00000px, -2.38526px) rotate(-0.00000deg) scale(1.0052178, 1.0342881); opacity: 1.0000000; }
+  55.1020408% { transform: translate(-0.00000px, -1.87961px) rotate(-0.00000deg) scale(1.0041117, 1.0270194); opacity: 1.0000000; }
+  57.1428571% { transform: translate(-0.00000px, -1.40725px) rotate(-0.00000deg) scale(1.0030784, 1.0202292); opacity: 1.0000000; }
+  59.1836735% { transform: translate(-0.00000px, -0.99791px) rotate(-0.00000deg) scale(1.0021829, 1.0143450); opacity: 1.0000000; }
+  61.2244898% { transform: translate(-0.00000px, -0.66477px) rotate(-0.00000deg) scale(1.0014542, 1.0095561); opacity: 1.0000000; }
+  63.2653061% { transform: translate(-0.00000px, -0.40936px) rotate(-0.00000deg) scale(1.0008955, 1.0058845); opacity: 1.0000000; }
+  65.3061224% { transform: translate(-0.00000px, -0.22573px) rotate(-0.00000deg) scale(1.0004938, 1.0032449); opacity: 1.0000000; }
+  67.3469388% { transform: translate(-0.00000px, -0.10375px) rotate(-0.00000deg) scale(1.0002270, 1.0014915); opacity: 1.0000000; }
+  69.3877551% { transform: translate(-0.00000px, -0.03155px) rotate(-0.00000deg) scale(1.0000690, 1.0004535); opacity: 1.0000000; }
+  71.4285714% { transform: translate(0.00000px, 0.00282px) rotate(0.00000deg) scale(0.9999938, 0.9999594); opacity: 1.0000000; }
+  73.4693878% { transform: translate(0.00000px, 0.01025px) rotate(0.00000deg) scale(0.9999776, 0.9998527); opacity: 1.0000000; }
+  75.5102041% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  77.5510204% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  79.5918367% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  81.6326531% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  83.6734694% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  85.7142857% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  87.7551020% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  89.7959184% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  91.8367347% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  93.8775510% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  95.9183673% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  97.9591837% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  100.0000000% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+}
+@keyframes ecourts-launch-light-pillar_right-keyframes {
+  0.0000000% { transform: translate(0.00000px, 64.00000px) rotate(9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  2.0408163% { transform: translate(0.00000px, 64.00000px) rotate(9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  4.0816327% { transform: translate(0.00000px, 64.00000px) rotate(9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  6.1224490% { transform: translate(0.00000px, 64.00000px) rotate(9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  8.1632653% { transform: translate(0.00000px, 64.00000px) rotate(9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  10.2040816% { transform: translate(0.00000px, 64.00000px) rotate(9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  12.2448980% { transform: translate(0.00000px, 64.00000px) rotate(9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  14.2857143% { transform: translate(0.00000px, 64.00000px) rotate(9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  16.3265306% { transform: translate(0.00000px, 64.00000px) rotate(9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  18.3673469% { transform: translate(0.00000px, 64.00000px) rotate(9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  20.4081633% { transform: translate(0.00000px, 64.00000px) rotate(9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  22.4489796% { transform: translate(0.00000px, 64.00000px) rotate(9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  24.4897959% { transform: translate(0.00000px, 64.00000px) rotate(9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  26.5306122% { transform: translate(0.00000px, 64.00000px) rotate(9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  28.5714286% { transform: translate(0.00000px, 64.00000px) rotate(9.00000deg) scale(0.8600000, 0.0800000); opacity: 0.0000000; }
+  30.6122449% { transform: translate(0.00000px, 60.92804px) rotate(8.56801deg) scale(0.8667199, 0.1241594); opacity: 0.1040000; }
+  32.6530612% { transform: translate(0.00000px, 53.55564px) rotate(7.53126deg) scale(0.8828470, 0.2301376); opacity: 0.3520000; }
+  34.6938776% { transform: translate(0.00000px, 44.12417px) rotate(6.20496deg) scale(0.9034784, 0.3657150); opacity: 0.6480000; }
+  36.7346939% { transform: translate(0.00000px, 34.23170px) rotate(4.81383deg) scale(0.9251182, 0.5079193); opacity: 0.8960000; }
+  38.7755102% { transform: translate(0.00000px, 24.92807px) rotate(3.50551deg) scale(0.9454698, 0.6416590); opacity: 1.0000000; }
+  40.8163265% { transform: translate(0.00000px, 16.82365px) rotate(2.36583deg) scale(0.9631983, 0.7581600); opacity: 1.0000000; }
+  42.8571429% { transform: translate(0.00000px, 10.19710px) rotate(1.43397deg) scale(0.9776938, 0.8534166); opacity: 1.0000000; }
+  44.8979592% { transform: translate(0.00000px, 5.09289px) rotate(0.71619deg) scale(0.9888593, 0.9267896); opacity: 1.0000000; }
+  46.9387755% { transform: translate(0.00000px, 1.40369px) rotate(0.19739deg) scale(0.9969294, 0.9798219); opacity: 1.0000000; }
+  48.9795918% { transform: translate(-0.00000px, -1.06411px) rotate(-0.14964deg) scale(1.0023277, 1.0152965); opacity: 1.0000000; }
+  51.0204082% { transform: translate(-0.00000px, -2.54137px) rotate(-0.35738deg) scale(1.0055592, 1.0365321); opacity: 1.0000000; }
+  53.0612245% { transform: translate(-0.00000px, -3.26192px) rotate(-0.45871deg) scale(1.0071355, 1.0468901); opacity: 1.0000000; }
+  55.1020408% { transform: translate(-0.00000px, -3.44069px) rotate(-0.48385deg) scale(1.0075265, 1.0494600); opacity: 1.0000000; }
+  57.1428571% { transform: translate(-0.00000px, -3.26155px) rotate(-0.45866deg) scale(1.0071346, 1.0468847); opacity: 1.0000000; }
+  59.1836735% { transform: translate(-0.00000px, -2.87239px) rotate(-0.40393deg) scale(1.0062833, 1.0412905); opacity: 1.0000000; }
+  61.2244898% { transform: translate(-0.00000px, -2.38526px) rotate(-0.33543deg) scale(1.0052178, 1.0342881); opacity: 1.0000000; }
+  63.2653061% { transform: translate(-0.00000px, -1.87961px) rotate(-0.26432deg) scale(1.0041117, 1.0270194); opacity: 1.0000000; }
+  65.3061224% { transform: translate(-0.00000px, -1.40725px) rotate(-0.19789deg) scale(1.0030784, 1.0202292); opacity: 1.0000000; }
+  67.3469388% { transform: translate(-0.00000px, -0.99791px) rotate(-0.14033deg) scale(1.0021829, 1.0143450); opacity: 1.0000000; }
+  69.3877551% { transform: translate(-0.00000px, -0.66477px) rotate(-0.09348deg) scale(1.0014542, 1.0095561); opacity: 1.0000000; }
+  71.4285714% { transform: translate(-0.00000px, -0.40936px) rotate(-0.05757deg) scale(1.0008955, 1.0058845); opacity: 1.0000000; }
+  73.4693878% { transform: translate(-0.00000px, -0.22573px) rotate(-0.03174deg) scale(1.0004938, 1.0032449); opacity: 1.0000000; }
+  75.5102041% { transform: translate(-0.00000px, -0.10375px) rotate(-0.01459deg) scale(1.0002270, 1.0014915); opacity: 1.0000000; }
+  77.5510204% { transform: translate(-0.00000px, -0.03155px) rotate(-0.00444deg) scale(1.0000690, 1.0004535); opacity: 1.0000000; }
+  79.5918367% { transform: translate(0.00000px, 0.00282px) rotate(0.00040deg) scale(0.9999938, 0.9999594); opacity: 1.0000000; }
+  81.6326531% { transform: translate(0.00000px, 0.01025px) rotate(0.00144deg) scale(0.9999776, 0.9998527); opacity: 1.0000000; }
+  83.6734694% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  85.7142857% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  87.7551020% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  89.7959184% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  91.8367347% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  93.8775510% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  95.9183673% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  97.9591837% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  100.0000000% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+}
+@keyframes ecourts-launch-light-base-keyframes {
+  0.0000000% { transform: translate(-32.00000px, 24.00000px) rotate(-10.00000deg) scale(0.7600000, 0.6600000); opacity: 0.0000000; }
+  2.0408163% { transform: translate(-30.19827px, 22.64870px) rotate(-9.43696deg) scale(0.7735130, 0.6791434); opacity: 0.1040000; }
+  4.0816327% { transform: translate(-26.05858px, 19.54393px) rotate(-8.14331deg) scale(0.8045607, 0.7231276); opacity: 0.3520000; }
+  6.1224490% { transform: translate(-21.00967px, 15.75725px) rotate(-6.56552deg) scale(0.8424275, 0.7767722); opacity: 0.6480000; }
+  8.1632653% { transform: translate(-15.96128px, 11.97096px) rotate(-4.98790deg) scale(0.8802904, 0.8304114); opacity: 0.8960000; }
+  10.2040816% { transform: translate(-11.43299px, 8.57474px) rotate(-3.57281deg) scale(0.9142526, 0.8785245); opacity: 1.0000000; }
+  12.2448980% { transform: translate(-7.66805px, 5.75104px) rotate(-2.39627deg) scale(0.9424896, 0.9185269); opacity: 1.0000000; }
+  14.2857143% { transform: translate(-4.72681px, 3.54511px) rotate(-1.47713deg) scale(0.9645489, 0.9497776); opacity: 1.0000000; }
+  16.3265306% { transform: translate(-2.55892px, 1.91919px) rotate(-0.79966deg) scale(0.9808081, 0.9728115); opacity: 1.0000000; }
+  18.3673469% { transform: translate(-1.05599px, 0.79199px) rotate(-0.33000deg) scale(0.9920801, 0.9887801); opacity: 1.0000000; }
+  20.4081633% { transform: translate(-0.08765px, 0.06573px) rotate(-0.02739deg) scale(0.9993427, 0.9990688); opacity: 1.0000000; }
+  22.4489796% { transform: translate(0.47563px, -0.35672px) rotate(0.14864deg) scale(1.0035672, 1.0050536); opacity: 1.0000000; }
+  24.4897959% { transform: translate(0.74953px, -0.56215px) rotate(0.23423deg) scale(1.0056215, 1.0079638); opacity: 1.0000000; }
+  26.5306122% { transform: translate(0.82994px, -0.62246px) rotate(0.25936deg) scale(1.0062246, 1.0088181); opacity: 1.0000000; }
+  28.5714286% { transform: translate(0.79154px, -0.59365px) rotate(0.24736deg) scale(1.0059365, 1.0084101); opacity: 1.0000000; }
+  30.6122449% { transform: translate(0.68923px, -0.51692px) rotate(0.21538deg) scale(1.0051692, 1.0073231); opacity: 1.0000000; }
+  32.6530612% { transform: translate(0.56095px, -0.42071px) rotate(0.17530deg) scale(1.0042071, 1.0059601); opacity: 1.0000000; }
+  34.6938776% { transform: translate(0.43104px, -0.32328px) rotate(0.13470deg) scale(1.0032328, 1.0045798); opacity: 1.0000000; }
+  36.7346939% { transform: translate(0.31358px, -0.23519px) rotate(0.09799deg) scale(1.0023519, 1.0033318); opacity: 1.0000000; }
+  38.7755102% { transform: translate(0.21533px, -0.16149px) rotate(0.06729deg) scale(1.0016149, 1.0022878); opacity: 1.0000000; }
+  40.8163265% { transform: translate(0.13816px, -0.10362px) rotate(0.04317deg) scale(1.0010362, 1.0014679); opacity: 1.0000000; }
+  42.8571429% { transform: translate(0.08098px, -0.06073px) rotate(0.02531deg) scale(1.0006073, 1.0008604); opacity: 1.0000000; }
+  44.8979592% { transform: translate(0.04111px, -0.03083px) rotate(0.01285deg) scale(1.0003083, 1.0004367); opacity: 1.0000000; }
+  46.9387755% { transform: translate(0.01522px, -0.01142px) rotate(0.00476deg) scale(1.0001142, 1.0001618); opacity: 1.0000000; }
+  48.9795918% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  51.0204082% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  53.0612245% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  55.1020408% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  57.1428571% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  59.1836735% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  61.2244898% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  63.2653061% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  65.3061224% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  67.3469388% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  69.3877551% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  71.4285714% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  73.4693878% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  75.5102041% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  77.5510204% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  79.5918367% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  81.6326531% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  83.6734694% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  85.7142857% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  87.7551020% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  89.7959184% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  91.8367347% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  93.8775510% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  95.9183673% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  97.9591837% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
+  100.0000000% { transform: translate(0.00000px, 0.00000px) rotate(0.00000deg) scale(1.0000000, 1.0000000); opacity: 1.0000000; }
 }
 @media (prefers-reduced-motion: no-preference) {
-  #ecourts-launch-light-motion { animation: ecourts-launch-light-settle 840ms linear backwards; }
+  #ecourts-launch-light-roof { animation: ecourts-launch-light-roof-keyframes 980ms linear backwards; }
+  #ecourts-launch-light-pillar_left { animation: ecourts-launch-light-pillar_left-keyframes 980ms linear backwards; }
+  #ecourts-launch-light-pillar_center { animation: ecourts-launch-light-pillar_center-keyframes 980ms linear backwards; }
+  #ecourts-launch-light-pillar_right { animation: ecourts-launch-light-pillar_right-keyframes 980ms linear backwards; }
+  #ecourts-launch-light-base { animation: ecourts-launch-light-base-keyframes 980ms linear backwards; }
 }
 @media (prefers-reduced-motion: reduce) {
-  #ecourts-launch-light-motion { animation: none; transform: none; opacity: 1; }
+#ecourts-launch-light-roof,
+#ecourts-launch-light-pillar_left,
+#ecourts-launch-light-pillar_center,
+#ecourts-launch-light-pillar_right,
+#ecourts-launch-light-base { animation: none; transform: none; opacity: 1; }
 }
 </style>
-  <g id="ecourts-launch-light-motion">
-    <g id="ecourts-launch-light-contact-shadow" fill="#000714" opacity="0.09" filter="url(#ecourts-launch-light-contact)" transform="translate(0 5)">
-      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" />
-      <rect x="351" y="448" width="66" height="128" rx="13" />
-      <rect x="479" y="448" width="66" height="128" rx="13" />
-      <rect x="607" y="448" width="66" height="128" rx="13" />
-      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)" />
-    </g>
-    <g id="ecourts-launch-light-symbol">
-      <g id="ecourts-launch-light-shape-body" fill="url(#ecourts-launch-light-body)">
-        <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" />
+  <g id="ecourts-launch-light-scene">
+    <g id="ecourts-launch-light-pillar_left" data-part="pillar_left">
+      <g fill="#000714" opacity=".09" filter="url(#ecourts-launch-light-contact)" transform="translate(0 5)">
         <rect x="351" y="448" width="66" height="128" rx="13" />
+      </g>
+      <rect x="351" y="448" width="66" height="128" rx="13" fill="url(#ecourts-launch-light-body)" />
+      <g clip-path="url(#ecourts-launch-light-pillar_left-clip)">
+        <rect x="190" y="190" width="644" height="644" fill="url(#ecourts-launch-light-surface-light)" />
+        <rect x="190" y="190" width="644" height="644" fill="url(#ecourts-launch-light-reflection)" />
+      </g>
+      <rect x="351" y="448" width="66" height="128" rx="13" fill="none" stroke="url(#ecourts-launch-light-rim)" stroke-width="1.25" stroke-linejoin="round" opacity=".46" />
+    </g>
+    <g id="ecourts-launch-light-pillar_center" data-part="pillar_center">
+      <g fill="#000714" opacity=".09" filter="url(#ecourts-launch-light-contact)" transform="translate(0 5)">
         <rect x="479" y="448" width="66" height="128" rx="13" />
+      </g>
+      <rect x="479" y="448" width="66" height="128" rx="13" fill="url(#ecourts-launch-light-body)" />
+      <g clip-path="url(#ecourts-launch-light-pillar_center-clip)">
+        <rect x="190" y="190" width="644" height="644" fill="url(#ecourts-launch-light-surface-light)" />
+        <rect x="190" y="190" width="644" height="644" fill="url(#ecourts-launch-light-reflection)" />
+      </g>
+      <rect x="479" y="448" width="66" height="128" rx="13" fill="none" stroke="url(#ecourts-launch-light-rim)" stroke-width="1.25" stroke-linejoin="round" opacity=".46" />
+    </g>
+    <g id="ecourts-launch-light-pillar_right" data-part="pillar_right">
+      <g fill="#000714" opacity=".09" filter="url(#ecourts-launch-light-contact)" transform="translate(0 5)">
         <rect x="607" y="448" width="66" height="128" rx="13" />
       </g>
-      <g id="ecourts-launch-light-shape-accent" fill="url(#ecourts-launch-light-accent)">
+      <rect x="607" y="448" width="66" height="128" rx="13" fill="url(#ecourts-launch-light-body)" />
+      <g clip-path="url(#ecourts-launch-light-pillar_right-clip)">
+        <rect x="190" y="190" width="644" height="644" fill="url(#ecourts-launch-light-surface-light)" />
+        <rect x="190" y="190" width="644" height="644" fill="url(#ecourts-launch-light-reflection)" />
+      </g>
+      <rect x="607" y="448" width="66" height="128" rx="13" fill="none" stroke="url(#ecourts-launch-light-rim)" stroke-width="1.25" stroke-linejoin="round" opacity=".46" />
+    </g>
+    <g id="ecourts-launch-light-base" data-part="base">
+      <g fill="#000714" opacity=".09" filter="url(#ecourts-launch-light-contact)" transform="translate(0 5)">
         <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)" />
       </g>
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)" fill="url(#ecourts-launch-light-accent)" />
+      <g clip-path="url(#ecourts-launch-light-base-clip)">
+        <rect x="190" y="190" width="644" height="644" fill="url(#ecourts-launch-light-surface-light)" />
+        <rect x="190" y="190" width="644" height="644" fill="url(#ecourts-launch-light-reflection)" />
+      </g>
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)" fill="none" stroke="url(#ecourts-launch-light-rim)" stroke-width="1.25" stroke-linejoin="round" opacity=".46" />
     </g>
-    <g id="ecourts-launch-light-satin-finish" clip-path="url(#ecourts-launch-light-mark-clip)">
-      <rect x="190" y="190" width="644" height="644" rx="0" fill="url(#ecourts-launch-light-surface-light)" />
-      <rect x="190" y="190" width="644" height="644" rx="0" fill="url(#ecourts-launch-light-reflection)" />
-    </g>
-    <g id="ecourts-launch-light-edge-definition" fill="none" stroke="url(#ecourts-launch-light-rim)" stroke-width="1.25" stroke-linejoin="round" opacity="0.46">
-      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" />
-      <rect x="351" y="448" width="66" height="128" rx="13" />
-      <rect x="479" y="448" width="66" height="128" rx="13" />
-      <rect x="607" y="448" width="66" height="128" rx="13" />
-      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)" />
+    <g id="ecourts-launch-light-roof" data-part="roof">
+      <g fill="#000714" opacity=".09" filter="url(#ecourts-launch-light-contact)" transform="translate(0 5)">
+        <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" />
+      </g>
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" fill="url(#ecourts-launch-light-body)" />
+      <g clip-path="url(#ecourts-launch-light-roof-clip)">
+        <rect x="190" y="190" width="644" height="644" fill="url(#ecourts-launch-light-surface-light)" />
+        <rect x="190" y="190" width="644" height="644" fill="url(#ecourts-launch-light-reflection)" />
+      </g>
+      <path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" fill="none" stroke="url(#ecourts-launch-light-rim)" stroke-width="1.25" stroke-linejoin="round" opacity=".46" />
     </g>
   </g>
 </svg>

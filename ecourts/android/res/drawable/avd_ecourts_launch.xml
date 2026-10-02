@@ -1,3 +1,27 @@
-<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" android:drawable="@drawable/ic_ecourts">
-  <target android:name="ecourts_motion" android:animation="@animator/ecourts_launch" />
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" android:drawable="@drawable/ic_ecourts_launch">
+  <target android:name="ecourts_roof" android:animation="@animator/ecourts_launch_roof" />
+  <target android:name="ecourts_roof_layer_0" android:animation="@animator/ecourts_launch_roof_alpha" />
+  <target android:name="ecourts_roof_layer_1" android:animation="@animator/ecourts_launch_roof_alpha" />
+  <target android:name="ecourts_roof_layer_2" android:animation="@animator/ecourts_launch_roof_alpha" />
+  <target android:name="ecourts_roof_layer_3" android:animation="@animator/ecourts_launch_roof_alpha" />
+  <target android:name="ecourts_pillar_left" android:animation="@animator/ecourts_launch_pillar_left" />
+  <target android:name="ecourts_pillar_left_layer_0" android:animation="@animator/ecourts_launch_pillar_left_alpha" />
+  <target android:name="ecourts_pillar_left_layer_1" android:animation="@animator/ecourts_launch_pillar_left_alpha" />
+  <target android:name="ecourts_pillar_left_layer_2" android:animation="@animator/ecourts_launch_pillar_left_alpha" />
+  <target android:name="ecourts_pillar_left_layer_3" android:animation="@animator/ecourts_launch_pillar_left_alpha" />
+  <target android:name="ecourts_pillar_center" android:animation="@animator/ecourts_launch_pillar_center" />
+  <target android:name="ecourts_pillar_center_layer_0" android:animation="@animator/ecourts_launch_pillar_center_alpha" />
+  <target android:name="ecourts_pillar_center_layer_1" android:animation="@animator/ecourts_launch_pillar_center_alpha" />
+  <target android:name="ecourts_pillar_center_layer_2" android:animation="@animator/ecourts_launch_pillar_center_alpha" />
+  <target android:name="ecourts_pillar_center_layer_3" android:animation="@animator/ecourts_launch_pillar_center_alpha" />
+  <target android:name="ecourts_pillar_right" android:animation="@animator/ecourts_launch_pillar_right" />
+  <target android:name="ecourts_pillar_right_layer_0" android:animation="@animator/ecourts_launch_pillar_right_alpha" />
+  <target android:name="ecourts_pillar_right_layer_1" android:animation="@animator/ecourts_launch_pillar_right_alpha" />
+  <target android:name="ecourts_pillar_right_layer_2" android:animation="@animator/ecourts_launch_pillar_right_alpha" />
+  <target android:name="ecourts_pillar_right_layer_3" android:animation="@animator/ecourts_launch_pillar_right_alpha" />
+  <target android:name="ecourts_base" android:animation="@animator/ecourts_launch_base" />
+  <target android:name="ecourts_base_layer_0" android:animation="@animator/ecourts_launch_base_alpha" />
+  <target android:name="ecourts_base_layer_1" android:animation="@animator/ecourts_launch_base_alpha" />
+  <target android:name="ecourts_base_layer_2" android:animation="@animator/ecourts_launch_base_alpha" />
+  <target android:name="ecourts_base_layer_3" android:animation="@animator/ecourts_launch_base_alpha" />
 </animated-vector>
