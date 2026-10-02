@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="04-ionic-column-dark-title 04-ionic-column-dark-description">
+<title id="04-ionic-column-dark-title">eCourts — Ionic column — dark</title>
+<desc id="04-ionic-column-dark-description">Carved jade-glass Ionic column with spiral volutes, egg-and-dart capital, eleven flutes and a stepped plinth. Editable vector artwork. No raster images, fonts, scripts or external resources.</desc>
+<defs>
+<linearGradient id="04-ionic-column-dark-background" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1024" y2="1024"><stop offset="0" stop-color="#173B35" stop-opacity="1"/><stop offset="1" stop-color="#081C25" stop-opacity="1"/></linearGradient>
+
+<linearGradient id="04-ionic-column-dark-edge-light" gradientUnits="userSpaceOnUse" x1="230" y1="220" x2="790" y2="810"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.96"/><stop offset="0.333" stop-color="#FFFFFF" stop-opacity="0.36"/><stop offset="0.667" stop-color="#74DEC1" stop-opacity="0.22"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.65"/></linearGradient>
+<linearGradient id="04-ionic-column-dark-shine" gradientUnits="userSpaceOnUse" x1="260" y1="200" x2="750" y2="620"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+
+<linearGradient id="04-ionic-column-dark-crystal" gradientUnits="userSpaceOnUse" x1="230" y1="200" x2="820" y2="800"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.83"/><stop offset="0.333" stop-color="#74DEC1" stop-opacity="0.78"/><stop offset="0.667" stop-color="#3695B9" stop-opacity="0.61"/><stop offset="1" stop-color="#14568E" stop-opacity="0.91"/></linearGradient>
+<linearGradient id="04-ionic-column-dark-crystal-edge" gradientUnits="userSpaceOnUse" x1="250" y1="230" x2="770" y2="850"><stop offset="0" stop-color="#E6FFFF" stop-opacity="1"/><stop offset="0.333" stop-color="#74DEC1" stop-opacity="1"/><stop offset="0.667" stop-color="#174870" stop-opacity="1"/><stop offset="1" stop-color="#9AF1EE" stop-opacity="1"/></linearGradient>
+<linearGradient id="04-ionic-column-dark-frost" gradientUnits="userSpaceOnUse" x1="240" y1="240" x2="760" y2="800"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.93"/><stop offset="0.5" stop-color="#E7FAFF" stop-opacity="0.79"/><stop offset="1" stop-color="#74DEC1" stop-opacity="0.68"/></linearGradient>
+<radialGradient id="04-ionic-column-dark-ambient" cx="0.32" cy="0.15" r="0.88"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.12"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="04-ionic-column-dark-halo" cx="0.5" cy="0.47" r="0.48"><stop offset="0" stop-color="#74DEC1" stop-opacity="0.17"/><stop offset="1" stop-color="#74DEC1" stop-opacity="0"/></radialGradient>
+<radialGradient id="04-ionic-column-dark-ground" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#020916" stop-opacity="0.5"/><stop offset="1" stop-color="#020916" stop-opacity="0"/></radialGradient>
+
+<filter id="04-ionic-column-dark-small-shadow" x="-25%" y="-25%" width="150%" height="160%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="4"/></filter>
+<linearGradient id="04-ionic-column-dark-jade-glass" gradientUnits="userSpaceOnUse" x1="305" y1="260" x2="700" y2="785"><stop offset="0" stop-color="#E5FFF5" stop-opacity="0.96"/><stop offset="0.333" stop-color="#78DCC6" stop-opacity="0.9"/><stop offset="0.667" stop-color="#258F86" stop-opacity="0.9"/><stop offset="1" stop-color="#8AEBCD" stop-opacity="0.9"/></linearGradient>
+<linearGradient id="04-ionic-column-dark-jade-cross" gradientUnits="userSpaceOnUse" x1="389" y1="0" x2="645" y2="0"><stop offset="0" stop-color="#236A68" stop-opacity="1"/><stop offset="0.25" stop-color="#7EE4C6" stop-opacity="1"/><stop offset="0.5" stop-color="#E5FFF2" stop-opacity="1"/><stop offset="0.75" stop-color="#73D8C0" stop-opacity="1"/><stop offset="1" stop-color="#2C8C84" stop-opacity="1"/></linearGradient>
+<linearGradient id="04-ionic-column-dark-base-glass" gradientUnits="userSpaceOnUse" x1="285" y1="711" x2="734" y2="827"><stop offset="0" stop-color="#DEFFF5" stop-opacity="1"/><stop offset="0.5" stop-color="#76D9C6" stop-opacity="1"/><stop offset="1" stop-color="#27867B" stop-opacity="1"/></linearGradient>
+</defs>
+<g id="04-ionic-column-dark-backplate" >
+<rect x="0" y="0" width="1024" height="1024" rx="0" fill="url(#04-ionic-column-dark-background)"/>
+<rect x="0" y="0" width="1024" height="1024" rx="0" fill="url(#04-ionic-column-dark-ambient)"/>
+<rect x="0" y="0" width="1024" height="1024" rx="0" fill="url(#04-ionic-column-dark-halo)"/>
+</g>
+<ellipse cx="512" cy="825" rx="303" ry="86" fill="url(#04-ionic-column-dark-ground)"/>
+<g id="04-ionic-column-dark-crystal-stylobate" >
+<path d="M302 748L512 696L722 748V796L512 838L302 796Z" fill="url(#04-ionic-column-dark-base-glass)" stroke="#ADF4DD" stroke-width="2"/>
+<path d="M302 748L512 792L722 748L512 704Z" fill="url(#04-ionic-column-dark-frost)"/>
+<path d="M512 792V837L722 796V748Z" fill="url(#04-ionic-column-dark-jade-glass)"/>
+<path d="M319 763L512 804L705 764M319 778L512 819L705 779" fill="none" stroke="#C4FFEB" stroke-width="1.5" opacity="0.7"/>
+<path d="M348 731L512 692L676 731V753L512 789L348 753Z" fill="url(#04-ionic-column-dark-jade-glass)" stroke="#BEFFE8" stroke-width="2"/>
+<path d="M348 731L512 765L676 731L512 695Z" fill="url(#04-ionic-column-dark-frost)"/>
+</g>
+<g id="04-ionic-column-dark-fluted-crystal-shaft" >
+<path d="M414 368H610L632 704Q512 768 392 704Z" fill="#061C2C" opacity="0.5" transform="translate(0 11)" filter="url(#04-ionic-column-dark-small-shadow)"/>
+<path d="M414 368H610L632 704Q512 768 392 704Z" fill="url(#04-ionic-column-dark-crystal-edge)" transform="translate(0 6)"/>
+<path d="M414 368H610L632 704Q512 768 392 704Z" fill="url(#04-ionic-column-dark-crystal)" stroke="url(#04-ionic-column-dark-edge-light)" stroke-width="2" stroke-linejoin="round"/>
+<path d="M414 368H610L632 704Q512 768 392 704Z" fill="url(#04-ionic-column-dark-jade-cross)" stroke="#E6FFF4" stroke-width="2"/>
+<path d="M421 378H442L425 703Q412 708 400 703Z" fill="url(#04-ionic-column-dark-shine)"/>
+</g>
+<g id="04-ionic-column-dark-hand-cut-column-flutes" >
+<path d="M425.00 395Q432.00 383 437.00 395L424.00 693Q416.00 711 408.00 693Z" fill="url(#04-ionic-column-dark-jade-glass)" stroke="#176D69" stroke-width="1.2" stroke-opacity="0.45"/>
+<path d="M427.00 398L411.00 690" fill="none" stroke="#D9FFF1" stroke-width="1.8" opacity="0.82"/>
+<path d="M441.80 395Q448.80 383 453.80 395L444.70 693Q436.70 711 428.70 693Z" fill="url(#04-ionic-column-dark-jade-glass)" stroke="#176D69" stroke-width="1.2" stroke-opacity="0.45"/>
+<path d="M443.80 398L431.70 690" fill="none" stroke="#D9FFF1" stroke-width="1.8" opacity="0.82"/>
+<path d="M458.60 395Q465.60 383 470.60 395L465.40 693Q457.40 711 449.40 693Z" fill="url(#04-ionic-column-dark-jade-glass)" stroke="#176D69" stroke-width="1.2" stroke-opacity="0.45"/>
+<path d="M460.60 398L452.40 690" fill="none" stroke="#D9FFF1" stroke-width="1.8" opacity="0.82"/>
+<path d="M475.40 395Q482.40 383 487.40 395L486.10 693Q478.10 711 470.10 693Z" fill="url(#04-ionic-column-dark-jade-glass)" stroke="#176D69" stroke-width="1.2" stroke-opacity="0.45"/>
+<path d="M477.40 398L473.10 690" fill="none" stroke="#D9FFF1" stroke-width="1.8" opacity="0.82"/>
+<path d="M492.20 395Q499.20 383 504.20 395L506.80 693Q498.80 711 490.80 693Z" fill="url(#04-ionic-column-dark-jade-glass)" stroke="#176D69" stroke-width="1.2" stroke-opacity="0.45"/>
+<path d="M494.20 398L493.80 690" fill="none" stroke="#D9FFF1" stroke-width="1.8" opacity="0.82"/>
+<path d="M509.00 395Q516.00 383 521.00 395L527.50 693Q519.50 711 511.50 693Z" fill="url(#04-ionic-column-dark-jade-glass)" stroke="#176D69" stroke-width="1.2" stroke-opacity="0.45"/>
+<path d="M511.00 398L514.50 690" fill="none" stroke="#D9FFF1" stroke-width="1.8" opacity="0.82"/>
+<path d="M525.80 395Q532.80 383 537.80 395L548.20 693Q540.20 711 532.20 693Z" fill="url(#04-ionic-column-dark-jade-glass)" stroke="#176D69" stroke-width="1.2" stroke-opacity="0.45"/>
+<path d="M527.80 398L535.20 690" fill="none" stroke="#D9FFF1" stroke-width="1.8" opacity="0.82"/>
+<path d="M542.60 395Q549.60 383 554.60 395L568.90 693Q560.90 711 552.90 693Z" fill="url(#04-ionic-column-dark-jade-glass)" stroke="#176D69" stroke-width="1.2" stroke-opacity="0.45"/>
+<path d="M544.60 398L555.90 690" fill="none" stroke="#D9FFF1" stroke-width="1.8" opacity="0.82"/>
+<path d="M559.40 395Q566.40 383 571.40 395L589.60 693Q581.60 711 573.60 693Z" fill="url(#04-ionic-column-dark-jade-glass)" stroke="#176D69" stroke-width="1.2" stroke-opacity="0.45"/>
+<path d="M561.40 398L576.60 690" fill="none" stroke="#D9FFF1" stroke-width="1.8" opacity="0.82"/>
+<path d="M576.20 395Q583.20 383 588.20 395L610.30 693Q602.30 711 594.30 693Z" fill="url(#04-ionic-column-dark-jade-glass)" stroke="#176D69" stroke-width="1.2" stroke-opacity="0.45"/>
+<path d="M578.20 398L597.30 690" fill="none" stroke="#D9FFF1" stroke-width="1.8" opacity="0.82"/>
+<path d="M593.00 395Q600.00 383 605.00 395L631.00 693Q623.00 711 615.00 693Z" fill="url(#04-ionic-column-dark-jade-glass)" stroke="#176D69" stroke-width="1.2" stroke-opacity="0.45"/>
+<path d="M595.00 398L618.00 690" fill="none" stroke="#D9FFF1" stroke-width="1.8" opacity="0.82"/>
+</g>
+<g id="04-ionic-column-dark-column-foot-mouldings" >
+<ellipse cx="512" cy="712" rx="126" ry="29" fill="url(#04-ionic-column-dark-jade-glass)" stroke="#B7FFE9" stroke-width="2"/>
+<ellipse cx="512" cy="701" rx="122" ry="27" fill="url(#04-ionic-column-dark-frost)"/>
+<ellipse cx="512" cy="692" rx="112" ry="25" fill="url(#04-ionic-column-dark-jade-cross)"/>
+<path d="M404 694Q512 739 620 694" fill="none" stroke="#E7FFF6" stroke-width="3"/>
+</g>
+<g id="04-ionic-column-dark-ionic-capital" >
+<path d="M337 317Q315 306 317 282Q319 261 340 260H684Q705 261 707 282Q709 306 687 317L654 372Q512 400 370 372Z" fill="#061C2C" opacity="0.5" transform="translate(0 14)" filter="url(#04-ionic-column-dark-small-shadow)"/>
+<path d="M337 317Q315 306 317 282Q319 261 340 260H684Q705 261 707 282Q709 306 687 317L654 372Q512 400 370 372Z" fill="url(#04-ionic-column-dark-crystal-edge)" transform="translate(0 9)"/>
+<path d="M337 317Q315 306 317 282Q319 261 340 260H684Q705 261 707 282Q709 306 687 317L654 372Q512 400 370 372Z" fill="url(#04-ionic-column-dark-crystal)" stroke="url(#04-ionic-column-dark-edge-light)" stroke-width="2" stroke-linejoin="round"/>
+<path d="M337 317Q315 306 317 282Q319 261 340 260H684Q705 261 707 282Q709 306 687 317L654 372Q512 400 370 372Z" fill="url(#04-ionic-column-dark-jade-glass)" stroke="#CFFFF0" stroke-width="3"/>
+<rect x="317" y="251" width="390" height="28" rx="9" fill="url(#04-ionic-column-dark-frost)" stroke="#D3FFF0" stroke-width="2"/>
+<rect x="339" y="280" width="346" height="17" rx="5" fill="url(#04-ionic-column-dark-jade-cross)"/>
+<path d="M387 335Q512 384 637 335L617 374Q512 404 407 374Z" fill="url(#04-ionic-column-dark-jade-cross)"/>
+</g>
+<g id="04-ionic-column-dark-capital-egg-and-dart" >
+<ellipse cx="391" cy="337" rx="6.7" ry="14" fill="none" stroke="#247B71" stroke-width="2" opacity="0.6"/>
+<path d="M387 333Q391 320 395 333" fill="none" stroke="#D9FFED" stroke-width="1.5" opacity="0.85"/>
+<ellipse cx="411" cy="337" rx="6.7" ry="14" fill="none" stroke="#247B71" stroke-width="2" opacity="0.6"/>
+<path d="M407 333Q411 320 415 333" fill="none" stroke="#D9FFED" stroke-width="1.5" opacity="0.85"/>
+<ellipse cx="431" cy="337" rx="6.7" ry="14" fill="none" stroke="#247B71" stroke-width="2" opacity="0.6"/>
+<path d="M427 333Q431 320 435 333" fill="none" stroke="#D9FFED" stroke-width="1.5" opacity="0.85"/>
+<ellipse cx="451" cy="337" rx="6.7" ry="14" fill="none" stroke="#247B71" stroke-width="2" opacity="0.6"/>
+<path d="M447 333Q451 320 455 333" fill="none" stroke="#D9FFED" stroke-width="1.5" opacity="0.85"/>
+<ellipse cx="471" cy="337" rx="6.7" ry="14" fill="none" stroke="#247B71" stroke-width="2" opacity="0.6"/>
+<path d="M467 333Q471 320 475 333" fill="none" stroke="#D9FFED" stroke-width="1.5" opacity="0.85"/>
+<ellipse cx="491" cy="337" rx="6.7" ry="14" fill="none" stroke="#247B71" stroke-width="2" opacity="0.6"/>
+<path d="M487 333Q491 320 495 333" fill="none" stroke="#D9FFED" stroke-width="1.5" opacity="0.85"/>
+<ellipse cx="511" cy="337" rx="6.7" ry="14" fill="none" stroke="#247B71" stroke-width="2" opacity="0.6"/>
+<path d="M507 333Q511 320 515 333" fill="none" stroke="#D9FFED" stroke-width="1.5" opacity="0.85"/>
+<ellipse cx="531" cy="337" rx="6.7" ry="14" fill="none" stroke="#247B71" stroke-width="2" opacity="0.6"/>
+<path d="M527 333Q531 320 535 333" fill="none" stroke="#D9FFED" stroke-width="1.5" opacity="0.85"/>
+<ellipse cx="551" cy="337" rx="6.7" ry="14" fill="none" stroke="#247B71" stroke-width="2" opacity="0.6"/>
+<path d="M547 333Q551 320 555 333" fill="none" stroke="#D9FFED" stroke-width="1.5" opacity="0.85"/>
+<ellipse cx="571" cy="337" rx="6.7" ry="14" fill="none" stroke="#247B71" stroke-width="2" opacity="0.6"/>
+<path d="M567 333Q571 320 575 333" fill="none" stroke="#D9FFED" stroke-width="1.5" opacity="0.85"/>
+<ellipse cx="591" cy="337" rx="6.7" ry="14" fill="none" stroke="#247B71" stroke-width="2" opacity="0.6"/>
+<path d="M587 333Q591 320 595 333" fill="none" stroke="#D9FFED" stroke-width="1.5" opacity="0.85"/>
+<ellipse cx="611" cy="337" rx="6.7" ry="14" fill="none" stroke="#247B71" stroke-width="2" opacity="0.6"/>
+<path d="M607 333Q611 320 615 333" fill="none" stroke="#D9FFED" stroke-width="1.5" opacity="0.85"/>
+<ellipse cx="631" cy="337" rx="6.7" ry="14" fill="none" stroke="#247B71" stroke-width="2" opacity="0.6"/>
+<path d="M627 333Q631 320 635 333" fill="none" stroke="#D9FFED" stroke-width="1.5" opacity="0.85"/>
+</g>
+<g id="04-ionic-column-dark-carved-spiral-volutes" >
+<circle cx="365" cy="324" r="55" fill="url(#04-ionic-column-dark-jade-cross)" stroke="#D6FFEE" stroke-width="2"/>
+<circle cx="365" cy="324" r="46" fill="url(#04-ionic-column-dark-jade-glass)"/>
+<path d="M408.00 324.00L407.60 327.77L406.87 331.48L405.82 335.08L404.47 338.56L402.82 341.89L400.89 345.03L398.70 347.98L396.28 350.71L393.63 353.20L390.80 355.43L387.79 357.39L384.64 359.07L381.37 360.45L378.02 361.54L374.60 362.31L371.14 362.78L367.68 362.94L364.24 362.79L360.84 362.34L357.52 361.59L354.30 360.56L351.20 359.25L348.25 357.69L345.46 355.88L342.87 353.85L340.47 351.60L338.30 349.17L336.37 346.57L334.69 343.83L333.26 340.97L332.10 338.01L331.22 334.98L330.61 331.90L330.28 328.80L330.22 325.71L330.44 322.64L330.93 319.63L331.67 316.69L332.67 313.85L333.91 311.12L335.37 308.54L337.05 306.11L338.92 303.86L340.97 301.79L343.19 299.93L345.54 298.29L348.00 296.87L350.57 295.68L353.21 294.74L355.91 294.03L358.64 293.58L361.37 293.37L364.10 293.40L366.79 293.67L369.42 294.18L371.98 294.91L374.45 295.86L376.80 297.02L379.02 298.37L381.10 299.91L383.02 301.60L384.76 303.45L386.32 305.43L387.69 307.52L388.85 309.70L389.81 311.97L390.56 314.28L391.09 316.64L391.41 319.02L391.51 321.39L391.41 323.74L391.09 326.05L390.58 328.31L389.87 330.49L388.98 332.58L387.92 334.57L386.70 336.43L385.32 338.16L383.81 339.75L382.19 341.19L380.45 342.46L378.63 343.56L376.73 344.48L374.78 345.22L372.79 345.78L370.78 346.16L368.77 346.35L366.76 346.37L364.78 346.20L362.85 345.86L360.97 345.36L359.16 344.69L357.44 343.88L355.82 342.92L354.31 341.84L352.91 340.64L351.64 339.33L350.51 337.93L349.52 336.45L348.68 334.91L347.98 333.31L347.44 331.68L347.06 330.03L346.82 328.36L346.74 326.71L346.80 325.07L347.01 323.47L347.36 321.91L347.84 320.41L348.45 318.98L349.18 317.63L350.01 316.36L350.94 315.19L351.96 314.13L353.05 313.17L354.21 312.33L355.43 311.61L356.68 311.01L357.97 310.53L359.28 310.18L360.59 309.95L361.89 309.85L363.19 309.86L364.45 309.99L365.68 310.23L366.86 310.57L367.98 311.02L369.04 311.55L370.04 312.17L370.95 312.87L371.78 313.63L372.52 314.46L373.18 315.33L373.73 316.24L374.20 317.18L374.56 318.14L374.84 319.11L375.01 320.08L375.09 321.05L375.09 321.99L374.99 322.92L374.81 323.81L374.56 324.66L374.23 325.46L373.84 326.21L373.39 326.91L372.89 327.54L372.34 328.11L371.76 328.61L371.14 329.04L370.51 329.40L369.86 329.69L369.20 329.90L368.55 330.05L367.90 330.13L367.26 330.14L366.65 330.09L366.07 329.98L365.52 329.82L365.00 329.61" fill="none" stroke="#1D6966" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+<path d="M408.00 324.00L407.60 327.77L406.87 331.48L405.82 335.08L404.47 338.56L402.82 341.89L400.89 345.03L398.70 347.98L396.28 350.71L393.63 353.20L390.80 355.43L387.79 357.39L384.64 359.07L381.37 360.45L378.02 361.54L374.60 362.31L371.14 362.78L367.68 362.94L364.24 362.79L360.84 362.34L357.52 361.59L354.30 360.56L351.20 359.25L348.25 357.69L345.46 355.88L342.87 353.85L340.47 351.60L338.30 349.17L336.37 346.57L334.69 343.83L333.26 340.97L332.10 338.01L331.22 334.98L330.61 331.90L330.28 328.80L330.22 325.71L330.44 322.64L330.93 319.63L331.67 316.69L332.67 313.85L333.91 311.12L335.37 308.54L337.05 306.11L338.92 303.86L340.97 301.79L343.19 299.93L345.54 298.29L348.00 296.87L350.57 295.68L353.21 294.74L355.91 294.03L358.64 293.58L361.37 293.37L364.10 293.40L366.79 293.67L369.42 294.18L371.98 294.91L374.45 295.86L376.80 297.02L379.02 298.37L381.10 299.91L383.02 301.60L384.76 303.45L386.32 305.43L387.69 307.52L388.85 309.70L389.81 311.97L390.56 314.28L391.09 316.64L391.41 319.02L391.51 321.39L391.41 323.74L391.09 326.05L390.58 328.31L389.87 330.49L388.98 332.58L387.92 334.57L386.70 336.43L385.32 338.16L383.81 339.75L382.19 341.19L380.45 342.46L378.63 343.56L376.73 344.48L374.78 345.22L372.79 345.78L370.78 346.16L368.77 346.35L366.76 346.37L364.78 346.20L362.85 345.86L360.97 345.36L359.16 344.69L357.44 343.88L355.82 342.92L354.31 341.84L352.91 340.64L351.64 339.33L350.51 337.93L349.52 336.45L348.68 334.91L347.98 333.31L347.44 331.68L347.06 330.03L346.82 328.36L346.74 326.71L346.80 325.07L347.01 323.47L347.36 321.91L347.84 320.41L348.45 318.98L349.18 317.63L350.01 316.36L350.94 315.19L351.96 314.13L353.05 313.17L354.21 312.33L355.43 311.61L356.68 311.01L357.97 310.53L359.28 310.18L360.59 309.95L361.89 309.85L363.19 309.86L364.45 309.99L365.68 310.23L366.86 310.57L367.98 311.02L369.04 311.55L370.04 312.17L370.95 312.87L371.78 313.63L372.52 314.46L373.18 315.33L373.73 316.24L374.20 317.18L374.56 318.14L374.84 319.11L375.01 320.08L375.09 321.05L375.09 321.99L374.99 322.92L374.81 323.81L374.56 324.66L374.23 325.46L373.84 326.21L373.39 326.91L372.89 327.54L372.34 328.11L371.76 328.61L371.14 329.04L370.51 329.40L369.86 329.69L369.20 329.90L368.55 330.05L367.90 330.13L367.26 330.14L366.65 330.09L366.07 329.98L365.52 329.82L365.00 329.61" fill="none" stroke="#C7FFE8" stroke-width="2" stroke-linecap="round" transform="translate(-1 -2)"/>
+<circle cx="659" cy="324" r="55" fill="url(#04-ionic-column-dark-jade-cross)" stroke="#D6FFEE" stroke-width="2"/>
+<circle cx="659" cy="324" r="46" fill="url(#04-ionic-column-dark-jade-glass)"/>
+<path d="M616.00 324.00L616.40 327.77L617.13 331.48L618.18 335.08L619.53 338.56L621.18 341.89L623.11 345.03L625.30 347.98L627.72 350.71L630.37 353.20L633.20 355.43L636.21 357.39L639.36 359.07L642.63 360.45L645.98 361.54L649.40 362.31L652.86 362.78L656.32 362.94L659.76 362.79L663.16 362.34L666.48 361.59L669.70 360.56L672.80 359.25L675.75 357.69L678.54 355.88L681.13 353.85L683.53 351.60L685.70 349.17L687.63 346.57L689.31 343.83L690.74 340.97L691.90 338.01L692.78 334.98L693.39 331.90L693.72 328.80L693.78 325.71L693.56 322.64L693.07 319.63L692.33 316.69L691.33 313.85L690.09 311.12L688.63 308.54L686.95 306.11L685.08 303.86L683.03 301.79L680.81 299.93L678.46 298.29L676.00 296.87L673.43 295.68L670.79 294.74L668.09 294.03L665.36 293.58L662.63 293.37L659.90 293.40L657.21 293.67L654.58 294.18L652.02 294.91L649.55 295.86L647.20 297.02L644.98 298.37L642.90 299.91L640.98 301.60L639.24 303.45L637.68 305.43L636.31 307.52L635.15 309.70L634.19 311.97L633.44 314.28L632.91 316.64L632.59 319.02L632.49 321.39L632.59 323.74L632.91 326.05L633.42 328.31L634.13 330.49L635.02 332.58L636.08 334.57L637.30 336.43L638.68 338.16L640.19 339.75L641.81 341.19L643.55 342.46L645.37 343.56L647.27 344.48L649.22 345.22L651.21 345.78L653.22 346.16L655.23 346.35L657.24 346.37L659.22 346.20L661.15 345.86L663.03 345.36L664.84 344.69L666.56 343.88L668.18 342.92L669.69 341.84L671.09 340.64L672.36 339.33L673.49 337.93L674.48 336.45L675.32 334.91L676.02 333.31L676.56 331.68L676.94 330.03L677.18 328.36L677.26 326.71L677.20 325.07L676.99 323.47L676.64 321.91L676.16 320.41L675.55 318.98L674.82 317.63L673.99 316.36L673.06 315.19L672.04 314.13L670.95 313.17L669.79 312.33L668.57 311.61L667.32 311.01L666.03 310.53L664.72 310.18L663.41 309.95L662.11 309.85L660.81 309.86L659.55 309.99L658.32 310.23L657.14 310.57L656.02 311.02L654.96 311.55L653.96 312.17L653.05 312.87L652.22 313.63L651.48 314.46L650.82 315.33L650.27 316.24L649.80 317.18L649.44 318.14L649.16 319.11L648.99 320.08L648.91 321.05L648.91 321.99L649.01 322.92L649.19 323.81L649.44 324.66L649.77 325.46L650.16 326.21L650.61 326.91L651.11 327.54L651.66 328.11L652.24 328.61L652.86 329.04L653.49 329.40L654.14 329.69L654.80 329.90L655.45 330.05L656.10 330.13L656.74 330.14L657.35 330.09L657.93 329.98L658.48 329.82L659.00 329.61" fill="none" stroke="#1D6966" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+<path d="M616.00 324.00L616.40 327.77L617.13 331.48L618.18 335.08L619.53 338.56L621.18 341.89L623.11 345.03L625.30 347.98L627.72 350.71L630.37 353.20L633.20 355.43L636.21 357.39L639.36 359.07L642.63 360.45L645.98 361.54L649.40 362.31L652.86 362.78L656.32 362.94L659.76 362.79L663.16 362.34L666.48 361.59L669.70 360.56L672.80 359.25L675.75 357.69L678.54 355.88L681.13 353.85L683.53 351.60L685.70 349.17L687.63 346.57L689.31 343.83L690.74 340.97L691.90 338.01L692.78 334.98L693.39 331.90L693.72 328.80L693.78 325.71L693.56 322.64L693.07 319.63L692.33 316.69L691.33 313.85L690.09 311.12L688.63 308.54L686.95 306.11L685.08 303.86L683.03 301.79L680.81 299.93L678.46 298.29L676.00 296.87L673.43 295.68L670.79 294.74L668.09 294.03L665.36 293.58L662.63 293.37L659.90 293.40L657.21 293.67L654.58 294.18L652.02 294.91L649.55 295.86L647.20 297.02L644.98 298.37L642.90 299.91L640.98 301.60L639.24 303.45L637.68 305.43L636.31 307.52L635.15 309.70L634.19 311.97L633.44 314.28L632.91 316.64L632.59 319.02L632.49 321.39L632.59 323.74L632.91 326.05L633.42 328.31L634.13 330.49L635.02 332.58L636.08 334.57L637.30 336.43L638.68 338.16L640.19 339.75L641.81 341.19L643.55 342.46L645.37 343.56L647.27 344.48L649.22 345.22L651.21 345.78L653.22 346.16L655.23 346.35L657.24 346.37L659.22 346.20L661.15 345.86L663.03 345.36L664.84 344.69L666.56 343.88L668.18 342.92L669.69 341.84L671.09 340.64L672.36 339.33L673.49 337.93L674.48 336.45L675.32 334.91L676.02 333.31L676.56 331.68L676.94 330.03L677.18 328.36L677.26 326.71L677.20 325.07L676.99 323.47L676.64 321.91L676.16 320.41L675.55 318.98L674.82 317.63L673.99 316.36L673.06 315.19L672.04 314.13L670.95 313.17L669.79 312.33L668.57 311.61L667.32 311.01L666.03 310.53L664.72 310.18L663.41 309.95L662.11 309.85L660.81 309.86L659.55 309.99L658.32 310.23L657.14 310.57L656.02 311.02L654.96 311.55L653.96 312.17L653.05 312.87L652.22 313.63L651.48 314.46L650.82 315.33L650.27 316.24L649.80 317.18L649.44 318.14L649.16 319.11L648.99 320.08L648.91 321.05L648.91 321.99L649.01 322.92L649.19 323.81L649.44 324.66L649.77 325.46L650.16 326.21L650.61 326.91L651.11 327.54L651.66 328.11L652.24 328.61L652.86 329.04L653.49 329.40L654.14 329.69L654.80 329.90L655.45 330.05L656.10 330.13L656.74 330.14L657.35 330.09L657.93 329.98L658.48 329.82L659.00 329.61" fill="none" stroke="#C7FFE8" stroke-width="2" stroke-linecap="round" transform="translate(-1 -2)"/>
+</g>
+<g id="04-ionic-column-dark-polished-capital-edges" >
+<path d="M328 262H694" fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.83"/>
+<path d="M412 374Q512 399 612 374" fill="none" stroke="#CEFFED" stroke-width="3"/>
+<path d="M330 255L694 255" fill="none" stroke="#3D917E" stroke-width="0.6" stroke-linecap="round" opacity="0.26"/>
+<path d="M330 256.9L694 256.9" fill="none" stroke="#3D917E" stroke-width="0.6" stroke-linecap="round" opacity="0.26"/>
+<path d="M330 258.8L694 258.8" fill="none" stroke="#3D917E" stroke-width="0.6" stroke-linecap="round" opacity="0.26"/>
+<path d="M330 260.7L694 260.7" fill="none" stroke="#3D917E" stroke-width="0.6" stroke-linecap="round" opacity="0.26"/>
+<path d="M330 262.6L694 262.6" fill="none" stroke="#3D917E" stroke-width="0.6" stroke-linecap="round" opacity="0.26"/>
+<path d="M330 264.5L694 264.5" fill="none" stroke="#3D917E" stroke-width="0.6" stroke-linecap="round" opacity="0.26"/>
+<path d="M330 266.4L694 266.4" fill="none" stroke="#3D917E" stroke-width="0.6" stroke-linecap="round" opacity="0.26"/>
+<path d="M330 268.3L694 268.3" fill="none" stroke="#3D917E" stroke-width="0.6" stroke-linecap="round" opacity="0.26"/>
+<path d="M330 270.2L694 270.2" fill="none" stroke="#3D917E" stroke-width="0.6" stroke-linecap="round" opacity="0.26"/>
+<path d="M330 272.1L694 272.1" fill="none" stroke="#3D917E" stroke-width="0.6" stroke-linecap="round" opacity="0.26"/>
+</g>
+</svg>

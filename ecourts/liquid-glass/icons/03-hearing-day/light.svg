@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="03-hearing-day-light-title 03-hearing-day-light-description">
+<title id="03-hearing-day-light-title">eCourts — Hearing day — light</title>
+<desc id="03-hearing-day-light-description">Lavender glass hearing calendar with steel binder rings, selected date and an inset precision clock. Editable vector artwork. No raster images, fonts, scripts or external resources.</desc>
+<defs>
+<linearGradient id="03-hearing-day-light-background" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1024" y2="1024"><stop offset="0" stop-color="#F5F1FC" stop-opacity="1"/><stop offset="1" stop-color="#DCD8EC" stop-opacity="1"/></linearGradient>
+<linearGradient id="03-hearing-day-light-gold" gradientUnits="userSpaceOnUse" x1="270" y1="230" x2="762" y2="800"><stop offset="0" stop-color="#FFF4CA" stop-opacity="1"/><stop offset="0.25" stop-color="#E6BD6A" stop-opacity="1"/><stop offset="0.5" stop-color="#9F692F" stop-opacity="1"/><stop offset="0.75" stop-color="#F0DCA0" stop-opacity="1"/><stop offset="1" stop-color="#BC8540" stop-opacity="1"/></linearGradient>
+
+<linearGradient id="03-hearing-day-light-silver" gradientUnits="userSpaceOnUse" x1="250" y1="230" x2="780" y2="800"><stop offset="0" stop-color="#F9FEFF" stop-opacity="1"/><stop offset="0.25" stop-color="#B5C6CF" stop-opacity="1"/><stop offset="0.5" stop-color="#F5FBFF" stop-opacity="1"/><stop offset="0.75" stop-color="#738D9C" stop-opacity="1"/><stop offset="1" stop-color="#CADCE7" stop-opacity="1"/></linearGradient>
+
+<linearGradient id="03-hearing-day-light-edge-light" gradientUnits="userSpaceOnUse" x1="230" y1="220" x2="790" y2="810"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.96"/><stop offset="0.333" stop-color="#FFFFFF" stop-opacity="0.36"/><stop offset="0.667" stop-color="#B8A0EE" stop-opacity="0.22"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.65"/></linearGradient>
+
+<linearGradient id="03-hearing-day-light-crystal" gradientUnits="userSpaceOnUse" x1="230" y1="200" x2="820" y2="800"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.83"/><stop offset="0.333" stop-color="#B8A0EE" stop-opacity="0.78"/><stop offset="0.667" stop-color="#3695B9" stop-opacity="0.61"/><stop offset="1" stop-color="#14568E" stop-opacity="0.91"/></linearGradient>
+<linearGradient id="03-hearing-day-light-crystal-edge" gradientUnits="userSpaceOnUse" x1="250" y1="230" x2="770" y2="850"><stop offset="0" stop-color="#E6FFFF" stop-opacity="1"/><stop offset="0.333" stop-color="#B8A0EE" stop-opacity="1"/><stop offset="0.667" stop-color="#174870" stop-opacity="1"/><stop offset="1" stop-color="#9AF1EE" stop-opacity="1"/></linearGradient>
+<linearGradient id="03-hearing-day-light-frost" gradientUnits="userSpaceOnUse" x1="240" y1="240" x2="760" y2="800"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.93"/><stop offset="0.5" stop-color="#E7FAFF" stop-opacity="0.79"/><stop offset="1" stop-color="#B8A0EE" stop-opacity="0.68"/></linearGradient>
+<radialGradient id="03-hearing-day-light-ambient" cx="0.32" cy="0.15" r="0.88"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.9"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="03-hearing-day-light-halo" cx="0.5" cy="0.47" r="0.48"><stop offset="0" stop-color="#B8A0EE" stop-opacity="0.13"/><stop offset="1" stop-color="#B8A0EE" stop-opacity="0"/></radialGradient>
+<radialGradient id="03-hearing-day-light-ground" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#020916" stop-opacity="0.28"/><stop offset="1" stop-color="#020916" stop-opacity="0"/></radialGradient>
+
+<filter id="03-hearing-day-light-small-shadow" x="-25%" y="-25%" width="150%" height="160%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="4"/></filter>
+<linearGradient id="03-hearing-day-light-calendar-glass" gradientUnits="userSpaceOnUse" x1="270" y1="260" x2="790" y2="810"><stop offset="0" stop-color="#FEF7FF" stop-opacity="0.92"/><stop offset="0.5" stop-color="#BAADFC" stop-opacity="0.86"/><stop offset="1" stop-color="#7C72C2" stop-opacity="0.9"/></linearGradient>
+<linearGradient id="03-hearing-day-light-calendar-cap" gradientUnits="userSpaceOnUse" x1="260" y1="260" x2="760" y2="431"><stop offset="0" stop-color="#AB8DF2" stop-opacity="1"/><stop offset="0.5" stop-color="#7761B3" stop-opacity="1"/><stop offset="1" stop-color="#4D3E83" stop-opacity="1"/></linearGradient>
+<linearGradient id="03-hearing-day-light-selected" gradientUnits="userSpaceOnUse" x1="420" y1="530" x2="550" y2="664"><stop offset="0" stop-color="#FFECC7" stop-opacity="1"/><stop offset="0.5" stop-color="#E7BD7B" stop-opacity="1"/><stop offset="1" stop-color="#B7804B" stop-opacity="1"/></linearGradient>
+</defs>
+<g id="03-hearing-day-light-backplate" >
+<rect x="0" y="0" width="1024" height="1024" rx="0" fill="url(#03-hearing-day-light-background)"/>
+<rect x="0" y="0" width="1024" height="1024" rx="0" fill="url(#03-hearing-day-light-ambient)"/>
+<rect x="0" y="0" width="1024" height="1024" rx="0" fill="url(#03-hearing-day-light-halo)"/>
+</g>
+<ellipse cx="512" cy="818" rx="332" ry="86" fill="url(#03-hearing-day-light-ground)"/>
+<g id="03-hearing-day-light-calendar-body" >
+<path d="M285 271H733Q776 271 776 314V731Q776 776 731 776H288Q244 776 244 732V314Q244 271 285 271Z" fill="#061C2C" opacity="0.5" transform="translate(0 19)" filter="url(#03-hearing-day-light-small-shadow)"/>
+<path d="M285 271H733Q776 271 776 314V731Q776 776 731 776H288Q244 776 244 732V314Q244 271 285 271Z" fill="url(#03-hearing-day-light-crystal-edge)" transform="translate(0 14)"/>
+<path d="M285 271H733Q776 271 776 314V731Q776 776 731 776H288Q244 776 244 732V314Q244 271 285 271Z" fill="url(#03-hearing-day-light-crystal)" stroke="url(#03-hearing-day-light-edge-light)" stroke-width="2" stroke-linejoin="round"/>
+<path d="M285 271H733Q776 271 776 314V731Q776 776 731 776H288Q244 776 244 732V314Q244 271 285 271Z" fill="url(#03-hearing-day-light-calendar-glass)" stroke="url(#03-hearing-day-light-edge-light)" stroke-width="3"/>
+<path d="M285 281H733Q765 281 765 314V424H255V314Q255 281 285 281Z" fill="url(#03-hearing-day-light-calendar-cap)"/>
+<path d="M260 433H760V730Q760 759 730 759H290Q260 759 260 730Z" fill="url(#03-hearing-day-light-frost)" opacity="0.88"/>
+<path d="M258 423L764 423" fill="none" stroke="#F6E9FF" stroke-width="3" stroke-linecap="round"/>
+<path d="M264 431L758 431" fill="none" stroke="#514579" stroke-width="2" stroke-linecap="round" opacity="0.45"/>
+<path d="M280 290H732Q757 290 757 316" fill="none" stroke="#FFF4FF" stroke-width="3" opacity="0.7"/>
+</g>
+<g id="03-hearing-day-light-steel-binder-rings" >
+<ellipse cx="365" cy="340" rx="30" ry="13" fill="#44385B"/>
+<ellipse cx="365" cy="337" rx="24" ry="9" fill="#E9E3FF"/>
+<path d="M347 333V249Q347 224 367 224Q387 224 387 248V271" fill="none" stroke="#0F1B36" stroke-width="25" opacity="0.4" transform="translate(0 6)"/>
+<path d="M347 333V249Q347 224 367 224Q387 224 387 248V271" fill="none" stroke="url(#03-hearing-day-light-silver)" stroke-width="23"/>
+<path d="M342 329V249Q342 219 367 219" fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.85"/>
+<ellipse cx="655" cy="340" rx="30" ry="13" fill="#44385B"/>
+<ellipse cx="655" cy="337" rx="24" ry="9" fill="#E9E3FF"/>
+<path d="M637 333V249Q637 224 657 224Q677 224 677 248V271" fill="none" stroke="#0F1B36" stroke-width="25" opacity="0.4" transform="translate(0 6)"/>
+<path d="M637 333V249Q637 224 657 224Q677 224 677 248V271" fill="none" stroke="url(#03-hearing-day-light-silver)" stroke-width="23"/>
+<path d="M632 329V249Q632 219 657 219" fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.85"/>
+</g>
+<g id="03-hearing-day-light-header-inlay" >
+<rect x="454" y="344" width="114" height="8" rx="4" fill="#F2E6FF" opacity="0.9"/>
+<rect x="477" y="365" width="68" height="4" rx="2" fill="#E0D4FA" opacity="0.65"/>
+</g>
+<g id="03-hearing-day-light-hearing-date-grid" >
+<rect x="303" y="480" width="65" height="45" rx="11" fill="#8270AD" opacity="0.18"/>
+<rect x="306" y="482" width="59" height="39" rx="9" fill="url(#03-hearing-day-light-frost)" opacity="0.66"/>
+<rect x="320" y="498" width="31" height="6" rx="3" fill="#61577F" opacity="0.68"/>
+<rect x="414" y="480" width="65" height="45" rx="11" fill="#8270AD" opacity="0.18"/>
+<rect x="417" y="482" width="59" height="39" rx="9" fill="url(#03-hearing-day-light-frost)" opacity="0.66"/>
+<rect x="431" y="498" width="31" height="6" rx="3" fill="#61577F" opacity="0.68"/>
+<rect x="525" y="480" width="65" height="45" rx="11" fill="#8270AD" opacity="0.18"/>
+<rect x="528" y="482" width="59" height="39" rx="9" fill="url(#03-hearing-day-light-frost)" opacity="0.66"/>
+<rect x="542" y="498" width="31" height="6" rx="3" fill="#61577F" opacity="0.68"/>
+<rect x="636" y="480" width="65" height="45" rx="11" fill="#8270AD" opacity="0.18"/>
+<rect x="639" y="482" width="59" height="39" rx="9" fill="url(#03-hearing-day-light-frost)" opacity="0.66"/>
+<rect x="653" y="498" width="31" height="6" rx="3" fill="#61577F" opacity="0.68"/>
+<rect x="303" y="560" width="65" height="45" rx="11" fill="#8270AD" opacity="0.18"/>
+<rect x="306" y="562" width="59" height="39" rx="9" fill="url(#03-hearing-day-light-frost)" opacity="0.66"/>
+<rect x="320" y="578" width="31" height="6" rx="3" fill="#61577F" opacity="0.68"/>
+<rect x="403" y="551" width="88" height="67" rx="16" fill="#5C4775" opacity="0.2" transform="translate(0 5)"/>
+<rect x="403" y="551" width="88" height="67" rx="16" fill="url(#03-hearing-day-light-selected)" stroke="#FFF6DC" stroke-width="2"/>
+<path d="M422 583L438 598L464 568" fill="none" stroke="#725032" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="525" y="560" width="65" height="45" rx="11" fill="#8270AD" opacity="0.18"/>
+<rect x="528" y="562" width="59" height="39" rx="9" fill="url(#03-hearing-day-light-frost)" opacity="0.66"/>
+<rect x="542" y="578" width="31" height="6" rx="3" fill="#61577F" opacity="0.68"/>
+<rect x="636" y="560" width="65" height="45" rx="11" fill="#8270AD" opacity="0.18"/>
+<rect x="639" y="562" width="59" height="39" rx="9" fill="url(#03-hearing-day-light-frost)" opacity="0.66"/>
+<rect x="653" y="578" width="31" height="6" rx="3" fill="#61577F" opacity="0.68"/>
+<rect x="303" y="640" width="65" height="45" rx="11" fill="#8270AD" opacity="0.18"/>
+<rect x="306" y="642" width="59" height="39" rx="9" fill="url(#03-hearing-day-light-frost)" opacity="0.66"/>
+<rect x="320" y="658" width="31" height="6" rx="3" fill="#61577F" opacity="0.68"/>
+<rect x="414" y="640" width="65" height="45" rx="11" fill="#8270AD" opacity="0.18"/>
+<rect x="417" y="642" width="59" height="39" rx="9" fill="url(#03-hearing-day-light-frost)" opacity="0.66"/>
+<rect x="431" y="658" width="31" height="6" rx="3" fill="#61577F" opacity="0.68"/>
+<rect x="525" y="640" width="65" height="45" rx="11" fill="#8270AD" opacity="0.18"/>
+<rect x="528" y="642" width="59" height="39" rx="9" fill="url(#03-hearing-day-light-frost)" opacity="0.66"/>
+<rect x="542" y="658" width="31" height="6" rx="3" fill="#61577F" opacity="0.68"/>
+<rect x="636" y="640" width="65" height="45" rx="11" fill="#8270AD" opacity="0.18"/>
+<rect x="639" y="642" width="59" height="39" rx="9" fill="url(#03-hearing-day-light-frost)" opacity="0.66"/>
+<rect x="653" y="658" width="31" height="6" rx="3" fill="#61577F" opacity="0.68"/>
+</g>
+<g id="03-hearing-day-light-etched-calendar-rim" >
+<path d="M266 714L754 714" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" opacity="0.26"/>
+<path d="M266 716.7L754 716.7" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" opacity="0.26"/>
+<path d="M266 719.4L754 719.4" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" opacity="0.26"/>
+<path d="M266 722.1L754 722.1" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" opacity="0.26"/>
+<path d="M266 724.8L754 724.8" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" opacity="0.26"/>
+<path d="M266 727.5L754 727.5" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" opacity="0.26"/>
+<path d="M266 730.2L754 730.2" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" opacity="0.26"/>
+<path d="M266 732.9L754 732.9" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" opacity="0.26"/>
+<path d="M266 735.6L754 735.6" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" opacity="0.26"/>
+</g>
+<g id="03-hearing-day-light-hearing-clock" >
+<circle cx="729" cy="718" r="101" fill="#1F153A" opacity="0.25" transform="translate(0 11)" filter="url(#03-hearing-day-light-small-shadow)"/>
+<circle cx="729" cy="718" r="101" fill="url(#03-hearing-day-light-silver)"/>
+<circle cx="729" cy="716" r="88" fill="#F6F2FD"/>
+<circle cx="729" cy="716" r="81" fill="none" stroke="#B5A7C7" stroke-width="1.5"/>
+<path d="M729 645L729 636" fill="none" stroke="#716283" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M736.944 640.416L737.362 636.438" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M744.801 641.661L745.633 637.748" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M752.485 643.72L753.721 639.915" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M759.912 646.571L761.539 642.916" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M764.5 654.512L769 646.718" fill="none" stroke="#716283" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M773.672 654.515L776.023 651.279" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M779.854 659.521L782.53 656.548" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M785.479 665.146L788.452 662.47" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M790.485 671.328L793.721 668.977" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M790.488 680.5L798.282 676" fill="none" stroke="#716283" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M798.429 685.088L802.084 683.461" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M801.28 692.515L805.085 691.279" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M803.339 700.199L807.252 699.367" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M804.584 708.056L808.562 707.638" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M800 716L809 716" fill="none" stroke="#716283" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M804.584 723.944L808.562 724.362" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M803.339 731.801L807.252 732.633" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M801.28 739.485L805.085 740.721" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M798.429 746.912L802.084 748.539" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M790.488 751.5L798.282 756" fill="none" stroke="#716283" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M790.485 760.672L793.721 763.023" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M785.479 766.854L788.452 769.53" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M779.854 772.479L782.53 775.452" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M773.672 777.485L776.023 780.721" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M764.5 777.488L769 785.282" fill="none" stroke="#716283" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M759.912 785.429L761.539 789.084" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M752.485 788.28L753.721 792.085" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M744.801 790.339L745.633 794.252" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M736.944 791.584L737.362 795.562" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M729 787L729 796" fill="none" stroke="#716283" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M721.056 791.584L720.638 795.562" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M713.199 790.339L712.367 794.252" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M705.515 788.28L704.279 792.085" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M698.088 785.429L696.461 789.084" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M693.5 777.488L689 785.282" fill="none" stroke="#716283" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M684.328 777.485L681.977 780.721" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M678.146 772.479L675.47 775.452" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M672.521 766.854L669.548 769.53" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M667.515 760.672L664.279 763.023" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M667.512 751.5L659.718 756" fill="none" stroke="#716283" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M659.571 746.912L655.916 748.539" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M656.72 739.485L652.915 740.721" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M654.661 731.801L650.748 732.633" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M653.416 723.944L649.438 724.362" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M658 716L649 716" fill="none" stroke="#716283" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M653.416 708.056L649.438 707.638" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M654.661 700.199L650.748 699.367" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M656.72 692.515L652.915 691.279" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M659.571 685.088L655.916 683.461" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M667.512 680.5L659.718 676" fill="none" stroke="#716283" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M667.515 671.328L664.279 668.977" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M672.521 665.146L669.548 662.47" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M678.146 659.521L675.47 656.548" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M684.328 654.515L681.977 651.279" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M693.5 654.512L689 646.718" fill="none" stroke="#716283" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M698.088 646.571L696.461 642.916" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M705.515 643.72L704.279 639.915" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M713.199 641.661L712.367 637.748" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M721.056 640.416L720.638 636.438" fill="none" stroke="#716283" stroke-width="1" stroke-linecap="round"/>
+<path d="M729 663V716L759 737" fill="none" stroke="#59436F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="729" cy="716" r="7" fill="url(#03-hearing-day-light-gold)"/>
+</g>
+</svg>
