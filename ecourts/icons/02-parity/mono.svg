@@ -1,15 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="02-parity-mono-title 02-parity-mono-description">
-<title id="02-parity-mono-title">eCourts — Parity — mono</title>
+<title id="02-parity-mono-title">eCourts Parity — mono</title>
 <desc id="02-parity-mono-description">Single-colour white foreground on transparency for tinting and silhouette inspection. Original native vector artwork without raster images, fonts or external resources.</desc>
 <defs>
 
 </defs>
 <g id="02-parity-mono-symbol">
 <g id="02-parity-mono-shape-body" fill="#FFFFFF">
-<path d="M362 284H744Q771 284 758 308L698 418Q686 440 661 440H280Q253 440 266 416L326 306Q338 284 362 284Z"/>
+<path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z"/>
+<rect x="351" y="448" width="66" height="128" rx="13"/>
+<rect x="479" y="448" width="66" height="128" rx="13"/>
+<rect x="607" y="448" width="66" height="128" rx="13"/>
 </g>
 <g id="02-parity-mono-shape-accent" fill="#FFFFFF">
-<path d="M362 284H744Q771 284 758 308L698 418Q686 440 661 440H280Q253 440 266 416L326 306Q338 284 362 284Z" transform="rotate(180 512 512)"/>
+<path d="M350 280H744Q771 280 758 304L706 398Q694 420 669 420H280Q253 420 266 396L318 302Q330 280 350 280Z" transform="rotate(180 512 512)"/>
 </g>
 </g>
 </svg>
