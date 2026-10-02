@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Chart" class="ecui-chart-dark">
-<title>Chart</title>
-<desc>Chart. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-chart-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
-<path class="p0" d="M4 4V20H21M8 16V18M13 13V18M18 8V18" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
-<path class="p1" d="M7 11L11 7L15 9L20 4" fill="none" stroke="url(#ecui-chart-dark-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

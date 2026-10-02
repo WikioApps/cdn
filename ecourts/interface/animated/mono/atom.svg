@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Atom" class="ecui-atom-mono-motion">
-<title>Atom</title>
-<desc>The intersecting orbital paths are traced without spinning the symbol.</desc>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-atom-mono-motion .p1{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-atom-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-atom-mono-motion-p1{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
-<path class="p0" d="M10.2 12a1.8 1.8 0 1 0 3.6 0a1.8 1.8 0 1 0 -3.6 0Z" fill="currentColor"/>
-<path class="p1" d="M4 5C8 1 24 17 20 20C16 24 0 9 4 5ZM20 5C16 1 0 17 4 20C8 24 24 9 20 5Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1"/>
-</svg>

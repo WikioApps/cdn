@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Contact" class="ecui-contact-dark-motion">
-<title>Contact</title>
-<desc>The identity mark seats inside the contact card.</desc>
-<defs><linearGradient id="ecui-contact-dark-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-contact-dark-motion .p2{transform-box:view-box;transform-origin:12px 12px;animation:ecui-contact-dark-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-contact-dark-motion-p2{0%{transform:translateY(-2.1px)}26%{transform:translateY(-0.7px)}58%{transform:translateY(0.18px)}82%{transform:translateY(0px)}100%{transform:translateY(0px)}}}</style>
-<path class="p0" d="M6 5H18Q20 5 20 7V18.5Q20 20.5 18 20.5H6Q4 20.5 4 18.5V7Q4 5 6 5Z" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
-<path class="p1" d="M8 3V6M16 3V6M8 17Q12 13.5 16 17" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
-<path class="p2" d="M9.5 10.5a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0 -5 0Z" fill="url(#ecui-contact-dark-motion-accent)"/>
-</svg>

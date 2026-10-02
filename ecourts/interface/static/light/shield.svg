@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Verified" class="ecui-shield-light">
-<title>Verified</title>
-<desc>Verified. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-shield-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<path class="p0" d="M12 3L20 6V11Q20 17 12 21Q4 17 4 11V6Z" fill="#E9543E" opacity="0.12" style="fill:var(--ec-icon-soft,#E9543E)"/>
-<path class="p1" d="M12 3L20 6V11Q20 17 12 21Q4 17 4 11V6Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p2" d="M8 12L11 15L16.5 9" fill="none" stroke="url(#ecui-shield-light-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

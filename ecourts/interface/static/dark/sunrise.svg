@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Sunrise" class="ecui-sunrise-dark">
-<title>Sunrise</title>
-<desc>Sunrise. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-sunrise-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
-<path class="p0" d="M3 17H21M5 20.5H19M4.5 10L6.5 12M12 3V6M19.5 10L17.5 12" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
-<path class="p1" d="M7 17A5 5 0 0 1 17 17Z" fill="url(#ecui-sunrise-dark-accent)"/>
-</svg>

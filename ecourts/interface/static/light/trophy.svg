@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Trophy" class="ecui-trophy-light">
-<title>Trophy</title>
-<desc>Trophy. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-trophy-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<path class="p0" d="M12 15V20M8 21H16M5.5 5H3.5V8Q3.5 11 7 11M18.5 5H20.5V8Q20.5 11 17 11" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M6 3.5H18V8Q18 15 12 15Q6 15 6 8Z" fill="url(#ecui-trophy-light-accent)"/>
-</svg>

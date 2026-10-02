@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Headphones" class="ecui-headphones-light-motion">
-<title>Headphones</title>
-<desc>The ear pad adjusts inward beneath the headband.</desc>
-<defs><linearGradient id="ecui-headphones-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-headphones-light-motion .p2{transform-box:view-box;transform-origin:12px 12px;animation:ecui-headphones-light-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-headphones-light-motion-p2{0%{transform:translateX(1.4px)}26%{transform:translateX(0.8px)}58%{transform:translateX(-0.08px)}82%{transform:translateX(0px)}100%{transform:translateX(0px)}}}</style>
-<path class="p0" d="M4 14V11Q4 3 12 3Q20 3 20 11V14" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M5 12H6Q7.5 12 7.5 13.5V18.5Q7.5 20 6 20H5Q3.5 20 3.5 18.5V13.5Q3.5 12 5 12Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p2" d="M18 12H19Q20.5 12 20.5 13.5V18.5Q20.5 20 19 20H18Q16.5 20 16.5 18.5V13.5Q16.5 12 18 12Z" fill="url(#ecui-headphones-light-motion-accent)"/>
-</svg>

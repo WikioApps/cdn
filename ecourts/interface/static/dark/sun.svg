@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Light theme" class="ecui-sun-dark">
-<title>Light theme</title>
-<desc>Light theme. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-sun-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
-<path class="p0" d="M8 12a4 4 0 1 0 8 0a4 4 0 1 0 -8 0Z" fill="url(#ecui-sun-dark-accent)"/>
-<path class="p1" d="M12 2.8V5M12 19V21.2M2.8 12H5M19 12H21.2M5.5 5.5L7 7M17 17L18.5 18.5M5.5 18.5L7 17M17 7L18.5 5.5" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
-</svg>

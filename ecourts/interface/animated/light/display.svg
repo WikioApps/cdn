@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="System theme" class="ecui-display-light-motion">
-<title>System theme</title>
-<desc>The display division is revealed inside the monitor.</desc>
-<defs><linearGradient id="ecui-display-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-display-light-motion .p2{transform-box:view-box;transform-origin:12px 10px;animation:ecui-display-light-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-display-light-motion-p2{0%{transform:scaleX(0.68)}26%{transform:scaleX(0.75)}58%{transform:scaleX(1.02)}82%{transform:scaleX(1)}100%{transform:scaleX(1)}}}</style>
-<path class="p0" d="M5.5 4.5H18.5Q20.5 4.5 20.5 6.5V14.5Q20.5 16.5 18.5 16.5H5.5Q3.5 16.5 3.5 14.5V6.5Q3.5 4.5 5.5 4.5Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M12 16.5V20M8 21H16" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p2" d="M12 7H18V14H12Z" fill="url(#ecui-display-light-motion-accent)"/>
-</svg>

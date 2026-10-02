@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Asterisk" class="ecui-asterisk-mono-motion">
-<title>Asterisk</title>
-<desc>The vertical stroke extends from the intersection.</desc>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-asterisk-mono-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-asterisk-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-asterisk-mono-motion-p1{0%{transform:scaleY(0.65)}26%{transform:scaleY(0.8)}58%{transform:scaleY(1.02)}82%{transform:scaleY(1)}100%{transform:scaleY(1)}}}</style>
-<path class="p0" d="M5.5 8L18.5 16M5.5 16L18.5 8" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M12 4V20" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

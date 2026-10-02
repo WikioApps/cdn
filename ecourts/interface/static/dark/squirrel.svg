@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Squirrel" class="ecui-squirrel-dark">
-<title>Squirrel</title>
-<desc>Squirrel. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-squirrel-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
-<path class="p0" d="M11 13Q9 7 14 7L17 4V9Q22 12 18 15Q15 16 17 20H10Q7 20 8 16M17 11H17.1" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
-<path class="p1" d="M8 17Q2 18 3 9Q4 2 8 4Q12 6 7 9Q4 11 7 13" fill="none" stroke="url(#ecui-squirrel-dark-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

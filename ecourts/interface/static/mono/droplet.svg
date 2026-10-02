@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Water drop" class="ecui-droplet-mono">
-<title>Water drop</title>
-<desc>Water drop. Original eCourts interface icon.</desc>
-<path class="p0" d="M12 3.5Q4.5 11.5 4.5 15A7.5 6 0 0 0 19.5 15Q19.5 11.5 12 3.5Z" fill="currentColor" opacity="0.12"/>
-<path class="p1" d="M12 3.5Q4.5 11.5 4.5 15A7.5 6 0 0 0 19.5 15Q19.5 11.5 12 3.5Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p2" d="M8 13Q6.5 17 10 18" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

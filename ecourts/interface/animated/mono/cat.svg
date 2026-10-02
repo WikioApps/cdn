@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Cat" class="ecui-cat-mono-motion">
-<title>Cat</title>
-<desc>One ear inclines as the face remains steady.</desc>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-cat-mono-motion .p2{transform-box:view-box;transform-origin:5.5px 9px;animation:ecui-cat-mono-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-cat-mono-motion-p2{0%{transform:rotate(-7deg)}26%{transform:rotate(-3deg)}58%{transform:rotate(1.5deg)}82%{transform:rotate(0deg)}100%{transform:rotate(0deg)}}}</style>
-<path class="p0" d="M5 10L4 4L9 7Q12 5.5 15 7L20 4L19 10Q23 20 12 21Q1 20 5 10Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M8 13H8.1M16 13H16.1M10 17L12 18L14 17" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p2" d="M4.5 5L8 7.5L5.5 9Z" fill="currentColor"/>
-</svg>

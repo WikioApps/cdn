@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Refresh" class="ecui-refresh-light">
-<title>Refresh</title>
-<desc>Refresh. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-refresh-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<path class="p0" d="M4.5 10Q5 3.5 12 3.5Q17 3.5 19.5 8M19.5 14Q19 20.5 12 20.5Q7 20.5 4.5 16" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M19.5 3.5V9H14Z" fill="url(#ecui-refresh-light-accent)"/>
-<path class="p2" d="M4.5 20.5V15H10Z" fill="url(#ecui-refresh-light-accent)"/>
-</svg>

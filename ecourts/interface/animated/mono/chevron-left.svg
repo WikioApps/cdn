@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Previous" class="ecui-chevron-left-mono-motion">
-<title>Previous</title>
-<desc>The directional stroke leads a short movement and returns.</desc>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-chevron-left-mono-motion .p0{transform-box:view-box;transform-origin:12px 12px;animation:ecui-chevron-left-mono-motion-p0 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-chevron-left-mono-motion-p0{0%{transform:translateX(1px)}26%{transform:translateX(0.5px)}58%{transform:translateX(-0.5px)}82%{transform:translateX(0px)}100%{transform:translateX(0px)}}}</style>
-<path class="p0" d="M15 5.5L8.5 12L15 18.5" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

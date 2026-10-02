@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Checklist" class="ecui-checklist-light-motion">
-<title>Checklist</title>
-<desc>The first completed item is checked off.</desc>
-<defs><linearGradient id="ecui-checklist-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-checklist-light-motion .p1{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-checklist-light-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-checklist-light-motion-p1{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
-<path class="p0" d="M12 6H20M12 12H20M12 18H20M4 12H7M4 18H7" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M3 5L5 7L8 3.5" fill="none" stroke="url(#ecui-checklist-light-motion-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1"/>
-</svg>

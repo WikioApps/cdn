@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Rabbit" class="ecui-rabbit-light">
-<title>Rabbit</title>
-<desc>Rabbit. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-rabbit-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<path class="p0" d="M8 11Q4 3 7 3Q10 3 11 10M10 10Q19 7 20 14Q22 16 19 17Q18 21 12 21Q5 21 5 16Q5 12 8 11Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M13 10Q12 2 15 2Q18 2 16 10Z" fill="url(#ecui-rabbit-light-accent)"/>
-<path class="p2" d="M16.5 13.5H16.6M9 18H13" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-</svg>

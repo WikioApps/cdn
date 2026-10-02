@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Flower" class="ecui-flower-mono">
-<title>Flower</title>
-<desc>Flower. Original eCourts interface icon.</desc>
-<path class="p0" d="M12 14V21M12 18L17 15" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M12 8C4-1 1 10 8 12C-1 17 11 23 12 16C17 25 24 14 16 12C24 7 15-1 12 8Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p2" d="M9.5 12a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0 -5 0Z" fill="currentColor"/>
-</svg>

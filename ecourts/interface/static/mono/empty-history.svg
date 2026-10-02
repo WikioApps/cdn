@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="No hearing history" class="ecui-empty-history-mono">
-<title>No hearing history</title>
-<desc>No hearing history. Original eCourts interface icon.</desc>
-<path class="p0" d="M5 5V19M8 5H18M8 19H18" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M3.5 5a1.5 1.5 0 1 0 3 0a1.5 1.5 0 1 0 -3 0ZM3.5 19a1.5 1.5 0 1 0 3 0a1.5 1.5 0 1 0 -3 0Z" fill="currentColor"/>
-<path class="p2" d="M11 12H17" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

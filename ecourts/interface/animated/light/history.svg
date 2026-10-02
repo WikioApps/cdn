@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="History" class="ecui-history-light-motion">
-<title>History</title>
-<desc>The time hand returns along a brief past interval.</desc>
-<defs><linearGradient id="ecui-history-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-history-light-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-history-light-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-history-light-motion-p1{0%{transform:rotate(20deg)}26%{transform:rotate(10deg)}58%{transform:rotate(-2deg)}82%{transform:rotate(0deg)}100%{transform:rotate(0deg)}}}</style>
-<path class="p0" d="M4 9A8.5 8.5 0 1 1 4 16M3.5 4V10H9" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M12 7V12L16 14" fill="none" stroke="url(#ecui-history-light-motion-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

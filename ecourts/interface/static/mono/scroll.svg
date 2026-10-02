@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Legal scroll" class="ecui-scroll-mono">
-<title>Legal scroll</title>
-<desc>Legal scroll. Original eCourts interface icon.</desc>
-<path class="p0" d="M6 4H17Q19 4 19 6V18H8V6Q8 4 6 4Z" fill="currentColor" opacity="0.12"/>
-<path class="p1" d="M6 8H3.5V6A2.5 2.5 0 0 1 8.5 6V18A2.5 2.5 0 0 0 13.5 18H21V19Q21 21 19 21H11M6 3.5H17Q19 3.5 19 6V15" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p2" d="M11.5 8H16M11.5 11.5H16" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

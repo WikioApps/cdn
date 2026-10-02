@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Lightbulb" class="ecui-lightbulb-mono-motion">
-<title>Lightbulb</title>
-<desc>The filament is traced inside the steady bulb.</desc>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-lightbulb-mono-motion .p1{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-lightbulb-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-lightbulb-mono-motion-p1{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
-<path class="p0" d="M8 16Q3.5 12 5.5 7Q8 1 14 3Q22 5 19 12L16 16V18H8ZM9 21H15" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M12 17V11L9 8M12 11L15 8" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1"/>
-</svg>

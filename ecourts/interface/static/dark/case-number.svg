@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Case number" class="ecui-case-number-dark">
-<title>Case number</title>
-<desc>Case number. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-case-number-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
-<path class="p0" d="M6 4H18Q20 4 20 6V18Q20 20 18 20H6Q4 20 4 18V6Q4 4 6 4Z" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
-<path class="p1" d="M10 7L9 17M15 7L14 17M7.5 10H17M7 14H16.5" fill="none" stroke="url(#ecui-case-number-dark-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

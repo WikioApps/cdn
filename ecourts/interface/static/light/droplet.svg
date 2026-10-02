@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Water drop" class="ecui-droplet-light">
-<title>Water drop</title>
-<desc>Water drop. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-droplet-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<path class="p0" d="M12 3.5Q4.5 11.5 4.5 15A7.5 6 0 0 0 19.5 15Q19.5 11.5 12 3.5Z" fill="#E9543E" opacity="0.12" style="fill:var(--ec-icon-soft,#E9543E)"/>
-<path class="p1" d="M12 3.5Q4.5 11.5 4.5 15A7.5 6 0 0 0 19.5 15Q19.5 11.5 12 3.5Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p2" d="M8 13Q6.5 17 10 18" fill="none" stroke="url(#ecui-droplet-light-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

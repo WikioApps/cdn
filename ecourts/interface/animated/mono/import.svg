@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Import" class="ecui-import-mono-motion">
-<title>Import</title>
-<desc>An incoming arrow enters the open file boundary.</desc>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-import-mono-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-import-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-import-mono-motion-p1{0%{transform:translateX(-1px)}26%{transform:translateX(-0.5px)}58%{transform:translateX(0.5px)}82%{transform:translateX(0px)}100%{transform:translateX(0px)}}}</style>
-<path class="p0" d="M10 3.5H18Q20 3.5 20 5.5V18.5Q20 20.5 18 20.5H10" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M3 12H15M10 7L15 12L10 17" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

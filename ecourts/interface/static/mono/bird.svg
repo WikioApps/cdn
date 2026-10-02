@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Bird" class="ecui-bird-mono">
-<title>Bird</title>
-<desc>Bird. Original eCourts interface icon.</desc>
-<path class="p0" d="M3 18L8 8Q10 4 13 7Q14 2.5 18 4Q21 5 20 10Q20 18 12 18ZM10 18V21M15 18V21M20 7L22 8L20 9" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M8 10Q15 8 14 13Q12 16 6 16Z" fill="currentColor"/>
-<path class="p2" d="M17 7H17.1" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

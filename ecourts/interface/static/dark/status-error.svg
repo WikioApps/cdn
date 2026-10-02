@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Fetch error" class="ecui-status-error-dark">
-<title>Fetch error</title>
-<desc>Fetch error. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-status-error-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
-<path class="p0" d="M6.5 3.5H17.5Q20.5 3.5 20.5 6.5V17.5Q20.5 20.5 17.5 20.5H6.5Q3.5 20.5 3.5 17.5V6.5Q3.5 3.5 6.5 3.5Z" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
-<path class="p1" d="M8 8L16 16M16 8L8 16" fill="none" stroke="url(#ecui-status-error-dark-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

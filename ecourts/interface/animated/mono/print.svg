@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Print" class="ecui-print-mono-motion">
-<title>Print</title>
-<desc>The printed page advances from the fixed printer.</desc>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-print-mono-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-print-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-print-mono-motion-p1{0%{transform:translateY(-2px)}26%{transform:translateY(-0.9px)}58%{transform:translateY(0.1px)}82%{transform:translateY(0px)}100%{transform:translateY(0px)}}}</style>
-<path class="p0" d="M7 7V3H17V7M6 17H3.5V8H20.5V17H18M17 10.5H17.1" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M7.8 13H16.2Q17 13 17 13.8V20.2Q17 21 16.2 21H7.8Q7 21 7 20.2V13.8Q7 13 7.8 13Z" fill="currentColor"/>
-<path class="p2" d="M9.5 16H14.5" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"/>
-</svg>

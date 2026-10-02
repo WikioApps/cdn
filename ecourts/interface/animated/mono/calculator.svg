@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Calculator" class="ecui-calculator-mono-motion">
-<title>Calculator</title>
-<desc>The display resolves above a fixed keypad.</desc>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-calculator-mono-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-calculator-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-calculator-mono-motion-p1{0%{transform:scaleY(0.65)}26%{transform:scaleY(0.8)}58%{transform:scaleY(1.02)}82%{transform:scaleY(1)}100%{transform:scaleY(1)}}}</style>
-<path class="p0" d="M7.5 3H16.5Q19 3 19 5.5V18.5Q19 21 16.5 21H7.5Q5 21 5 18.5V5.5Q5 3 7.5 3Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M8.8 6H15.2Q16 6 16 6.8V9.2Q16 10 15.2 10H8.8Q8 10 8 9.2V6.8Q8 6 8.8 6Z" fill="currentColor"/>
-<path class="p2" d="M8.5 13.5H8.6M12 13.5H12.1M15.5 13.5H15.6M8.5 17H8.6M12 17H12.1M15.5 17H15.6" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

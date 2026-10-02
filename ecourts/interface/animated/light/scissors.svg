@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Scissors" class="ecui-scissors-light-motion">
-<title>Scissors</title>
-<desc>One blade closes about the central pivot.</desc>
-<defs><linearGradient id="ecui-scissors-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-scissors-light-motion .p2{transform-box:view-box;transform-origin:12px 10px;animation:ecui-scissors-light-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-scissors-light-motion-p2{0%{transform:rotate(-12deg)}26%{transform:rotate(-7deg)}58%{transform:rotate(0deg)}82%{transform:rotate(1deg)}100%{transform:rotate(0deg)}}}</style>
-<path class="p0" d="M3 17.5a3 3 0 1 0 6 0a3 3 0 1 0 -6 0ZM15 17.5a3 3 0 1 0 6 0a3 3 0 1 0 -6 0Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M8 15.5L19 3.5" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p2" d="M16 15.5L5 3.5" fill="none" stroke="url(#ecui-scissors-light-motion-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Snail" class="ecui-snail-light">
-<title>Snail</title>
-<desc>Snail. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-snail-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<path class="p0" d="M3 20H16Q21 20 21 15V9M19 6L21 9L23 6" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M3 13a7 7 0 1 0 14 0a7 7 0 1 0 -14 0Z" fill="#E9543E" opacity="0.12" style="fill:var(--ec-icon-soft,#E9543E)"/>
-<path class="p2" d="M10 13Q7 11 7 14Q8 18 12 16Q17 14 13 9Q7 4 4 10Q0 19 10 20" fill="none" stroke="url(#ecui-snail-light-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

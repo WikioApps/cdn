@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Notifications" class="ecui-bell-mono-motion">
-<title>Notifications</title>
-<desc>The bell swings about its crown and returns to rest.</desc>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-bell-mono-motion .p1{transform-box:view-box;transform-origin:12px 5px;animation:ecui-bell-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-bell-mono-motion-p1{0%{transform:rotate(-9deg)}26%{transform:rotate(6deg)}58%{transform:rotate(-2.5deg)}82%{transform:rotate(0.6deg)}100%{transform:rotate(0deg)}}}</style>
-<path class="p0" d="M9.5 20Q12 22 14.5 20" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M5 17L7 13V9Q7 4 12 4Q17 4 17 9V13L19 17Z" fill="currentColor"/>
-<path class="p2" d="M12 2.5V4" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

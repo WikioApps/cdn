@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Collapse" class="ecui-chevron-up-light-motion">
-<title>Collapse</title>
-<desc>The directional stroke leads a short movement and returns.</desc>
-<defs><linearGradient id="ecui-chevron-up-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-chevron-up-light-motion .p0{transform-box:view-box;transform-origin:12px 12px;animation:ecui-chevron-up-light-motion-p0 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-chevron-up-light-motion-p0{0%{transform:translateY(1.8px)}26%{transform:translateY(1px)}58%{transform:translateY(-0.1px)}82%{transform:translateY(0px)}100%{transform:translateY(0px)}}}</style>
-<path class="p0" d="M5.5 15L12 8.5L18.5 15" fill="none" stroke="url(#ecui-chevron-up-light-motion-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

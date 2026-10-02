@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Luggage" class="ecui-luggage-light-motion">
-<title>Luggage</title>
-<desc>The telescopic handle rises above the case.</desc>
-<defs><linearGradient id="ecui-luggage-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-luggage-light-motion .p2{transform-box:view-box;transform-origin:12px 12px;animation:ecui-luggage-light-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-luggage-light-motion-p2{0%{transform:translateY(1.8px)}26%{transform:translateY(1px)}58%{transform:translateY(-0.1px)}82%{transform:translateY(0px)}100%{transform:translateY(0px)}}}</style>
-<path class="p0" d="M7.5 7H16.5Q19 7 19 9.5V17.5Q19 20 16.5 20H7.5Q5 20 5 17.5V9.5Q5 7 7.5 7Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M8 20V22M16 20V22M9 11V16M15 11V16" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p2" d="M9 7V3H15V7" fill="none" stroke="url(#ecui-luggage-light-motion-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Clock" class="ecui-clock-light-motion">
-<title>Clock</title>
-<desc>The minute hand advances through a small interval and settles.</desc>
-<defs><linearGradient id="ecui-clock-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-clock-light-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-clock-light-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-clock-light-motion-p1{0%{transform:rotate(-20deg)}26%{transform:rotate(-10deg)}58%{transform:rotate(2deg)}82%{transform:rotate(0.3deg)}100%{transform:rotate(0deg)}}}</style>
-<path class="p0" d="M3.5 12a8.5 8.5 0 1 0 17 0a8.5 8.5 0 1 0 -17 0Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M12 6.5V12L16 14" fill="none" stroke="url(#ecui-clock-light-motion-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Copy" class="ecui-copy-mono">
-<title>Copy</title>
-<desc>Copy. Original eCourts interface icon.</desc>
-<path class="p0" d="M15 3H5Q3 3 3 5V16" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M10 7H19Q21 7 21 9V19Q21 21 19 21H10Q8 21 8 19V9Q8 7 10 7Z" fill="currentColor" opacity="0.12"/>
-<path class="p2" d="M10 7H19Q21 7 21 9V19Q21 21 19 21H10Q8 21 8 19V9Q8 7 10 7Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

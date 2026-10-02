@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Case number" class="ecui-case-number-mono-motion">
-<title>Case number</title>
-<desc>The numeric bars are written inside a case tab.</desc>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-case-number-mono-motion .p1{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-case-number-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-case-number-mono-motion-p1{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
-<path class="p0" d="M6 4H18Q20 4 20 6V18Q20 20 18 20H6Q4 20 4 18V6Q4 4 6 4Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M10 7L9 17M15 7L14 17M7.5 10H17M7 14H16.5" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1"/>
-</svg>

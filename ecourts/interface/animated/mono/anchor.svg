@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Anchor" class="ecui-anchor-mono-motion">
-<title>Anchor</title>
-<desc>The arms are traced from the central shaft.</desc>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-anchor-mono-motion .p2{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-anchor-mono-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-anchor-mono-motion-p2{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
-<path class="p0" d="M9.5 5a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0 -5 0Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M12 7.5V21M8 11H16" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p2" d="M3.5 14Q4 21 12 21Q20 21 20.5 14M3.5 14L6 16M20.5 14L18 16" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1"/>
-</svg>

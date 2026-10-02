@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Remove" class="ecui-trash-mono-motion">
-<title>Remove</title>
-<desc>The bin lid lifts from a stable hinge then closes.</desc>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-trash-mono-motion .p1{transform-box:view-box;transform-origin:5px 6px;animation:ecui-trash-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-trash-mono-motion-p1{0%{transform:rotate(-10deg)}26%{transform:rotate(-5deg)}58%{transform:rotate(1deg)}82%{transform:rotate(0deg)}100%{transform:rotate(0deg)}}}</style>
-<path class="p0" d="M6 8L7 20H17L18 8M10 11V17M14 11V17" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M4 6H20M9 6V3.5H15V6" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

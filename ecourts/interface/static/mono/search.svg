@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Search" class="ecui-search-mono">
-<title>Search</title>
-<desc>Search. Original eCourts interface icon.</desc>
-<path class="p0" d="M15.7 15.7L20.5 20.5" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M3.8 10.2a6.4 6.4 0 1 0 12.8 0a6.4 6.4 0 1 0 -12.8 0Z" fill="currentColor" opacity="0.12"/>
-<path class="p2" d="M3.8 10.2a6.4 6.4 0 1 0 12.8 0a6.4 6.4 0 1 0 -12.8 0Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p3" d="M7.3 9.3Q7.8 7.1 10.2 7.1" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

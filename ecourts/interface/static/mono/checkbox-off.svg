@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Unselected" class="ecui-checkbox-off-mono">
-<title>Unselected</title>
-<desc>Unselected. Original eCourts interface icon.</desc>
-<path class="p0" d="M7 4H17Q20 4 20 7V17Q20 20 17 20H7Q4 20 4 17V7Q4 4 7 4Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M5 5H9V6H6V9H5Z" fill="currentColor"/>
-</svg>

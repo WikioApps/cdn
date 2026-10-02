@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="No court orders" class="ecui-empty-orders-light">
-<title>No court orders</title>
-<desc>No court orders. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-empty-orders-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<path class="p0" d="M6 3.5H14.5L19.5 8.5V18.5Q19.5 20.5 17.5 20.5H6Q4.5 20.5 4.5 19V5Q4.5 3.5 6 3.5Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M14.5 3.5V8.5H19.5" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p2" d="M8 14H16" fill="none" stroke="url(#ecui-empty-orders-light-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

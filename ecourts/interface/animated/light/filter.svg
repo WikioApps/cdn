@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Filter" class="ecui-filter-light-motion">
-<title>Filter</title>
-<desc>One filter knob moves along its guide.</desc>
-<defs><linearGradient id="ecui-filter-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-filter-light-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-filter-light-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-filter-light-motion-p1{0%{transform:translateX(-1.5px)}26%{transform:translateX(-0.8px)}58%{transform:translateX(0.1px)}82%{transform:translateX(0px)}100%{transform:translateX(0px)}}}</style>
-<path class="p0" d="M4 6H20M6 12H18M9 18H15" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M14 4H15Q16 4 16 5V7Q16 8 15 8H14Q13 8 13 7V5Q13 4 14 4Z" fill="url(#ecui-filter-light-motion-accent)"/>
-<path class="p2" d="M9 10H10Q11 10 11 11V13Q11 14 10 14H9Q8 14 8 13V11Q8 10 9 10Z" fill="url(#ecui-filter-light-motion-accent)"/>
-</svg>

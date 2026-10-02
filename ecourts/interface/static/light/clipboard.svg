@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Cause list" class="ecui-clipboard-light">
-<title>Cause list</title>
-<desc>Cause list. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-clipboard-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<path class="p0" d="M6.5 5H17.5Q19.5 5 19.5 7V18.5Q19.5 20.5 17.5 20.5H6.5Q4.5 20.5 4.5 18.5V7Q4.5 5 6.5 5Z" fill="#E9543E" opacity="0.12" style="fill:var(--ec-icon-soft,#E9543E)"/>
-<path class="p1" d="M8 5H6Q4.5 5 4.5 6.5V19Q4.5 20.5 6 20.5H18Q19.5 20.5 19.5 19V6.5Q19.5 5 18 5H16" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p2" d="M9.5 3.5H14.5Q16 3.5 16 5V6Q16 7.5 14.5 7.5H9.5Q8 7.5 8 6V5Q8 3.5 9.5 3.5Z" fill="url(#ecui-clipboard-light-accent)"/>
-<path class="p3" d="M8 11H8.1M11 11H16M8 15.5H8.1M11 15.5H16" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-</svg>

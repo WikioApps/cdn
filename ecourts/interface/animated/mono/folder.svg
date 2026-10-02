@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Folder" class="ecui-folder-mono-motion">
-<title>Folder</title>
-<desc>The front flap opens slightly, exposing the filing edge.</desc>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-folder-mono-motion .p1{transform-box:view-box;transform-origin:12px 20px;animation:ecui-folder-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-folder-mono-motion-p1{0%{transform:scaleY(0.76)}26%{transform:scaleY(0.82)}58%{transform:scaleY(1.015)}82%{transform:scaleY(1)}100%{transform:scaleY(1)}}}</style>
-<path class="p0" d="M3.5 9V6Q3.5 4 5.5 4H9L11 6.5H18.5Q20.5 6.5 20.5 8.5" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M3.5 9H20.5L19.3 18.3Q19.1 20 17.5 20H6.5Q4.9 20 4.7 18.3Z" fill="currentColor"/>
-<path class="p2" d="M8 13H16" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"/>
-</svg>

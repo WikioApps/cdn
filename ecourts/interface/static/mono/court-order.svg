@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Court order" class="ecui-court-order-mono">
-<title>Court order</title>
-<desc>Court order. Original eCourts interface icon.</desc>
-<path class="p0" d="M15 20.5H5V3.5H15L19 7.5V12M14.5 3.5V8H19M8 11H14M8 14H12" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M13.5 17a3.5 3.5 0 1 0 7 0a3.5 3.5 0 1 0 -7 0Z" fill="currentColor"/>
-<path class="p2" d="M15.5 17L17 18.5L19 16" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"/>
-</svg>

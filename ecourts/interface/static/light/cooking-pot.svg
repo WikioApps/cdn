@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Cooking pot" class="ecui-cooking-pot-light">
-<title>Cooking pot</title>
-<desc>Cooking pot. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-cooking-pot-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<path class="p0" d="M5 10V17Q5 20 8 20H16Q19 20 19 17V10M2 12H5M19 12H22" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M4 9Q5 5 10 5V3H14V5Q19 5 20 9Z" fill="url(#ecui-cooking-pot-light-accent)"/>
-</svg>

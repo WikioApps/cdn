@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Copy" class="ecui-copy-dark-motion">
-<title>Copy</title>
-<desc>The front sheet separates briefly from its source.</desc>
-<defs><linearGradient id="ecui-copy-dark-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-copy-dark-motion .p2{transform-box:view-box;transform-origin:12px 12px;animation:ecui-copy-dark-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-copy-dark-motion-p2{0%{transform:translateX(-1.6px)}26%{transform:translateX(-0.7px)}58%{transform:translateX(0.1px)}82%{transform:translateX(0px)}100%{transform:translateX(0px)}}}</style>
-<path class="p0" d="M15 3H5Q3 3 3 5V16" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
-<path class="p1" d="M10 7H19Q21 7 21 9V19Q21 21 19 21H10Q8 21 8 19V9Q8 7 10 7Z" fill="#FFAC8A" opacity="0.12" style="fill:var(--ec-icon-soft,#FFAC8A)"/>
-<path class="p2" d="M10 7H19Q21 7 21 9V19Q21 21 19 21H10Q8 21 8 19V9Q8 7 10 7Z" fill="none" stroke="url(#ecui-copy-dark-motion-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

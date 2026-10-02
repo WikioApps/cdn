@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Case notebook" class="ecui-notebook-pen-light-motion">
-<title>Case notebook</title>
-<desc>The pen completes a short note.</desc>
-<defs><linearGradient id="ecui-notebook-pen-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-notebook-pen-light-motion .p2{transform-box:view-box;transform-origin:12px 12px;animation:ecui-notebook-pen-light-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-notebook-pen-light-motion-p2{0%{transform:translateX(-1.3px)}26%{transform:translateX(-0.8px)}58%{transform:translateX(0.7px)}82%{transform:translateX(0.15px)}100%{transform:translateX(0px)}}}</style>
-<path class="p0" d="M6 3.5H14Q16 3.5 16 5.5V18.5Q16 20.5 14 20.5H6Q4 20.5 4 18.5V5.5Q4 3.5 6 3.5Z" fill="#E9543E" opacity="0.12" style="fill:var(--ec-icon-soft,#E9543E)"/>
-<path class="p1" d="M13 3.5H6Q4 3.5 4 5.5V18.5Q4 20.5 6 20.5H16M2.5 7H5.5M2.5 12H5.5M2.5 17H5.5" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p2" d="M11 15L12 11L19 4L21 6L14 13Z" fill="url(#ecui-notebook-pen-light-motion-accent)"/>
-</svg>

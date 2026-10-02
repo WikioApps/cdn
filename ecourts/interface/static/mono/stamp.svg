@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Court seal" class="ecui-stamp-mono">
-<title>Court seal</title>
-<desc>Court seal. Original eCourts interface icon.</desc>
-<path class="p0" d="M5 20.5H19" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M5 16L7 12.8H10V8Q8.5 7 8.5 5.5A3.5 3.5 0 0 1 15.5 5.5Q15.5 7 14 8V12.8H17L19 16V17.5H5Z" fill="currentColor"/>
-</svg>

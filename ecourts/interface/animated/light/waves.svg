@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Waves" class="ecui-waves-light-motion">
-<title>Waves</title>
-<desc>The centre wave crosses a small horizontal interval.</desc>
-<defs><linearGradient id="ecui-waves-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-waves-light-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-waves-light-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-waves-light-motion-p1{0%{transform:translateX(-0.8px)}26%{transform:translateX(-0.3px)}58%{transform:translateX(0.8px)}82%{transform:translateX(0.2px)}100%{transform:translateX(0px)}}}</style>
-<path class="p0" d="M3 6Q6 9 9 6T15 6T21 6M3 18Q6 21 9 18T15 18T21 18" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M3 12Q6 15 9 12T15 12T21 12" fill="none" stroke="url(#ecui-waves-light-motion-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

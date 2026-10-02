@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Timer" class="ecui-timer-dark">
-<title>Timer</title>
-<desc>Timer. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-timer-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
-<path class="p0" d="M4.5 13.5a7.5 7.5 0 1 0 15 0a7.5 7.5 0 1 0 -15 0Z" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
-<path class="p1" d="M9.7 2.5H14.3Q15 2.5 15 3.2V3.8Q15 4.5 14.3 4.5H9.7Q9 4.5 9 3.8V3.2Q9 2.5 9.7 2.5Z" fill="url(#ecui-timer-dark-accent)"/>
-<path class="p2" d="M12 13.5L15.5 9.5" fill="none" stroke="url(#ecui-timer-dark-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

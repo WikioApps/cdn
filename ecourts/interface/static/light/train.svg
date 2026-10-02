@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Train" class="ecui-train-light">
-<title>Train</title>
-<desc>Train. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-train-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<path class="p0" d="M8 19L5 22M16 19L19 22" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M8 3H16Q19 3 19 6V16Q19 19 16 19H8Q5 19 5 16V6Q5 3 8 3Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p2" d="M9 6H15Q16 6 16 7V11Q16 12 15 12H9Q8 12 8 11V7Q8 6 9 6Z" fill="url(#ecui-train-light-accent)"/>
-<path class="p3" d="M8 16H8.1M16 16H16.1" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-</svg>

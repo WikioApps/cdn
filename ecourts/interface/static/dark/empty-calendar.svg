@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="No diary events" class="ecui-empty-calendar-dark">
-<title>No diary events</title>
-<desc>No diary events. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-empty-calendar-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
-<path class="p0" d="M5.5 5H18.5Q20.5 5 20.5 7V18Q20.5 20 18.5 20H5.5Q3.5 20 3.5 18V7Q3.5 5 5.5 5Z" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
-<path class="p1" d="M4 9H20M8 3V6M16 3V6" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
-<path class="p2" d="M9 14.5H15" fill="none" stroke="url(#ecui-empty-calendar-dark-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Paw" class="ecui-paw-mono-motion">
-<title>Paw</title>
-<desc>The central paw pad lands beneath the four toe pads.</desc>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-paw-mono-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-paw-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-paw-mono-motion-p1{0%{transform:translateY(-1.4px)}26%{transform:translateY(-0.7px)}58%{transform:translateY(0.35px)}82%{transform:translateY(0px)}100%{transform:translateY(0px)}}}</style>
-<path class="p0" d="M3.5 10a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM8 5.5a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM13 5.5a2 2 0 1 0 4 0a2 2 0 1 0 -4 0ZM17 10a2 2 0 1 0 4 0a2 2 0 1 0 -4 0Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M7 16Q12 8 17 16Q21 22 12 20Q3 22 7 16Z" fill="currentColor"/>
-</svg>

@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Map" class="ecui-map-light-motion">
-<title>Map</title>
-<desc>The final map panel opens from its fold.</desc>
-<defs><linearGradient id="ecui-map-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-map-light-motion .p1{transform-box:view-box;transform-origin:15px 12px;animation:ecui-map-light-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-map-light-motion-p1{0%{transform:scaleX(0.68)}26%{transform:scaleX(0.75)}58%{transform:scaleX(1.02)}82%{transform:scaleX(1)}100%{transform:scaleX(1)}}}</style>
-<path class="p0" d="M3.5 6L9 3.5L15 6L20.5 3.5V18L15 20.5L9 18L3.5 20.5ZM9 3.5V18M15 6V20.5" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M15 6L20.5 3.5V18L15 20.5Z" fill="url(#ecui-map-light-motion-accent)"/>
-</svg>

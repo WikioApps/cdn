@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="More actions" class="ecui-more-light">
-<title>More actions</title>
-<desc>More actions. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-more-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<path class="p0" d="M3.3 12a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0 -3.4 0Z" fill="url(#ecui-more-light-accent)"/>
-<path class="p1" d="M10.3 12a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0 -3.4 0Z" fill="url(#ecui-more-light-accent)"/>
-<path class="p2" d="M17.3 12a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0 -3.4 0Z" fill="url(#ecui-more-light-accent)"/>
-</svg>

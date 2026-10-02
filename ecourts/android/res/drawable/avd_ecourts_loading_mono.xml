@@ -1,5 +1,0 @@
-<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" android:drawable="@drawable/ic_ecourts_loading_mono">
-  <target android:name="ecourts_pillar_left" android:animation="@animator/ecourts_loading_pillar_left" />
-  <target android:name="ecourts_pillar_center" android:animation="@animator/ecourts_loading_pillar_center" />
-  <target android:name="ecourts_pillar_right" android:animation="@animator/ecourts_loading_pillar_right" />
-</animated-vector>

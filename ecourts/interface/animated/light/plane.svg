@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Plane" class="ecui-plane-light-motion">
-<title>Plane</title>
-<desc>The aircraft advances a short distance along its heading.</desc>
-<defs><linearGradient id="ecui-plane-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-plane-light-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-plane-light-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-plane-light-motion-p1{0%{transform:translateY(1.5px)}26%{transform:translateY(0.7px)}58%{transform:translateY(-0.2px)}82%{transform:translateY(0px)}100%{transform:translateY(0px)}}}</style>
-<path class="p0" d="M3 20H10" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p1" d="M4 13L10 11L8 4L11 3L15 9L20 7Q22 7 21 10L16 13L17 19L14 20L12 15L7 17Z" fill="url(#ecui-plane-light-motion-accent)"/>
-</svg>

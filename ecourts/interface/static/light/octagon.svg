@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Octagon" class="ecui-octagon-light">
-<title>Octagon</title>
-<desc>Octagon. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-octagon-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
-<path class="p0" d="M19.668 8.824L19.668 15.176L15.176 19.668L8.824 19.668L4.332 15.176L4.332 8.824L8.824 4.332L15.176 4.332Z" fill="#E9543E" opacity="0.12" style="fill:var(--ec-icon-soft,#E9543E)"/>
-<path class="p1" d="M19.668 8.824L19.668 15.176L15.176 19.668L8.824 19.668L4.332 15.176L4.332 8.824L8.824 4.332L15.176 4.332Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
-<path class="p2" d="M10.4 12a1.6 1.6 0 1 0 3.2 0a1.6 1.6 0 1 0 -3.2 0Z" fill="url(#ecui-octagon-light-accent)"/>
-</svg>

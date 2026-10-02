@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Cat" class="ecui-cat-dark">
-<title>Cat</title>
-<desc>Cat. Original eCourts interface icon.</desc>
-<defs><linearGradient id="ecui-cat-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
-<path class="p0" d="M5 10L4 4L9 7Q12 5.5 15 7L20 4L19 10Q23 20 12 21Q1 20 5 10Z" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
-<path class="p1" d="M8 13H8.1M16 13H16.1M10 17L12 18L14 17" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
-<path class="p2" d="M4.5 5L8 7.5L5.5 9Z" fill="url(#ecui-cat-dark-accent)"/>
-</svg>

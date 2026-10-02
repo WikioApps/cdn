@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Expand" class="ecui-chevron-down-mono-motion">
-<title>Expand</title>
-<desc>The directional stroke leads a short movement and returns.</desc>
-<style>@media(prefers-reduced-motion:no-preference){.ecui-chevron-down-mono-motion .p0{transform-box:view-box;transform-origin:12px 12px;animation:ecui-chevron-down-mono-motion-p0 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-chevron-down-mono-motion-p0{0%{transform:translateY(-2.1px)}26%{transform:translateY(-0.7px)}58%{transform:translateY(0.18px)}82%{transform:translateY(0px)}100%{transform:translateY(0px)}}}</style>
-<path class="p0" d="M5.5 9L12 15.5L18.5 9" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

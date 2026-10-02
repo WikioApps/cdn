@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Paintbrush" class="ecui-paintbrush-mono">
-<title>Paintbrush</title>
-<desc>Paintbrush. Original eCourts interface icon.</desc>
-<path class="p0" d="M10 13L18 3.5Q20 2.5 21 5L13 15ZM10 13Q4 12 5 17Q6 19 3.5 20.5Q11 22 13 15Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M4 20Q10 21 11 16L8 15Z" fill="currentColor"/>
-</svg>

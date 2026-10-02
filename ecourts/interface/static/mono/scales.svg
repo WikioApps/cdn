@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Scales" class="ecui-scales-mono">
-<title>Scales</title>
-<desc>Scales. Original eCourts interface icon.</desc>
-<path class="p0" d="M12 4V20M8.5 20H15.5" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p1" d="M5 7H19M6 7L3.5 13H8.5ZM18 7L15.5 13H20.5Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="p2" d="M10.4 6.8a1.6 1.6 0 1 0 3.2 0a1.6 1.6 0 1 0 -3.2 0Z" fill="currentColor"/>
-</svg>

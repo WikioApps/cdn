@@ -1,8 +1,0 @@
-<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:width="24dp" android:height="24dp" android:viewportWidth="24" android:viewportHeight="24">
-<group android:name="g0" android:pivotX="12" android:pivotY="12">
-<path android:name="p0" android:pathData="M5 3V9Q5 12 8 12Q11 12 11 9V3M8 3V21" android:fillColor="@android:color/transparent" android:strokeColor="@color/ecui_mono" android:strokeWidth="1.65" android:strokeLineCap="round" android:strokeLineJoin="round"/>
-</group>
-<group android:name="g1" android:pivotX="12" android:pivotY="12">
-<path android:name="p1" android:pathData="M19 3Q14 5 15 12H18V21H20V3Z" android:fillColor="@color/ecui_mono"/>
-</group>
-</vector>
