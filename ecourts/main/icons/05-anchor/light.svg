@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+<title id="title">eCourts · Anchor · Light</title>
+<desc id="description">Two broad opposing chevrons interlock through alternating crossings. Carefully cut edges surround a clear diamond opening; teal and warm brass remain distinct against a complete light background.</desc>
+<defs><linearGradient id="left" x1="362" y1="260" x2="520" y2="752" gradientUnits="userSpaceOnUse"><stop stop-color="#115F65"/><stop offset="1" stop-color="#073B43"/></linearGradient>
+    <linearGradient id="right" x1="575" y1="268" x2="677" y2="724" gradientUnits="userSpaceOnUse"><stop stop-color="#D5A663"/><stop offset="1" stop-color="#A97632"/></linearGradient>
+    <linearGradient id="leftRim" x1="342" y1="270" x2="453" y2="728" gradientUnits="userSpaceOnUse"><stop stop-color="#7FC0B9"/><stop offset=".6" stop-color="#115F65"/><stop offset="1" stop-color="#062C36"/></linearGradient>
+    <linearGradient id="rightRim" x1="541" y1="272" x2="680" y2="710" gradientUnits="userSpaceOnUse"><stop stop-color="#FBE4B7"/><stop offset=".6" stop-color="#D5A663"/><stop offset="1" stop-color="#694923"/></linearGradient>
+    <linearGradient id="underpass" x1="483" y1="656" x2="542" y2="714" gradientUnits="userSpaceOnUse"><stop stop-color="#25383B" stop-opacity=".65"/><stop offset="1" stop-color="#25383B" stop-opacity="0"/></linearGradient>
+    <linearGradient id="topShadow" x1="468" y1="370" x2="438" y2="405" gradientUnits="userSpaceOnUse"><stop stop-color="#25383B" stop-opacity=".55"/><stop offset="1" stop-color="#25383B" stop-opacity="0"/></linearGradient>
+    <filter id="lift" x="-.15" y="-.15" width="1.3" height="1.35" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation="7" result="blur"/><feOffset in="blur" dy="9" result="offset"/><feFlood flood-color="#25383B" flood-opacity=".12" result="color"/><feComposite in="color" in2="offset" operator="in" result="shadow"/><feMerge><feMergeNode in="shadow"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<g id="background"><path d="M0 0H1024V1024H0Z" fill="#F3F0E8"/></g>
+<g id="symbol" transform="translate(512 512) scale(1.1) translate(-512 -512)" filter="url(#lift)">
+  <g id="left-chevron">
+    <path d="M208 512 442 236 574 348 434 512 574 676 442 788Z" fill="url(#left)"/>
+    <path d="M208 512 442 236 454 246 226 513 446 773 442 788Z" fill="url(#leftRim)"/>
+    <path d="M563 348 424 512 563 676 552 676 412 512 554 342Z" fill="#062C36" opacity=".5"/>
+    <path d="M442 246 562 348 550 350 441 258Z" fill="#7FC0B9" opacity=".76"/>
+    <path d="M438 771 563 670 574 676 442 788Z" fill="#062C36" opacity=".63"/>
+    <path d="M238 504 437 268" fill="none" stroke="#7FC0B9" stroke-width="2.5" opacity=".42"/>
+    <path d="M449 650 518 618 574 676 526 716Z" fill="url(#underpass)"/>
+  </g>
+  <g id="right-chevron">
+    <path d="M816 512 582 236 450 348 590 512 450 676 582 788Z" fill="url(#right)"/>
+    <path d="M816 512 582 236 570 246 798 513 578 773 582 788Z" fill="url(#rightRim)"/>
+    <path d="M461 348 600 512 461 676 472 676 612 512 470 342Z" fill="#694923" opacity=".38"/>
+    <path d="M582 246 462 348 474 350 583 258Z" fill="#FBE4B7" opacity=".94"/>
+    <path d="M586 771 461 670 450 676 582 788Z" fill="#694923" opacity=".48"/>
+    <path d="M786 504 587 268" fill="none" stroke="#FBE4B7" stroke-width="2.5" opacity=".63"/>
+
+  </g>
+  <g id="upper-overpass">
+    <path d="M208 512 442 236 574 348 434 512Z" fill="url(#left)"/>
+    <path d="M208 512 442 236 454 246 226 513Z" fill="url(#leftRim)"/>
+    <path d="M442 246 562 348 550 350 441 258Z" fill="#7FC0B9" opacity=".76"/>
+    <path d="M563 348 424 512 434 512 574 348Z" fill="#062C36" opacity=".5"/>
+  </g>
+</g>
+</svg>

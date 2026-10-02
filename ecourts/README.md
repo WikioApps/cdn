@@ -1,68 +1,80 @@
 # eCourts icons
 
-Ten standalone, editable SVG app icons. Each has a `1024 × 1024` viewBox and self-contained vector artwork.
+Ten SVG concepts, each with matching light and dark versions. Choose the file that matches your app theme. Click a preview to open the full SVG.
 
 ## Liquid glass
 
-### 01 · Prism Court
+### 01 · Interlace
 
-[SVG · 65.1 KB](liquid-glass/icons/01-prism-court.svg)
+| Light | Dark |
+| --- | --- |
+| <a href="liquid-glass/icons/01-interlace/light.svg"><img src="liquid-glass/icons/01-interlace/light.svg" width="160" height="160" alt="Interlace light"></a> | <a href="liquid-glass/icons/01-interlace/dark.svg"><img src="liquid-glass/icons/01-interlace/dark.svg" width="160" height="160" alt="Interlace dark"></a> |
+| [light.svg](liquid-glass/icons/01-interlace/light.svg) | [dark.svg](liquid-glass/icons/01-interlace/dark.svg) |
 
-<img src="liquid-glass/icons/01-prism-court.svg" width="320" height="320" alt="Prism Court">
+### 02 · Vector
 
-### 02 · Liquid Balance
+| Light | Dark |
+| --- | --- |
+| <a href="liquid-glass/icons/02-vector/light.svg"><img src="liquid-glass/icons/02-vector/light.svg" width="160" height="160" alt="Vector light"></a> | <a href="liquid-glass/icons/02-vector/dark.svg"><img src="liquid-glass/icons/02-vector/dark.svg" width="160" height="160" alt="Vector dark"></a> |
+| [light.svg](liquid-glass/icons/02-vector/light.svg) | [dark.svg](liquid-glass/icons/02-vector/dark.svg) |
 
-[SVG · 79.9 KB](liquid-glass/icons/02-liquid-balance.svg)
+### 03 · Pulse
 
-<img src="liquid-glass/icons/02-liquid-balance.svg" width="320" height="320" alt="Liquid Balance">
+| Light | Dark |
+| --- | --- |
+| <a href="liquid-glass/icons/03-pulse/light.svg"><img src="liquid-glass/icons/03-pulse/light.svg" width="160" height="160" alt="Pulse light"></a> | <a href="liquid-glass/icons/03-pulse/dark.svg"><img src="liquid-glass/icons/03-pulse/dark.svg" width="160" height="160" alt="Pulse dark"></a> |
+| [light.svg](liquid-glass/icons/03-pulse/light.svg) | [dark.svg](liquid-glass/icons/03-pulse/dark.svg) |
 
-### 03 · Crystal Folio
+### 04 · Aperture
 
-[SVG · 76.6 KB](liquid-glass/icons/03-crystal-folio.svg)
+| Light | Dark |
+| --- | --- |
+| <a href="liquid-glass/icons/04-aperture/light.svg"><img src="liquid-glass/icons/04-aperture/light.svg" width="160" height="160" alt="Aperture light"></a> | <a href="liquid-glass/icons/04-aperture/dark.svg"><img src="liquid-glass/icons/04-aperture/dark.svg" width="160" height="160" alt="Aperture dark"></a> |
+| [light.svg](liquid-glass/icons/04-aperture/light.svg) | [dark.svg](liquid-glass/icons/04-aperture/dark.svg) |
 
-<img src="liquid-glass/icons/03-crystal-folio.svg" width="320" height="320" alt="Crystal Folio">
+### 05 · Facet
 
-### 04 · Orbit Docket
-
-[SVG · 55.4 KB](liquid-glass/icons/04-orbit-docket.svg)
-
-<img src="liquid-glass/icons/04-orbit-docket.svg" width="320" height="320" alt="Orbit Docket">
-
-### 05 · Glass Monogram
-
-[SVG · 76.3 KB](liquid-glass/icons/05-glass-monogram.svg)
-
-<img src="liquid-glass/icons/05-glass-monogram.svg" width="320" height="320" alt="Glass Monogram">
+| Light | Dark |
+| --- | --- |
+| <a href="liquid-glass/icons/05-facet/light.svg"><img src="liquid-glass/icons/05-facet/light.svg" width="160" height="160" alt="Facet light"></a> | <a href="liquid-glass/icons/05-facet/dark.svg"><img src="liquid-glass/icons/05-facet/dark.svg" width="160" height="160" alt="Facet dark"></a> |
+| [light.svg](liquid-glass/icons/05-facet/light.svg) | [dark.svg](liquid-glass/icons/05-facet/dark.svg) |
 
 ## Normal / main
 
-### 01 · Court Seal
+### 01 · Accord
 
-[SVG · 104.7 KB](main/icons/01-court-seal.svg)
+| Light | Dark |
+| --- | --- |
+| <a href="main/icons/01-accord/light.svg"><img src="main/icons/01-accord/light.svg" width="160" height="160" alt="Accord light"></a> | <a href="main/icons/01-accord/dark.svg"><img src="main/icons/01-accord/dark.svg" width="160" height="160" alt="Accord dark"></a> |
+| [light.svg](main/icons/01-accord/light.svg) | [dark.svg](main/icons/01-accord/dark.svg) |
 
-<img src="main/icons/01-court-seal.svg" width="320" height="320" alt="Court Seal">
+### 02 · Route
 
-### 02 · Casebook
+| Light | Dark |
+| --- | --- |
+| <a href="main/icons/02-route/light.svg"><img src="main/icons/02-route/light.svg" width="160" height="160" alt="Route light"></a> | <a href="main/icons/02-route/dark.svg"><img src="main/icons/02-route/dark.svg" width="160" height="160" alt="Route dark"></a> |
+| [light.svg](main/icons/02-route/light.svg) | [dark.svg](main/icons/02-route/dark.svg) |
 
-[SVG · 83.4 KB](main/icons/02-casebook.svg)
+### 03 · Union
 
-<img src="main/icons/02-casebook.svg" width="320" height="320" alt="Casebook">
+| Light | Dark |
+| --- | --- |
+| <a href="main/icons/03-union/light.svg"><img src="main/icons/03-union/light.svg" width="160" height="160" alt="Union light"></a> | <a href="main/icons/03-union/dark.svg"><img src="main/icons/03-union/dark.svg" width="160" height="160" alt="Union dark"></a> |
+| [light.svg](main/icons/03-union/light.svg) | [dark.svg](main/icons/03-union/dark.svg) |
 
-### 03 · Justice Mark
+### 04 · Index
 
-[SVG · 89.6 KB](main/icons/03-justice-mark.svg)
+| Light | Dark |
+| --- | --- |
+| <a href="main/icons/04-index/light.svg"><img src="main/icons/04-index/light.svg" width="160" height="160" alt="Index light"></a> | <a href="main/icons/04-index/dark.svg"><img src="main/icons/04-index/dark.svg" width="160" height="160" alt="Index dark"></a> |
+| [light.svg](main/icons/04-index/light.svg) | [dark.svg](main/icons/04-index/dark.svg) |
 
-<img src="main/icons/03-justice-mark.svg" width="320" height="320" alt="Justice Mark">
+### 05 · Anchor
 
-### 04 · Civic Monogram
+| Light | Dark |
+| --- | --- |
+| <a href="main/icons/05-anchor/light.svg"><img src="main/icons/05-anchor/light.svg" width="160" height="160" alt="Anchor light"></a> | <a href="main/icons/05-anchor/dark.svg"><img src="main/icons/05-anchor/dark.svg" width="160" height="160" alt="Anchor dark"></a> |
+| [light.svg](main/icons/05-anchor/light.svg) | [dark.svg](main/icons/05-anchor/dark.svg) |
 
-[SVG · 78.5 KB](main/icons/04-civic-monogram.svg)
-
-<img src="main/icons/04-civic-monogram.svg" width="320" height="320" alt="Civic Monogram">
-
-### 05 · Hearing Docket
-
-[SVG · 65.3 KB](main/icons/05-hearing-docket.svg)
-
-<img src="main/icons/05-hearing-docket.svg" width="320" height="320" alt="Hearing Docket">
+All artwork uses editable vector shapes in a `1024 × 1024` viewBox. Each SVG includes its own background and colors; no external fonts or images are required.
 

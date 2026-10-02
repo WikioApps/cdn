@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+<title id="title">eCourts · Pulse · dark</title>
+<desc id="description">A single coral glass crest with three unequal rising lobes and a flowing lower edge. Warm highlights and a defined garnet rim preserve the silhouette on the dark background.</desc>
+<defs>
+  <linearGradient id="body" x1="302" y1="261" x2="683" y2="781" gradientUnits="userSpaceOnUse"><stop stop-color="#FFDBBB"/><stop offset=".29" stop-color="#FE9D9F"/><stop offset=".64" stop-color="#D95471"/><stop offset="1" stop-color="#9E2E55"/></linearGradient>
+  <linearGradient id="edge" x1="428" y1="223" x2="642" y2="789" gradientUnits="userSpaceOnUse"><stop stop-color="#FFEBDD"/><stop offset=".26" stop-color="#EA777E"/><stop offset=".57" stop-color="#FFEBDD" stop-opacity=".75"/><stop offset=".79" stop-color="#D95471"/><stop offset="1" stop-color="#9E2E55"/></linearGradient>
+  <linearGradient id="face" x1="389" y1="296" x2="652" y2="666" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFAE5" stop-opacity=".9"/><stop offset=".42" stop-color="#FFDEC8" stop-opacity=".42"/><stop offset="1" stop-color="#FFD7D0" stop-opacity="0"/></linearGradient>
+  <linearGradient id="current" x1="269" y1="544" x2="736" y2="720" gradientUnits="userSpaceOnUse"><stop stop-color="#FFEECF" stop-opacity=".7"/><stop offset=".38" stop-color="#FF9DA7" stop-opacity=".1"/><stop offset=".77" stop-color="#FFCDC6" stop-opacity=".69"/><stop offset="1" stop-color="#FFF8DF" stop-opacity=".92"/></linearGradient>
+  <linearGradient id="lower-lip" x1="352" y1="692" x2="628" y2="788" gradientUnits="userSpaceOnUse"><stop stop-color="#ED7080"/><stop offset=".51" stop-color="#A53157"/><stop offset=".79" stop-color="#FF9FAD"/><stop offset="1" stop-color="#D8537A"/></linearGradient>
+  <linearGradient id="rim-light" x1="394" y1="261" x2="684" y2="733" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFCEB"/><stop offset=".55" stop-color="#FFF0DB" stop-opacity=".68"/><stop offset="1" stop-color="#FFC4D3" stop-opacity=".25"/></linearGradient>
+  <radialGradient id="volume" cx="381" cy="509" r="340" gradientUnits="userSpaceOnUse"><stop stop-color="#FFDBC8" stop-opacity=".62"/><stop offset=".72" stop-color="#FF8495" stop-opacity=".13"/><stop offset="1" stop-color="#A2235D" stop-opacity=".12"/></radialGradient>
+  <filter id="lift" x="-.2" y="-.2" width="1.4" height="1.5" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation="18" result="blur"/><feOffset in="blur" dx="0" dy="20" result="offset"/><feFlood flood-color="#502A3E" flood-opacity=".35" result="color"/><feComposite in="color" in2="offset" operator="in" result="shadow"/><feMerge><feMergeNode in="shadow"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="silhouette"><path d="M196 645 C192 602 212 582 237 556 C255 537 250 455 268 413 C283 377 320 375 343 405 C364 433 372 470 386 489 C395 503 412 498 413 478 L415 310 C416 263 443 234 480 234 C519 234 543 266 548 306 L559 432 C561 449 580 451 588 433 L630 354 C649 318 686 305 718 319 C754 335 775 371 770 413 L743 594 C737 635 755 652 789 668 C826 685 828 718 800 740 C755 776 694 795 628 788 L278 740 C229 733 199 696 196 645 Z"/></clipPath>
+</defs>
+<g id="background"><path fill="#16151E" d="M0 0H1024V1024H0Z"/></g>
+<g id="symbol">
+  <path id="glass-body" d="M196 645 C192 602 212 582 237 556 C255 537 250 455 268 413 C283 377 320 375 343 405 C364 433 372 470 386 489 C395 503 412 498 413 478 L415 310 C416 263 443 234 480 234 C519 234 543 266 548 306 L559 432 C561 449 580 451 588 433 L630 354 C649 318 686 305 718 319 C754 335 775 371 770 413 L743 594 C737 635 755 652 789 668 C826 685 828 718 800 740 C755 776 694 795 628 788 L278 740 C229 733 199 696 196 645 Z" fill="url(#body)" stroke="#EA777E" stroke-width="5" stroke-linejoin="round" filter="url(#lift)"/>
+  <g clip-path="url(#silhouette)">
+    <path id="broad-refraction" d="M152 603 C219 596 243 578 280 538 C328 486 381 536 407 540 C455 549 450 459 455 370 C462 311 492 290 532 318 L568 465 C577 508 610 494 638 442 C680 364 723 360 795 402 L800 644 C718 688 627 709 548 689 C481 672 456 618 398 628 C322 641 280 693 202 692Z" fill="url(#face)"/>
+    <path id="volume-field" d="M177 211H839V811H177Z" fill="url(#volume)"/>
+    <path id="left-fold" d="M254 542 C266 504 261 437 282 409 C303 385 325 406 337 431 C354 469 356 525 384 546 C405 563 428 561 447 544 C420 594 382 601 354 570 C322 535 317 474 296 447 C278 475 282 514 254 542Z" fill="#FFF3DB" opacity=".23"/>
+    <path id="central-fold" d="M443 296 C459 259 491 262 509 287 C527 312 525 384 533 432 C541 481 551 516 583 526 C543 528 516 501 506 452 C496 405 509 329 485 301 C472 286 458 291 443 296Z" fill="#FFF9E7" opacity=".4"/>
+    <path id="right-fold" d="M664 351 C694 329 725 346 738 369 C753 396 741 449 737 480 L718 583 C711 630 730 657 761 674 C709 668 687 634 695 582 L719 425 C724 385 701 350 664 351Z" fill="#7E174E" opacity=".22"/>
+    <path id="surface-current" d="M205 622 C280 678 337 613 413 609 C483 605 510 670 581 684 C650 698 723 688 793 657 L821 696 C743 742 662 754 589 738 C517 722 488 672 422 669 C344 665 298 728 223 686Z" fill="url(#current)"/>
+    <path id="lower-bevel" d="M198 663 C235 705 283 705 330 709 L627 753 C693 762 745 750 812 714 L827 740 L745 807 L602 817 L246 765Z" fill="url(#lower-lip)"/>
+    <path id="lower-caustic" d="M251 715 C305 732 354 729 400 738 L628 771 C687 778 746 764 788 739" fill="none" stroke="#FFD4D1" stroke-width="5" stroke-linecap="round" opacity=".69"/>
+    <path id="left-highlight" d="M276 430 C283 401 302 395 317 411" fill="none" stroke="#FFFAE3" stroke-width="7" stroke-linecap="round" opacity=".91"/>
+    <path id="central-highlight" d="M430 398 L434 316 C435 280 452 254 478 254 C495 254 508 265 515 280" fill="none" stroke="url(#rim-light)" stroke-width="9" stroke-linecap="round"/>
+    <path id="right-highlight" d="M605 442 L645 366 C661 336 687 330 708 342" fill="none" stroke="#FFEED6" stroke-width="8" stroke-linecap="round" opacity=".82"/>
+    <path id="flow-highlight" d="M226 624 C272 650 318 621 356 608" fill="none" stroke="#FFE7D4" stroke-width="5" stroke-linecap="round" opacity=".69"/>
+  </g>
+  <path id="polished-rim" d="M196 645 C192 602 212 582 237 556 C255 537 250 455 268 413 C283 377 320 375 343 405 C364 433 372 470 386 489 C395 503 412 498 413 478 L415 310 C416 263 443 234 480 234 C519 234 543 266 548 306 L559 432 C561 449 580 451 588 433 L630 354 C649 318 686 305 718 319 C754 335 775 371 770 413 L743 594 C737 635 755 652 789 668 C826 685 828 718 800 740 C755 776 694 795 628 788 L278 740 C229 733 199 696 196 645 Z" fill="none" stroke="url(#edge)" stroke-width="3" stroke-linejoin="round"/>
+</g>
+</svg>

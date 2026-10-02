@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+<title id="title">eCourts · Facet · Dark</title>
+<desc id="description">Three folded crystal fins meet around an open Y-shaped channel. A compact sculptural mark with clear bevels, restrained reflections and a complete dark background.</desc>
+<defs><radialGradient id="background" cx=".43" cy=".2" r=".95"><stop stop-color="#17253A"/><stop offset="1" stop-color="#101A2A"/></radialGradient>
+    <linearGradient id="front" x1="375" y1="222" x2="549" y2="484" gradientUnits="userSpaceOnUse"><stop stop-color="#E6FFFF"/><stop offset=".35" stop-color="#B4FFFF"/><stop offset=".8" stop-color="#3DABB9"/><stop offset="1" stop-color="#244F75"/></linearGradient>
+    <linearGradient id="right" x1="516" y1="196" x2="658" y2="470" gradientUnits="userSpaceOnUse"><stop stop-color="#E6FFFF"/><stop offset=".2" stop-color="#5BCBDA"/><stop offset=".7" stop-color="#66ACD0"/><stop offset="1" stop-color="#182E55"/></linearGradient>
+    <linearGradient id="heel" x1="344" y1="437" x2="688" y2="462" gradientUnits="userSpaceOnUse"><stop stop-color="#718FCB"/><stop offset=".48" stop-color="#9CA8E4"/><stop offset="1" stop-color="#485E9C"/></linearGradient>
+    <linearGradient id="edge" x1="397" y1="298" x2="628" y2="438" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset=".48" stop-color="#CCFFFB"/><stop offset="1" stop-color="#B4F7FA"/></linearGradient>
+    <linearGradient id="rim" x1="512" y1="180" x2="512" y2="483" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset=".58" stop-color="#CCFFFB" stop-opacity=".8"/><stop offset="1" stop-color="#B4F7FA" stop-opacity=".3"/></linearGradient>
+    <linearGradient id="cut" x1="349" y1="438" x2="670" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF" stop-opacity=".25"/><stop offset=".52" stop-color="#FFFFFF" stop-opacity=".94"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".1"/></linearGradient>
+    <filter id="lift" x="-.15" y="-.15" width="1.3" height="1.35" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation="9" result="blur"/><feOffset in="blur" dy="9" result="offset"/><feFlood flood-color="#000817" flood-opacity=".34" result="color"/><feComposite in="color" in2="offset" operator="in" result="shadow"/><feMerge><feMergeNode in="shadow"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<g id="background-layer"><path d="M0 0H1024V1024H0Z" fill="url(#background)"/></g>
+<g id="symbol" transform="translate(512 529) scale(1.05) translate(-512 -512)" filter="url(#lift)"><g transform="rotate(0 512 512)"><path d="M512 174 690 449 534 488Q512 495 490 488L334 449Z" fill="url(#front)" stroke="#B4F7FA" stroke-opacity=".65" stroke-width="2.2" stroke-linejoin="round"/>
+      <path d="M512 184 679 445 529 478 512 435Z" fill="url(#right)"/>
+      <path d="M342 448 493 486Q512 492 531 486L683 448 512 435Z" fill="url(#heel)"/>
+      <path d="M512 183 343 446 354 443 512 198Z" fill="url(#rim)"/>
+      <path d="M512 183 682 446 671 442 512 198Z" fill="url(#edge)" opacity=".74"/>
+      <path d="M512 198 516 434 528 477 512 483 496 477 508 434Z" fill="url(#rim)" opacity=".63"/>
+      <path d="M354 443 512 431 671 443" fill="none" stroke="url(#cut)" stroke-width="3" stroke-linecap="round"/>
+      <path d="M353 453 493 484Q512 490 531 484L671 453" fill="none" stroke="url(#edge)" stroke-width="2.5" opacity=".8"/>
+      <path d="M369 414 492 223 492 274 409 416Z" fill="#FFFFFF" opacity=".14"/>
+      <path d="M523 250 624 407 647 433 523 400Z" fill="#FFFFFF" opacity=".1"/>
+      <path d="M512 187 511 226" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity=".91"/></g>
+<g transform="rotate(120 512 512)"><path d="M512 174 690 449 534 488Q512 495 490 488L334 449Z" fill="url(#front)" stroke="#B4F7FA" stroke-opacity=".65" stroke-width="2.2" stroke-linejoin="round"/>
+      <path d="M512 184 679 445 529 478 512 435Z" fill="url(#right)"/>
+      <path d="M342 448 493 486Q512 492 531 486L683 448 512 435Z" fill="url(#heel)"/>
+      <path d="M512 183 343 446 354 443 512 198Z" fill="url(#rim)"/>
+      <path d="M512 183 682 446 671 442 512 198Z" fill="url(#edge)" opacity=".74"/>
+      <path d="M512 198 516 434 528 477 512 483 496 477 508 434Z" fill="url(#rim)" opacity=".63"/>
+      <path d="M354 443 512 431 671 443" fill="none" stroke="url(#cut)" stroke-width="3" stroke-linecap="round"/>
+      <path d="M353 453 493 484Q512 490 531 484L671 453" fill="none" stroke="url(#edge)" stroke-width="2.5" opacity=".8"/>
+      <path d="M369 414 492 223 492 274 409 416Z" fill="#FFFFFF" opacity=".14"/>
+      <path d="M523 250 624 407 647 433 523 400Z" fill="#FFFFFF" opacity=".1"/>
+      <path d="M512 187 511 226" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity=".91"/></g>
+<g transform="rotate(240 512 512)"><path d="M512 174 690 449 534 488Q512 495 490 488L334 449Z" fill="url(#front)" stroke="#B4F7FA" stroke-opacity=".65" stroke-width="2.2" stroke-linejoin="round"/>
+      <path d="M512 184 679 445 529 478 512 435Z" fill="url(#right)"/>
+      <path d="M342 448 493 486Q512 492 531 486L683 448 512 435Z" fill="url(#heel)"/>
+      <path d="M512 183 343 446 354 443 512 198Z" fill="url(#rim)"/>
+      <path d="M512 183 682 446 671 442 512 198Z" fill="url(#edge)" opacity=".74"/>
+      <path d="M512 198 516 434 528 477 512 483 496 477 508 434Z" fill="url(#rim)" opacity=".63"/>
+      <path d="M354 443 512 431 671 443" fill="none" stroke="url(#cut)" stroke-width="3" stroke-linecap="round"/>
+      <path d="M353 453 493 484Q512 490 531 484L671 453" fill="none" stroke="url(#edge)" stroke-width="2.5" opacity=".8"/>
+      <path d="M369 414 492 223 492 274 409 416Z" fill="#FFFFFF" opacity=".14"/>
+      <path d="M523 250 624 407 647 433 523 400Z" fill="#FFFFFF" opacity=".1"/>
+      <path d="M512 187 511 226" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity=".91"/></g></g>
+</svg>

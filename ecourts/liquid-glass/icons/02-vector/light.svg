@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">eCourts · Vector · Light</title>
+  <desc id="desc">A folded crystal with two broad asymmetric facets and a flowing open channel. A directional brand symbol with precise cyan glass edges, calibrated for a light interface.</desc>
+  <defs>
+    <radialGradient id="field" cx="30%" cy="20%" r="98%"><stop stop-color="#f0f7fa"/><stop offset="1" stop-color="#d9eaf2"/></radialGradient>
+    <linearGradient id="edge" x1="270" y1="220" x2="752" y2="802" gradientUnits="userSpaceOnUse"><stop stop-color="#a4f5ff"/><stop offset=".24" stop-color="#168eb7"/><stop offset=".59" stop-color="#2b5987"/><stop offset="1" stop-color="#a4f5ff"/></linearGradient>
+    <linearGradient id="upper" x1="308" y1="225" x2="688" y2="595" gradientUnits="userSpaceOnUse"><stop stop-color="#e5fcff"/><stop offset=".34" stop-color="#66dce6"/><stop offset=".78" stop-color="#0798bc"/><stop offset="1" stop-color="#324897"/></linearGradient>
+    <linearGradient id="lower" x1="743" y1="470" x2="358" y2="789" gradientUnits="userSpaceOnUse"><stop stop-color="#77d4e8"/><stop offset=".37" stop-color="#248bba"/><stop offset="1" stop-color="#324897"/></linearGradient>
+    <linearGradient id="light-plane" x1="450" y1="226" x2="476" y2="575" gradientUnits="userSpaceOnUse"><stop stop-color="#d2ffff" stop-opacity=".82"/><stop offset=".74" stop-color="#d2ffff" stop-opacity=".12"/><stop offset="1" stop-color="#d2ffff" stop-opacity="0"/></linearGradient>
+    <linearGradient id="channel-edge" x1="290" y1="525" x2="741" y2="563" gradientUnits="userSpaceOnUse"><stop stop-color="#feffff" stop-opacity=".2"/><stop offset=".45" stop-color="#feffff"/><stop offset="1" stop-color="#feffff" stop-opacity=".34"/></linearGradient>
+    <linearGradient id="fold" x1="485" y1="648" x2="562" y2="666" gradientUnits="userSpaceOnUse"><stop stop-color="#12375b" stop-opacity=".66"/><stop offset="1" stop-color="#147ba5" stop-opacity="0"/></linearGradient>
+    <filter id="lift" x="-.4" y="-.3" width="1.8" height="1.8" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="23"/></filter>
+    <clipPath id="upper-clip"><path d="M 500,209 L 223,550 C 352,492 509,438 628,447 C 700,452 756,472 795,481 L 520,212 Q 511,203 500,209 Z"/></clipPath>
+    <clipPath id="lower-clip"><path d="M 235,576 L 505,795 C 518,805 530,803 539,791 L 792,501 C 690,528 621,566 579,625 C 548,669 530,722 528,775 L 488,665 C 473,624 438,598 391,590 Z"/></clipPath>
+  </defs>
+  <g id="background"><rect width="1024" height="1024" fill="url(#field)"/></g>
+  <g id="symbol">
+    <path d="M 497,189 C 507,178 523,178 534,188 L 807,454 C 823,470 824,488 809,505 L 541,811 C 529,825 509,825 495,812 L 215,586 C 198,572 197,552 212,536 Z" transform="translate(0 28)" fill="#1e496d" opacity=".2" filter="url(#lift)"/>
+    <path d="M 497,189 C 507,178 523,178 534,188 L 807,454 C 823,470 824,488 809,505 L 541,811 C 529,825 509,825 495,812 L 215,586 C 198,572 197,552 212,536 Z" fill="url(#edge)" stroke="#12375b" stroke-width="5"/>
+    <path d="M 223,550 C 352,492 509,438 628,447 C 700,452 756,472 795,481 L 792,501 C 690,528 621,566 579,625 C 548,669 530,722 528,775 L 488,665 C 473,624 438,598 391,590 L 235,576 Z" fill="url(#field)"/>
+    <path d="M 500,209 L 223,550 C 352,492 509,438 628,447 C 700,452 756,472 795,481 L 520,212 Q 511,203 500,209 Z" fill="url(#upper)"/>
+    <g clip-path="url(#upper-clip)">
+      <path d="M 505,199 L 221,555 L 568,459 Z" fill="url(#light-plane)"/>
+      <path d="M 520,202 L 571,449 L 806,479 Z" fill="#147ba5" opacity=".17"/>
+      <path d="M 501,210 L 568,448" fill="none" stroke="#feffff" stroke-width="3" opacity=".48"/>
+      <path d="M 215,555 C 366,486 513,437 628,447 C 697,452 754,472 804,482" fill="none" stroke="#12375b" stroke-width="16" opacity=".25"/>
+      <path d="M 221,550 C 360,487 513,433 629,443 C 698,448 753,468 802,478" fill="none" stroke="url(#channel-edge)" stroke-width="6"/>
+    </g>
+    <path d="M 235,576 L 505,795 C 518,805 530,803 539,791 L 792,501 C 690,528 621,566 579,625 C 548,669 530,722 528,775 L 488,665 C 473,624 438,598 391,590 Z" fill="url(#lower)"/>
+    <g clip-path="url(#lower-clip)">
+      <path d="M 529,789 C 531,706 549,659 579,617 C 627,549 691,517 801,491 L 682,644 L 541,808 Z" fill="#d2ffff" opacity=".13"/>
+      <path d="M 487,645 C 498,679 515,738 527,779 C 530,710 549,659 579,617 L 607,572 Z" fill="url(#fold)"/>
+      <path d="M 237,576 L 502,789 Q 519,805 530,790" fill="none" stroke="#feffff" stroke-width="4" opacity=".28"/>
+      <path d="M 240,575 L 391,590 C 438,598 473,624 488,665 L 528,775" fill="none" stroke="#feffff" stroke-width="6" opacity=".6"/>
+      <path d="M 541,790 C 542,718 560,666 590,626 C 632,571 702,534 790,506" fill="none" stroke="#12375b" stroke-width="3" opacity=".25"/>
+    </g>
+    <path d="M 224,535 L 501,200 Q 512,189 524,200 L 796,465" fill="none" stroke="#feffff" stroke-width="5" stroke-linecap="round" opacity=".88"/>
+    <path d="M 222,582 L 502,805 Q 516,817 529,805 L 802,495" fill="none" stroke="#feffff" stroke-width="3" stroke-linecap="round" opacity=".45"/>
+  </g>
+</svg>
