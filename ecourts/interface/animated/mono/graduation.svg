@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Learning" class="ecui-graduation-mono-motion">
+<title>Learning</title>
+<desc>The mortarboard seats above the curved academic band.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-graduation-mono-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-graduation-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-graduation-mono-motion-p1{0%{transform:translateY(-2.1px)}26%{transform:translateY(-0.7px)}58%{transform:translateY(0.18px)}82%{transform:translateY(0px)}100%{transform:translateY(0px)}}}</style>
+<path class="p0" d="M6.5 12V16Q12 20 17.5 16V12M21 10V16" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M2.8 9L12 4.5L21.2 9L12 13.5Z" fill="currentColor"/>
+</svg>

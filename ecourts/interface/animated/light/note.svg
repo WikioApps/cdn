@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Private note" class="ecui-note-light-motion">
+<title>Private note</title>
+<desc>A short note is written above the turned corner.</desc>
+<defs><linearGradient id="ecui-note-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-note-light-motion .p1{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-note-light-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-note-light-motion-p1{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
+<path class="p0" d="M5 3.5H19V15L13.5 20.5H5ZM13.5 20.5V15H19" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p1" d="M8 8H16M8 11.5H14" fill="none" stroke="url(#ecui-note-light-motion-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1"/>
+</svg>

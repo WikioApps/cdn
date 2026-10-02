@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Gem" class="ecui-gem-mono-motion">
+<title>Gem</title>
+<desc>The cut facets resolve inside the gemstone.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-gem-mono-motion .p1{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-gem-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-gem-mono-motion-p1{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
+<path class="p0" d="M3 9L7 4H17L21 9L12 21Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M3 9H21M8 9L12 21L16 9M8 9L10 4M16 9L14 4" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1"/>
+</svg>

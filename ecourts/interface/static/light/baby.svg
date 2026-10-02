@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Baby" class="ecui-baby-light">
+<title>Baby</title>
+<desc>Baby. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-baby-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<path class="p0" d="M5 8Q4 11 4.5 14Q6 20 12 20Q18 20 19.5 14Q20 11 19 8M8 12H8.1M16 12H16.1M9.5 16Q12 17.5 14.5 16" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p1" d="M6 6Q11 1.5 16 5Q18 8 14 8Q11.5 8 12 5.5" fill="none" stroke="url(#ecui-baby-light-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

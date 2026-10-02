@@ -1,0 +1,9 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/ecui_watch">
+<target android:name="g2"><aapt:attr name="android:animation"><objectAnimator android:duration="800" android:repeatCount="0" android:interpolator="@android:interpolator/linear"><propertyValuesHolder android:propertyName="rotation" android:valueType="floatType">
+<keyframe android:fraction="0" android:value="-20" android:interpolator="@interpolator/ecui_settle"/>
+<keyframe android:fraction="0.26" android:value="-10" android:interpolator="@interpolator/ecui_settle"/>
+<keyframe android:fraction="0.58" android:value="2" android:interpolator="@interpolator/ecui_settle"/>
+<keyframe android:fraction="0.82" android:value="0.3" android:interpolator="@interpolator/ecui_settle"/>
+<keyframe android:fraction="1" android:value="0" android:interpolator="@interpolator/ecui_settle"/>
+</propertyValuesHolder></objectAnimator></aapt:attr></target>
+</animated-vector>

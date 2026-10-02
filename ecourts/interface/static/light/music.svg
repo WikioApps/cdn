@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Music" class="ecui-music-light">
+<title>Music</title>
+<desc>Music. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-music-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<path class="p0" d="M3.5 18a3 3 0 1 0 6 0a3 3 0 1 0 -6 0ZM14.5 15.5a3 3 0 1 0 6 0a3 3 0 1 0 -6 0Z" fill="url(#ecui-music-light-accent)"/>
+<path class="p1" d="M9.5 18V5L20.5 3V15.5M9.5 8L20.5 6" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+</svg>

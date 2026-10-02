@@ -1,0 +1,8 @@
+{
+  "status": "prepared-not-yet-published",
+  "confirmedUrls": [],
+  "proposedPatterns": [
+    "https://cdn.jsdelivr.net/gh/WikioApps/cdn@{revision}/ecourts/interface/{static|animated}/{light|dark|mono}/{id}.svg"
+  ],
+  "note": "Relative paths are generated and validated local files. Public URLs must be tested after the asset commit is published."
+}

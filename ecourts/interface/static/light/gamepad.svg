@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Gamepad" class="ecui-gamepad-light">
+<title>Gamepad</title>
+<desc>Gamepad. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-gamepad-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<path class="p0" d="M7 7H17Q20 7 21 13L22 18Q21 21 18 19L15 16H9L6 19Q3 21 2 18L3 13Q4 7 7 7ZM7 10V14M5 12H9" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p1" d="M15.5 11a1.5 1.5 0 1 0 3 0a1.5 1.5 0 1 0 -3 0Z" fill="url(#ecui-gamepad-light-accent)"/>
+</svg>

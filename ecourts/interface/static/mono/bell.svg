@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Notifications" class="ecui-bell-mono">
+<title>Notifications</title>
+<desc>Notifications. Original eCourts interface icon.</desc>
+<path class="p0" d="M9.5 20Q12 22 14.5 20" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M5 17L7 13V9Q7 4 12 4Q17 4 17 9V13L19 17Z" fill="currentColor"/>
+<path class="p2" d="M12 2.5V4" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

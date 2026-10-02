@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Network" class="ecui-wifi-mono">
+<title>Network</title>
+<desc>Network. Original eCourts interface icon.</desc>
+<path class="p0" d="M10.5 19a1.5 1.5 0 1 0 3 0a1.5 1.5 0 1 0 -3 0Z" fill="currentColor"/>
+<path class="p1" d="M8 15Q12 11.5 16 15M5 11Q12 5 19 11M2 7Q12-1 22 7" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

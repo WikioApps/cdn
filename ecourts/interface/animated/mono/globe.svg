@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Globe" class="ecui-globe-mono-motion">
+<title>Globe</title>
+<desc>The meridian is traced inside the fixed globe.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-globe-mono-motion .p2{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-globe-mono-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-globe-mono-motion-p2{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
+<path class="p0" d="M3.5 12a8.5 8.5 0 1 0 17 0a8.5 8.5 0 1 0 -17 0Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M3.5 12H20.5" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p2" d="M12 3.5Q4.5 12 12 20.5Q19.5 12 12 3.5Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Crown" class="ecui-crown-mono-motion">
+<title>Crown</title>
+<desc>The central jewel seats in the crown.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-crown-mono-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-crown-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-crown-mono-motion-p1{0%{transform:translateY(-2.1px)}26%{transform:translateY(-0.7px)}58%{transform:translateY(0.18px)}82%{transform:translateY(0px)}100%{transform:translateY(0px)}}}</style>
+<path class="p0" d="M4 8L8 11L12 4L16 11L20 8L18 18H6ZM7 21H17" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M12 12L14 14L12 16L10 14Z" fill="currentColor"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Car" class="ecui-car-light-motion">
+<title>Car</title>
+<desc>The body settles onto two fixed wheels.</desc>
+<defs><linearGradient id="ecui-car-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-car-light-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-car-light-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-car-light-motion-p1{0%{transform:translateY(-2.1px)}26%{transform:translateY(-0.7px)}58%{transform:translateY(0.18px)}82%{transform:translateY(0px)}100%{transform:translateY(0px)}}}</style>
+<path class="p0" d="M5 18V21M19 18V21" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p1" d="M3.5 16V12L6.5 5H17.5L20.5 12V18H3.5ZM4 12H20M7 15H8M16 15H17" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p2" d="M7.5 7H16.5L18 10H6Z" fill="url(#ecui-car-light-motion-accent)"/>
+</svg>

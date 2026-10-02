@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Gavel" class="ecui-gavel-mono-motion">
+<title>Gavel</title>
+<desc>The hammer makes one controlled strike above the fixed block.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-gavel-mono-motion .p1{transform-box:view-box;transform-origin:7px 16px;animation:ecui-gavel-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-gavel-mono-motion-p1{0%{transform:rotate(-7deg)}26%{transform:rotate(-3deg)}58%{transform:rotate(0.8deg)}82%{transform:rotate(-0.2deg)}100%{transform:rotate(0deg)}}}</style>
+<path class="p0" d="M12.8 18.5H19.2Q20 18.5 20 19.3V19.7Q20 20.5 19.2 20.5H12.8Q12 20.5 12 19.7V19.3Q12 18.5 12.8 18.5Z" fill="currentColor"/>
+<path class="p1" d="M5 18L13.5 9.5M9 5.5L12 2.8L19.2 10L16.5 13Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

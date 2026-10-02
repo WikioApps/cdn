@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Utensils" class="ecui-utensils-mono">
+<title>Utensils</title>
+<desc>Utensils. Original eCourts interface icon.</desc>
+<path class="p0" d="M5 3V9Q5 12 8 12Q11 12 11 9V3M8 3V21" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M19 3Q14 5 15 12H18V21H20V3Z" fill="currentColor"/>
+</svg>

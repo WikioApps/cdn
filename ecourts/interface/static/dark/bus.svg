@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Bus" class="ecui-bus-dark">
+<title>Bus</title>
+<desc>Bus. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-bus-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
+<path class="p0" d="M6 19V21M18 19V21" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
+<path class="p1" d="M7 3.5H17Q19.5 3.5 19.5 6V16.5Q19.5 19 17 19H7Q4.5 19 4.5 16.5V6Q4.5 3.5 7 3.5Z" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
+<path class="p2" d="M7.8 6H16.2Q17 6 17 6.8V11.2Q17 12 16.2 12H7.8Q7 12 7 11.2V6.8Q7 6 7.8 6Z" fill="url(#ecui-bus-dark-accent)"/>
+<path class="p3" d="M8 16H8.1M16 16H16.1M12 6V12" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Backpack" class="ecui-backpack-mono">
+<title>Backpack</title>
+<desc>Backpack. Original eCourts interface icon.</desc>
+<path class="p0" d="M7 6Q7 3 12 3Q17 3 17 6M4 11Q4 6 8 6H16Q20 6 20 11V20H4Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M8.5 12H15.5Q17 12 17 13.5V16.5Q17 18 15.5 18H8.5Q7 18 7 16.5V13.5Q7 12 8.5 12Z" fill="currentColor"/>
+<path class="p2" d="M10 14.5H14" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"/>
+</svg>

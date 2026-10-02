@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Progress" class="ecui-progress-light-motion">
+<title>Progress</title>
+<desc>The advancing fill travels along a fixed progress track.</desc>
+<defs><linearGradient id="ecui-progress-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-progress-light-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-progress-light-motion-p1 1200ms cubic-bezier(.3,0,.2,1) infinite backwards}@keyframes ecui-progress-light-motion-p1{0%{transform:translateX(0px)}40%{transform:translateX(7px)}70%{transform:translateX(7px)}100%{transform:translateX(0px)}}}</style>
+<path class="p0" d="M3.5 12H20.5" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p1" d="M5 12H11" fill="none" stroke="url(#ecui-progress-light-motion-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

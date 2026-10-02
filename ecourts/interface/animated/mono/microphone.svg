@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Microphone" class="ecui-microphone-mono-motion">
+<title>Microphone</title>
+<desc>The microphone capsule seats within its fixed cradle.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-microphone-mono-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-microphone-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-microphone-mono-motion-p1{0%{transform:translateY(-2.1px)}26%{transform:translateY(-0.7px)}58%{transform:translateY(0.18px)}82%{transform:translateY(0px)}100%{transform:translateY(0px)}}}</style>
+<path class="p0" d="M5 11Q5 18 12 18Q19 18 19 11M12 18V21M8 21H16" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M12 3H12Q16 3 16 7V11Q16 15 12 15H12Q8 15 8 11V7Q8 3 12 3Z" fill="currentColor"/>
+</svg>

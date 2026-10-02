@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Waypoints" class="ecui-waypoints-mono">
+<title>Waypoints</title>
+<desc>Waypoints. Original eCourts interface icon.</desc>
+<path class="p0" d="M2.5 6a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0 -5 0ZM16.5 6a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0 -5 0ZM9.5 19a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0 -5 0Z" fill="currentColor"/>
+<path class="p1" d="M7.5 6H16.5M6.5 8.5L10.5 16.5M17.5 8.5L13.5 16.5" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

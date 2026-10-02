@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Timer" class="ecui-timer-light-motion">
+<title>Timer</title>
+<desc>The timing hand advances without moving the dial.</desc>
+<defs><linearGradient id="ecui-timer-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-timer-light-motion .p2{transform-box:view-box;transform-origin:12px 13.5px;animation:ecui-timer-light-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-timer-light-motion-p2{0%{transform:rotate(-20deg)}26%{transform:rotate(-10deg)}58%{transform:rotate(2deg)}82%{transform:rotate(0.3deg)}100%{transform:rotate(0deg)}}}</style>
+<path class="p0" d="M4.5 13.5a7.5 7.5 0 1 0 15 0a7.5 7.5 0 1 0 -15 0Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p1" d="M9.7 2.5H14.3Q15 2.5 15 3.2V3.8Q15 4.5 14.3 4.5H9.7Q9 4.5 9 3.8V3.2Q9 2.5 9.7 2.5Z" fill="url(#ecui-timer-light-motion-accent)"/>
+<path class="p2" d="M12 13.5L15.5 9.5" fill="none" stroke="url(#ecui-timer-light-motion-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

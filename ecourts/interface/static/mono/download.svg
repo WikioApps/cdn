@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Download" class="ecui-download-mono">
+<title>Download</title>
+<desc>Download. Original eCourts interface icon.</desc>
+<path class="p0" d="M4 14V19Q4 20 5 20H19Q20 20 20 19V14" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M12 3V15M7.5 10.5L12 15L16.5 10.5" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

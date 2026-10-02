@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Help" class="ecui-help-mono-motion">
+<title>Help</title>
+<desc>The information mark is drawn inside its fixed boundary.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-help-mono-motion .p1{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-help-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-help-mono-motion-p1{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
+<path class="p0" d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M9 8Q9 5 12 5Q16 5 15 9L12 12V13M12 17H12.1" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1"/>
+</svg>

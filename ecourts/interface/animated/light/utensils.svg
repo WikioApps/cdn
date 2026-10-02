@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Utensils" class="ecui-utensils-light-motion">
+<title>Utensils</title>
+<desc>The cutlery is set down in parallel.</desc>
+<defs><linearGradient id="ecui-utensils-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-utensils-light-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-utensils-light-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-utensils-light-motion-p1{0%{transform:translateY(-2.1px)}26%{transform:translateY(-0.7px)}58%{transform:translateY(0.18px)}82%{transform:translateY(0px)}100%{transform:translateY(0px)}}}</style>
+<path class="p0" d="M5 3V9Q5 12 8 12Q11 12 11 9V3M8 3V21" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p1" d="M19 3Q14 5 15 12H18V21H20V3Z" fill="url(#ecui-utensils-light-motion-accent)"/>
+</svg>

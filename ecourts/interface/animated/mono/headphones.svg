@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Headphones" class="ecui-headphones-mono-motion">
+<title>Headphones</title>
+<desc>The ear pad adjusts inward beneath the headband.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-headphones-mono-motion .p2{transform-box:view-box;transform-origin:12px 12px;animation:ecui-headphones-mono-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-headphones-mono-motion-p2{0%{transform:translateX(1.4px)}26%{transform:translateX(0.8px)}58%{transform:translateX(-0.08px)}82%{transform:translateX(0px)}100%{transform:translateX(0px)}}}</style>
+<path class="p0" d="M4 14V11Q4 3 12 3Q20 3 20 11V14" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M5 12H6Q7.5 12 7.5 13.5V18.5Q7.5 20 6 20H5Q3.5 20 3.5 18.5V13.5Q3.5 12 5 12Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p2" d="M18 12H19Q20.5 12 20.5 13.5V18.5Q20.5 20 19 20H18Q16.5 20 16.5 18.5V13.5Q16.5 12 18 12Z" fill="currentColor"/>
+</svg>

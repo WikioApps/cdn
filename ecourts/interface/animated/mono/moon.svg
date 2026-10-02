@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Dark theme" class="ecui-moon-mono-motion">
+<title>Dark theme</title>
+<desc>The crescent contour is revealed without rotating the moon.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-moon-mono-motion .p1{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-moon-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-moon-mono-motion-p1{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
+<path class="p0" d="M18.5 15.5Q11 16 8.5 10Q7 6.5 9.5 3.5Q2.5 5.5 3.5 13Q4.5 21 12.5 20.5Q17 20 18.5 15.5Z" fill="currentColor"/>
+<path class="p1" d="M18.5 15.5Q11 16 8.5 10Q7 6.5 9.5 3.5" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1"/>
+</svg>

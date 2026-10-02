@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Backpack" class="ecui-backpack-light">
+<title>Backpack</title>
+<desc>Backpack. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-backpack-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<path class="p0" d="M7 6Q7 3 12 3Q17 3 17 6M4 11Q4 6 8 6H16Q20 6 20 11V20H4Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p1" d="M8.5 12H15.5Q17 12 17 13.5V16.5Q17 18 15.5 18H8.5Q7 18 7 16.5V13.5Q7 12 8.5 12Z" fill="url(#ecui-backpack-light-accent)"/>
+<path class="p2" d="M10 14.5H14" fill="none" stroke="#FFF4ED" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-surface,#FFF4ED)"/>
+</svg>

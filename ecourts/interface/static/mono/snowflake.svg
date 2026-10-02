@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Snowflake" class="ecui-snowflake-mono">
+<title>Snowflake</title>
+<desc>Snowflake. Original eCourts interface icon.</desc>
+<path class="p0" d="M12 3V21M4.2 7.5L19.8 16.5M4.2 16.5L19.8 7.5" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M9 4L12 7L15 4M9 20L12 17L15 20M4 10L7 10V7M20 14H17V17" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

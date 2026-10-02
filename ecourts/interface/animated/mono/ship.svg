@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Ship" class="ecui-ship-mono-motion">
+<title>Ship</title>
+<desc>The hull moves through one short swell.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-ship-mono-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-ship-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-ship-mono-motion-p1{0%{transform:translateY(0px)}26%{transform:translateY(-0.5px)}58%{transform:translateY(0.5px)}82%{transform:translateY(0.1px)}100%{transform:translateY(0px)}}}</style>
+<path class="p0" d="M7 11V6H17V11M10 6V3.5H14V6M3 21Q6 18 9 21T15 21T21 21" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M3 13L12 10L21 13L18 18H6Z" fill="currentColor"/>
+</svg>

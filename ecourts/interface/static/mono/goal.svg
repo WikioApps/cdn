@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Goal" class="ecui-goal-mono">
+<title>Goal</title>
+<desc>Goal. Original eCourts interface icon.</desc>
+<path class="p0" d="M3 21V4H21V21M3 4L7 8H17L21 4M7 8V17M17 8V17M7 12H17" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M9.5 18.5a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0 -5 0Z" fill="currentColor"/>
+</svg>

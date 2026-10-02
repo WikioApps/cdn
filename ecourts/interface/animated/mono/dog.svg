@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Dog" class="ecui-dog-mono-motion">
+<title>Dog</title>
+<desc>The floppy ear settles beside the muzzle.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-dog-mono-motion .p2{transform-box:view-box;transform-origin:17px 6px;animation:ecui-dog-mono-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-dog-mono-motion-p2{0%{transform:rotate(-7deg)}26%{transform:rotate(-3deg)}58%{transform:rotate(1.5deg)}82%{transform:rotate(0deg)}100%{transform:rotate(0deg)}}}</style>
+<path class="p0" d="M7 6Q12 3 17 6L19 15Q19 21 12 21Q5 21 5 15Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M7 6L4 4L2.5 11Q2.5 14 6 13" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p2" d="M17 6L20 4L21.5 11Q21.5 14 18 13Z" fill="currentColor"/>
+<path class="p3" d="M8.5 12H8.6M15.5 12H15.6M10 16L12 18L14 16Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,5307 @@
+{
+  "version": "1.0.0",
+  "viewBox": [
+    0,
+    0,
+    24,
+    24
+  ],
+  "strokeWidth": 1.65,
+  "themes": [
+    "light",
+    "dark",
+    "mono"
+  ],
+  "icons": [
+    {
+      "id": "briefcase",
+      "label": "Cases",
+      "category": "Court",
+      "motion": "The clasp seats as the case folio closes.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/briefcase.svg",
+          "dark": "static/dark/briefcase.svg",
+          "mono": "static/mono/briefcase.svg"
+        },
+        "animated": {
+          "light": "animated/light/briefcase.svg",
+          "dark": "animated/dark/briefcase.svg",
+          "mono": "animated/mono/briefcase.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_briefcase",
+        "animated": "ecui_briefcase_animated",
+        "mono": "ecui_briefcase_mono"
+      },
+      "aliases": [
+        "case"
+      ]
+    },
+    {
+      "id": "calendar",
+      "label": "Calendar",
+      "category": "Court",
+      "motion": "The date tile turns into its selected position.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/calendar.svg",
+          "dark": "static/dark/calendar.svg",
+          "mono": "static/mono/calendar.svg"
+        },
+        "animated": {
+          "light": "animated/light/calendar.svg",
+          "dark": "animated/dark/calendar.svg",
+          "mono": "animated/mono/calendar.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_calendar",
+        "animated": "ecui_calendar_animated",
+        "mono": "ecui_calendar_mono"
+      },
+      "aliases": [
+        "calendar-days"
+      ]
+    },
+    {
+      "id": "search",
+      "label": "Search",
+      "category": "Navigation",
+      "motion": "The lens inspects a short horizontal range, then returns to centre.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/search.svg",
+          "dark": "static/dark/search.svg",
+          "mono": "static/mono/search.svg"
+        },
+        "animated": {
+          "light": "animated/light/search.svg",
+          "dark": "animated/dark/search.svg",
+          "mono": "animated/mono/search.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_search",
+        "animated": "ecui_search_animated",
+        "mono": "ecui_search_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "courthouse",
+      "label": "Court",
+      "category": "Court",
+      "motion": "Two structural piers seat beneath a fixed roof.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/courthouse.svg",
+          "dark": "static/dark/courthouse.svg",
+          "mono": "static/mono/courthouse.svg"
+        },
+        "animated": {
+          "light": "animated/light/courthouse.svg",
+          "dark": "animated/dark/courthouse.svg",
+          "mono": "animated/mono/courthouse.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_courthouse",
+        "animated": "ecui_courthouse_animated",
+        "mono": "ecui_courthouse_mono"
+      },
+      "aliases": [
+        "landmark",
+        "court"
+      ]
+    },
+    {
+      "id": "scales",
+      "label": "Scales",
+      "category": "Court",
+      "motion": "The beam balances once about its central pin.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/scales.svg",
+          "dark": "static/dark/scales.svg",
+          "mono": "static/mono/scales.svg"
+        },
+        "animated": {
+          "light": "animated/light/scales.svg",
+          "dark": "animated/dark/scales.svg",
+          "mono": "animated/mono/scales.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_scales",
+        "animated": "ecui_scales_animated",
+        "mono": "ecui_scales_mono"
+      },
+      "aliases": [
+        "scale"
+      ]
+    },
+    {
+      "id": "gavel",
+      "label": "Gavel",
+      "category": "Court",
+      "motion": "The hammer makes one controlled strike above the fixed block.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/gavel.svg",
+          "dark": "static/dark/gavel.svg",
+          "mono": "static/mono/gavel.svg"
+        },
+        "animated": {
+          "light": "animated/light/gavel.svg",
+          "dark": "animated/dark/gavel.svg",
+          "mono": "animated/mono/gavel.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_gavel",
+        "animated": "ecui_gavel_animated",
+        "mono": "ecui_gavel_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "book",
+      "label": "Law book",
+      "category": "Court",
+      "motion": "A page opens around the spine.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/book.svg",
+          "dark": "static/dark/book.svg",
+          "mono": "static/mono/book.svg"
+        },
+        "animated": {
+          "light": "animated/light/book.svg",
+          "dark": "animated/dark/book.svg",
+          "mono": "animated/mono/book.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_book",
+        "animated": "ecui_book_animated",
+        "mono": "ecui_book_mono"
+      },
+      "aliases": [
+        "book-open"
+      ]
+    },
+    {
+      "id": "scroll",
+      "label": "Legal scroll",
+      "category": "Court",
+      "motion": "The written rule is revealed down the parchment.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/scroll.svg",
+          "dark": "static/dark/scroll.svg",
+          "mono": "static/mono/scroll.svg"
+        },
+        "animated": {
+          "light": "animated/light/scroll.svg",
+          "dark": "animated/dark/scroll.svg",
+          "mono": "animated/mono/scroll.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_scroll",
+        "animated": "ecui_scroll_animated",
+        "mono": "ecui_scroll_mono"
+      },
+      "aliases": [
+        "scroll-text"
+      ]
+    },
+    {
+      "id": "stamp",
+      "label": "Court seal",
+      "category": "Court",
+      "motion": "The seal presses onto the signature baseline.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/stamp.svg",
+          "dark": "static/dark/stamp.svg",
+          "mono": "static/mono/stamp.svg"
+        },
+        "animated": {
+          "light": "animated/light/stamp.svg",
+          "dark": "animated/dark/stamp.svg",
+          "mono": "animated/mono/stamp.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_stamp",
+        "animated": "ecui_stamp_animated",
+        "mono": "ecui_stamp_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "notebook-pen",
+      "label": "Case notebook",
+      "category": "Court",
+      "motion": "The pen completes a short note.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/notebook-pen.svg",
+          "dark": "static/dark/notebook-pen.svg",
+          "mono": "static/mono/notebook-pen.svg"
+        },
+        "animated": {
+          "light": "animated/light/notebook-pen.svg",
+          "dark": "animated/dark/notebook-pen.svg",
+          "mono": "animated/mono/notebook-pen.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_notebook_pen",
+        "animated": "ecui_notebook_pen_animated",
+        "mono": "ecui_notebook_pen_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "clipboard",
+      "label": "Cause list",
+      "category": "Court",
+      "motion": "The listing marks are written beneath the fixed clip.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/clipboard.svg",
+          "dark": "static/dark/clipboard.svg",
+          "mono": "static/mono/clipboard.svg"
+        },
+        "animated": {
+          "light": "animated/light/clipboard.svg",
+          "dark": "animated/dark/clipboard.svg",
+          "mono": "animated/mono/clipboard.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_clipboard",
+        "animated": "ecui_clipboard_animated",
+        "mono": "ecui_clipboard_mono"
+      },
+      "aliases": [
+        "clipboard-list",
+        "cause-list"
+      ]
+    },
+    {
+      "id": "document",
+      "label": "Document",
+      "category": "Court",
+      "motion": "The text is drawn into a folded court document.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/document.svg",
+          "dark": "static/dark/document.svg",
+          "mono": "static/mono/document.svg"
+        },
+        "animated": {
+          "light": "animated/light/document.svg",
+          "dark": "animated/dark/document.svg",
+          "mono": "animated/mono/document.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_document",
+        "animated": "ecui_document_animated",
+        "mono": "ecui_document_mono"
+      },
+      "aliases": [
+        "file-text",
+        "file"
+      ]
+    },
+    {
+      "id": "folder",
+      "label": "Folder",
+      "category": "Court",
+      "motion": "The front flap opens slightly, exposing the filing edge.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/folder.svg",
+          "dark": "static/dark/folder.svg",
+          "mono": "static/mono/folder.svg"
+        },
+        "animated": {
+          "light": "animated/light/folder.svg",
+          "dark": "animated/dark/folder.svg",
+          "mono": "animated/mono/folder.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_folder",
+        "animated": "ecui_folder_animated",
+        "mono": "ecui_folder_mono"
+      },
+      "aliases": [
+        "folder-open"
+      ]
+    },
+    {
+      "id": "archive",
+      "label": "Archive",
+      "category": "Court",
+      "motion": "The archive lid lowers onto the stored records.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/archive.svg",
+          "dark": "static/dark/archive.svg",
+          "mono": "static/mono/archive.svg"
+        },
+        "animated": {
+          "light": "animated/light/archive.svg",
+          "dark": "animated/dark/archive.svg",
+          "mono": "animated/mono/archive.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_archive",
+        "animated": "ecui_archive_animated",
+        "mono": "ecui_archive_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "library",
+      "label": "Library",
+      "category": "Court",
+      "motion": "The last volume leans into its shelf position.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/library.svg",
+          "dark": "static/dark/library.svg",
+          "mono": "static/mono/library.svg"
+        },
+        "animated": {
+          "light": "animated/light/library.svg",
+          "dark": "animated/dark/library.svg",
+          "mono": "animated/mono/library.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_library",
+        "animated": "ecui_library_animated",
+        "mono": "ecui_library_mono"
+      },
+      "aliases": [
+        "library-big"
+      ]
+    },
+    {
+      "id": "building",
+      "label": "Office",
+      "category": "Court",
+      "motion": "The entrance lifts into an otherwise anchored building.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/building.svg",
+          "dark": "static/dark/building.svg",
+          "mono": "static/mono/building.svg"
+        },
+        "animated": {
+          "light": "animated/light/building.svg",
+          "dark": "animated/dark/building.svg",
+          "mono": "animated/mono/building.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_building",
+        "animated": "ecui_building_animated",
+        "mono": "ecui_building_mono"
+      },
+      "aliases": [
+        "building-2"
+      ]
+    },
+    {
+      "id": "presentation",
+      "label": "Presentation",
+      "category": "Work",
+      "motion": "The chart is plotted on the fixed screen.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/presentation.svg",
+          "dark": "static/dark/presentation.svg",
+          "mono": "static/mono/presentation.svg"
+        },
+        "animated": {
+          "light": "animated/light/presentation.svg",
+          "dark": "animated/dark/presentation.svg",
+          "mono": "animated/mono/presentation.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_presentation",
+        "animated": "ecui_presentation_animated",
+        "mono": "ecui_presentation_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "handshake",
+      "label": "Agreement",
+      "category": "Work",
+      "motion": "The meeting hands join with a small inward movement.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/handshake.svg",
+          "dark": "static/dark/handshake.svg",
+          "mono": "static/mono/handshake.svg"
+        },
+        "animated": {
+          "light": "animated/light/handshake.svg",
+          "dark": "animated/dark/handshake.svg",
+          "mono": "animated/mono/handshake.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_handshake",
+        "animated": "ecui_handshake_animated",
+        "mono": "ecui_handshake_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "graduation",
+      "label": "Learning",
+      "category": "Work",
+      "motion": "The mortarboard seats above the curved academic band.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/graduation.svg",
+          "dark": "static/dark/graduation.svg",
+          "mono": "static/mono/graduation.svg"
+        },
+        "animated": {
+          "light": "animated/light/graduation.svg",
+          "dark": "animated/dark/graduation.svg",
+          "mono": "animated/mono/graduation.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_graduation",
+        "animated": "ecui_graduation_animated",
+        "mono": "ecui_graduation_mono"
+      },
+      "aliases": [
+        "graduation-cap"
+      ]
+    },
+    {
+      "id": "medal",
+      "label": "Medal",
+      "category": "Work",
+      "motion": "The medallion settles below its two ribbons.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/medal.svg",
+          "dark": "static/dark/medal.svg",
+          "mono": "static/mono/medal.svg"
+        },
+        "animated": {
+          "light": "animated/light/medal.svg",
+          "dark": "animated/dark/medal.svg",
+          "mono": "animated/mono/medal.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_medal",
+        "animated": "ecui_medal_animated",
+        "mono": "ecui_medal_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "person",
+      "label": "Person",
+      "category": "People",
+      "motion": "The identity silhouette resolves above its shoulder line.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/person.svg",
+          "dark": "static/dark/person.svg",
+          "mono": "static/mono/person.svg"
+        },
+        "animated": {
+          "light": "animated/light/person.svg",
+          "dark": "animated/dark/person.svg",
+          "mono": "animated/mono/person.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_person",
+        "animated": "ecui_person_animated",
+        "mono": "ecui_person_mono"
+      },
+      "aliases": [
+        "user-round",
+        "profile"
+      ]
+    },
+    {
+      "id": "people",
+      "label": "Parties",
+      "category": "People",
+      "motion": "The second party joins the primary person.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/people.svg",
+          "dark": "static/dark/people.svg",
+          "mono": "static/mono/people.svg"
+        },
+        "animated": {
+          "light": "animated/light/people.svg",
+          "dark": "animated/dark/people.svg",
+          "mono": "animated/mono/people.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_people",
+        "animated": "ecui_people_animated",
+        "mono": "ecui_people_mono"
+      },
+      "aliases": [
+        "users-round",
+        "parties"
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "category": "People",
+      "motion": "The identity mark seats inside the contact card.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/contact.svg",
+          "dark": "static/dark/contact.svg",
+          "mono": "static/mono/contact.svg"
+        },
+        "animated": {
+          "light": "animated/light/contact.svg",
+          "dark": "animated/dark/contact.svg",
+          "mono": "animated/mono/contact.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_contact",
+        "animated": "ecui_contact_animated",
+        "mono": "ecui_contact_mono"
+      },
+      "aliases": [
+        "contact-round"
+      ]
+    },
+    {
+      "id": "glasses",
+      "label": "Glasses",
+      "category": "People",
+      "motion": "The second lens aligns with the bridge.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/glasses.svg",
+          "dark": "static/dark/glasses.svg",
+          "mono": "static/mono/glasses.svg"
+        },
+        "animated": {
+          "light": "animated/light/glasses.svg",
+          "dark": "animated/dark/glasses.svg",
+          "mono": "animated/mono/glasses.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_glasses",
+        "animated": "ecui_glasses_animated",
+        "mono": "ecui_glasses_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "ear",
+      "label": "Hearing",
+      "category": "People",
+      "motion": "The inner hearing contour is revealed.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/ear.svg",
+          "dark": "static/dark/ear.svg",
+          "mono": "static/mono/ear.svg"
+        },
+        "animated": {
+          "light": "animated/light/ear.svg",
+          "dark": "animated/dark/ear.svg",
+          "mono": "animated/mono/ear.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_ear",
+        "animated": "ecui_ear_animated",
+        "mono": "ecui_ear_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "accessibility",
+      "label": "Accessibility",
+      "category": "People",
+      "motion": "The open arms extend around a stable centre.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/accessibility.svg",
+          "dark": "static/dark/accessibility.svg",
+          "mono": "static/mono/accessibility.svg"
+        },
+        "animated": {
+          "light": "animated/light/accessibility.svg",
+          "dark": "animated/dark/accessibility.svg",
+          "mono": "animated/mono/accessibility.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_accessibility",
+        "animated": "ecui_accessibility_animated",
+        "mono": "ecui_accessibility_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "baby",
+      "label": "Baby",
+      "category": "People",
+      "motion": "The small curl uncurls above the face.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/baby.svg",
+          "dark": "static/dark/baby.svg",
+          "mono": "static/mono/baby.svg"
+        },
+        "animated": {
+          "light": "animated/light/baby.svg",
+          "dark": "animated/dark/baby.svg",
+          "mono": "animated/mono/baby.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_baby",
+        "animated": "ecui_baby_animated",
+        "mono": "ecui_baby_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "standing",
+      "label": "Standing person",
+      "category": "People",
+      "motion": "The torso rises into a composed standing position.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/standing.svg",
+          "dark": "static/dark/standing.svg",
+          "mono": "static/mono/standing.svg"
+        },
+        "animated": {
+          "light": "animated/light/standing.svg",
+          "dark": "animated/dark/standing.svg",
+          "mono": "animated/mono/standing.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_standing",
+        "animated": "ecui_standing_animated",
+        "mono": "ecui_standing_mono"
+      },
+      "aliases": [
+        "person-standing"
+      ]
+    },
+    {
+      "id": "footprints",
+      "label": "Footprints",
+      "category": "People",
+      "motion": "One footprint follows the other by a small step.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/footprints.svg",
+          "dark": "static/dark/footprints.svg",
+          "mono": "static/mono/footprints.svg"
+        },
+        "animated": {
+          "light": "animated/light/footprints.svg",
+          "dark": "animated/dark/footprints.svg",
+          "mono": "animated/mono/footprints.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_footprints",
+        "animated": "ecui_footprints_animated",
+        "mono": "ecui_footprints_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "hand",
+      "label": "Hand",
+      "category": "People",
+      "motion": "The fingers open gently at the wrist.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/hand.svg",
+          "dark": "static/dark/hand.svg",
+          "mono": "static/mono/hand.svg"
+        },
+        "animated": {
+          "light": "animated/light/hand.svg",
+          "dark": "animated/dark/hand.svg",
+          "mono": "animated/mono/hand.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_hand",
+        "animated": "ecui_hand_animated",
+        "mono": "ecui_hand_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "care",
+      "label": "Care",
+      "category": "People",
+      "motion": "A heart seats above the supporting palm.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/care.svg",
+          "dark": "static/dark/care.svg",
+          "mono": "static/mono/care.svg"
+        },
+        "animated": {
+          "light": "animated/light/care.svg",
+          "dark": "animated/dark/care.svg",
+          "mono": "animated/mono/care.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_care",
+        "animated": "ecui_care_animated",
+        "mono": "ecui_care_mono"
+      },
+      "aliases": [
+        "heart-handshake"
+      ]
+    },
+    {
+      "id": "brain",
+      "label": "Thinking",
+      "category": "People",
+      "motion": "The central connection is traced between two hemispheres.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/brain.svg",
+          "dark": "static/dark/brain.svg",
+          "mono": "static/mono/brain.svg"
+        },
+        "animated": {
+          "light": "animated/light/brain.svg",
+          "dark": "animated/dark/brain.svg",
+          "mono": "animated/mono/brain.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_brain",
+        "animated": "ecui_brain_animated",
+        "mono": "ecui_brain_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "eye",
+      "label": "Visible",
+      "category": "People",
+      "motion": "The pupil checks left and right while the eyelid remains still.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/eye.svg",
+          "dark": "static/dark/eye.svg",
+          "mono": "static/mono/eye.svg"
+        },
+        "animated": {
+          "light": "animated/light/eye.svg",
+          "dark": "animated/dark/eye.svg",
+          "mono": "animated/mono/eye.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_eye",
+        "animated": "ecui_eye_animated",
+        "mono": "ecui_eye_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "smile",
+      "label": "Smile",
+      "category": "People",
+      "motion": "The expression opens briefly within a steady face.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/smile.svg",
+          "dark": "static/dark/smile.svg",
+          "mono": "static/mono/smile.svg"
+        },
+        "animated": {
+          "light": "animated/light/smile.svg",
+          "dark": "animated/dark/smile.svg",
+          "mono": "animated/mono/smile.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_smile",
+        "animated": "ecui_smile_animated",
+        "mono": "ecui_smile_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "laugh",
+      "label": "Laugh",
+      "category": "People",
+      "motion": "The expression opens briefly within a steady face.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/laugh.svg",
+          "dark": "static/dark/laugh.svg",
+          "mono": "static/mono/laugh.svg"
+        },
+        "animated": {
+          "light": "animated/light/laugh.svg",
+          "dark": "animated/dark/laugh.svg",
+          "mono": "animated/mono/laugh.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_laugh",
+        "animated": "ecui_laugh_animated",
+        "mono": "ecui_laugh_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "theatre",
+      "label": "Theatre",
+      "category": "People",
+      "motion": "The theatrical mask inclines from its top edge.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/theatre.svg",
+          "dark": "static/dark/theatre.svg",
+          "mono": "static/mono/theatre.svg"
+        },
+        "animated": {
+          "light": "animated/light/theatre.svg",
+          "dark": "animated/dark/theatre.svg",
+          "mono": "animated/mono/theatre.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_theatre",
+        "animated": "ecui_theatre_animated",
+        "mono": "ecui_theatre_mono"
+      },
+      "aliases": [
+        "venetian-mask"
+      ]
+    },
+    {
+      "id": "crown",
+      "label": "Crown",
+      "category": "People",
+      "motion": "The central jewel seats in the crown.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/crown.svg",
+          "dark": "static/dark/crown.svg",
+          "mono": "static/mono/crown.svg"
+        },
+        "animated": {
+          "light": "animated/light/crown.svg",
+          "dark": "animated/dark/crown.svg",
+          "mono": "animated/mono/crown.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_crown",
+        "animated": "ecui_crown_animated",
+        "mono": "ecui_crown_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "shield",
+      "label": "Verified",
+      "category": "People",
+      "motion": "The verification mark completes inside an anchored shield.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/shield.svg",
+          "dark": "static/dark/shield.svg",
+          "mono": "static/mono/shield.svg"
+        },
+        "animated": {
+          "light": "animated/light/shield.svg",
+          "dark": "animated/dark/shield.svg",
+          "mono": "animated/mono/shield.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_shield",
+        "animated": "ecui_shield_animated",
+        "mono": "ecui_shield_mono"
+      },
+      "aliases": [
+        "shield-check"
+      ]
+    },
+    {
+      "id": "star",
+      "label": "Star",
+      "category": "Shapes",
+      "motion": "The upper point resolves while the star outline remains recognizable.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/star.svg",
+          "dark": "static/dark/star.svg",
+          "mono": "static/mono/star.svg"
+        },
+        "animated": {
+          "light": "animated/light/star.svg",
+          "dark": "animated/dark/star.svg",
+          "mono": "animated/mono/star.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_star",
+        "animated": "ecui_star_animated",
+        "mono": "ecui_star_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "star-filled",
+      "label": "Starred",
+      "category": "States",
+      "motion": "The selected star fills from its central axis.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/star-filled.svg",
+          "dark": "static/dark/star-filled.svg",
+          "mono": "static/mono/star-filled.svg"
+        },
+        "animated": {
+          "light": "animated/light/star-filled.svg",
+          "dark": "animated/dark/star-filled.svg",
+          "mono": "animated/mono/star-filled.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_star_filled",
+        "animated": "ecui_star_filled_animated",
+        "mono": "ecui_star_filled_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "heart",
+      "label": "Heart",
+      "category": "Shapes",
+      "motion": "The heart completes its contour once.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/heart.svg",
+          "dark": "static/dark/heart.svg",
+          "mono": "static/mono/heart.svg"
+        },
+        "animated": {
+          "light": "animated/light/heart.svg",
+          "dark": "animated/dark/heart.svg",
+          "mono": "animated/mono/heart.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_heart",
+        "animated": "ecui_heart_animated",
+        "mono": "ecui_heart_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "diamond",
+      "label": "Diamond",
+      "category": "Shapes",
+      "motion": "The perimeter is drawn once around the identity shape.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/diamond.svg",
+          "dark": "static/dark/diamond.svg",
+          "mono": "static/mono/diamond.svg"
+        },
+        "animated": {
+          "light": "animated/light/diamond.svg",
+          "dark": "animated/dark/diamond.svg",
+          "mono": "animated/mono/diamond.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_diamond",
+        "animated": "ecui_diamond_animated",
+        "mono": "ecui_diamond_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "hexagon",
+      "label": "Hexagon",
+      "category": "Shapes",
+      "motion": "The perimeter is drawn once around the identity shape.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/hexagon.svg",
+          "dark": "static/dark/hexagon.svg",
+          "mono": "static/mono/hexagon.svg"
+        },
+        "animated": {
+          "light": "animated/light/hexagon.svg",
+          "dark": "animated/dark/hexagon.svg",
+          "mono": "animated/mono/hexagon.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_hexagon",
+        "animated": "ecui_hexagon_animated",
+        "mono": "ecui_hexagon_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "triangle",
+      "label": "Triangle",
+      "category": "Shapes",
+      "motion": "The perimeter is drawn once around the identity shape.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/triangle.svg",
+          "dark": "static/dark/triangle.svg",
+          "mono": "static/mono/triangle.svg"
+        },
+        "animated": {
+          "light": "animated/light/triangle.svg",
+          "dark": "animated/dark/triangle.svg",
+          "mono": "animated/mono/triangle.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_triangle",
+        "animated": "ecui_triangle_animated",
+        "mono": "ecui_triangle_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "pentagon",
+      "label": "Pentagon",
+      "category": "Shapes",
+      "motion": "The perimeter is drawn once around the identity shape.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/pentagon.svg",
+          "dark": "static/dark/pentagon.svg",
+          "mono": "static/mono/pentagon.svg"
+        },
+        "animated": {
+          "light": "animated/light/pentagon.svg",
+          "dark": "animated/dark/pentagon.svg",
+          "mono": "animated/mono/pentagon.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_pentagon",
+        "animated": "ecui_pentagon_animated",
+        "mono": "ecui_pentagon_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "octagon",
+      "label": "Octagon",
+      "category": "Shapes",
+      "motion": "The perimeter is drawn once around the identity shape.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/octagon.svg",
+          "dark": "static/dark/octagon.svg",
+          "mono": "static/mono/octagon.svg"
+        },
+        "animated": {
+          "light": "animated/light/octagon.svg",
+          "dark": "animated/dark/octagon.svg",
+          "mono": "animated/mono/octagon.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_octagon",
+        "animated": "ecui_octagon_animated",
+        "mono": "ecui_octagon_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "circle",
+      "label": "Circle",
+      "category": "Shapes",
+      "motion": "The perimeter closes around its central accent.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/circle.svg",
+          "dark": "static/dark/circle.svg",
+          "mono": "static/mono/circle.svg"
+        },
+        "animated": {
+          "light": "animated/light/circle.svg",
+          "dark": "animated/dark/circle.svg",
+          "mono": "animated/mono/circle.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_circle",
+        "animated": "ecui_circle_animated",
+        "mono": "ecui_circle_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "square",
+      "label": "Square",
+      "category": "Shapes",
+      "motion": "The perimeter closes around its central accent.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/square.svg",
+          "dark": "static/dark/square.svg",
+          "mono": "static/mono/square.svg"
+        },
+        "animated": {
+          "light": "animated/light/square.svg",
+          "dark": "animated/dark/square.svg",
+          "mono": "animated/mono/square.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_square",
+        "animated": "ecui_square_animated",
+        "mono": "ecui_square_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "infinity",
+      "label": "Infinity",
+      "category": "Shapes",
+      "motion": "One continuous stroke resolves the two connected loops.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/infinity.svg",
+          "dark": "static/dark/infinity.svg",
+          "mono": "static/mono/infinity.svg"
+        },
+        "animated": {
+          "light": "animated/light/infinity.svg",
+          "dark": "animated/dark/infinity.svg",
+          "mono": "animated/mono/infinity.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_infinity",
+        "animated": "ecui_infinity_animated",
+        "mono": "ecui_infinity_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "orbit",
+      "label": "Orbit",
+      "category": "Shapes",
+      "motion": "The orbital arc is established around the fixed centre.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/orbit.svg",
+          "dark": "static/dark/orbit.svg",
+          "mono": "static/mono/orbit.svg"
+        },
+        "animated": {
+          "light": "animated/light/orbit.svg",
+          "dark": "animated/dark/orbit.svg",
+          "mono": "animated/mono/orbit.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_orbit",
+        "animated": "ecui_orbit_animated",
+        "mono": "ecui_orbit_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "atom",
+      "label": "Atom",
+      "category": "Shapes",
+      "motion": "The intersecting orbital paths are traced without spinning the symbol.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/atom.svg",
+          "dark": "static/dark/atom.svg",
+          "mono": "static/mono/atom.svg"
+        },
+        "animated": {
+          "light": "animated/light/atom.svg",
+          "dark": "animated/dark/atom.svg",
+          "mono": "animated/mono/atom.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_atom",
+        "animated": "ecui_atom_animated",
+        "mono": "ecui_atom_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "asterisk",
+      "label": "Asterisk",
+      "category": "Shapes",
+      "motion": "The vertical stroke extends from the intersection.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/asterisk.svg",
+          "dark": "static/dark/asterisk.svg",
+          "mono": "static/mono/asterisk.svg"
+        },
+        "animated": {
+          "light": "animated/light/asterisk.svg",
+          "dark": "animated/dark/asterisk.svg",
+          "mono": "animated/mono/asterisk.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_asterisk",
+        "animated": "ecui_asterisk_animated",
+        "mono": "ecui_asterisk_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "sparkle",
+      "label": "Sparkle",
+      "category": "Shapes",
+      "motion": "The four-point facet is drawn into place.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/sparkle.svg",
+          "dark": "static/dark/sparkle.svg",
+          "mono": "static/mono/sparkle.svg"
+        },
+        "animated": {
+          "light": "animated/light/sparkle.svg",
+          "dark": "animated/dark/sparkle.svg",
+          "mono": "animated/mono/sparkle.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_sparkle",
+        "animated": "ecui_sparkle_animated",
+        "mono": "ecui_sparkle_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "gem",
+      "label": "Gem",
+      "category": "Shapes",
+      "motion": "The cut facets resolve inside the gemstone.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/gem.svg",
+          "dark": "static/dark/gem.svg",
+          "mono": "static/mono/gem.svg"
+        },
+        "animated": {
+          "light": "animated/light/gem.svg",
+          "dark": "animated/dark/gem.svg",
+          "mono": "animated/mono/gem.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_gem",
+        "animated": "ecui_gem_animated",
+        "mono": "ecui_gem_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "ribbon",
+      "label": "Ribbon",
+      "category": "Shapes",
+      "motion": "The award tails unfold beneath the seal.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/ribbon.svg",
+          "dark": "static/dark/ribbon.svg",
+          "mono": "static/mono/ribbon.svg"
+        },
+        "animated": {
+          "light": "animated/light/ribbon.svg",
+          "dark": "animated/dark/ribbon.svg",
+          "mono": "animated/mono/ribbon.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_ribbon",
+        "animated": "ecui_ribbon_animated",
+        "mono": "ecui_ribbon_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "flag",
+      "label": "Flag",
+      "category": "Shapes",
+      "motion": "The attached flag opens from the pole.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/flag.svg",
+          "dark": "static/dark/flag.svg",
+          "mono": "static/mono/flag.svg"
+        },
+        "animated": {
+          "light": "animated/light/flag.svg",
+          "dark": "animated/dark/flag.svg",
+          "mono": "animated/mono/flag.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_flag",
+        "animated": "ecui_flag_animated",
+        "mono": "ecui_flag_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "trophy",
+      "label": "Trophy",
+      "category": "Shapes",
+      "motion": "The cup seats above the fixed stem.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/trophy.svg",
+          "dark": "static/dark/trophy.svg",
+          "mono": "static/mono/trophy.svg"
+        },
+        "animated": {
+          "light": "animated/light/trophy.svg",
+          "dark": "animated/dark/trophy.svg",
+          "mono": "animated/mono/trophy.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_trophy",
+        "animated": "ecui_trophy_animated",
+        "mono": "ecui_trophy_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "leaf",
+      "label": "Leaf",
+      "category": "Nature",
+      "motion": "The midrib is traced from stem to tip.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/leaf.svg",
+          "dark": "static/dark/leaf.svg",
+          "mono": "static/mono/leaf.svg"
+        },
+        "animated": {
+          "light": "animated/light/leaf.svg",
+          "dark": "animated/dark/leaf.svg",
+          "mono": "animated/mono/leaf.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_leaf",
+        "animated": "ecui_leaf_animated",
+        "mono": "ecui_leaf_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "pine",
+      "label": "Pine",
+      "category": "Nature",
+      "motion": "The upper branch tier grows along the trunk.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/pine.svg",
+          "dark": "static/dark/pine.svg",
+          "mono": "static/mono/pine.svg"
+        },
+        "animated": {
+          "light": "animated/light/pine.svg",
+          "dark": "animated/dark/pine.svg",
+          "mono": "animated/mono/pine.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_pine",
+        "animated": "ecui_pine_animated",
+        "mono": "ecui_pine_mono"
+      },
+      "aliases": [
+        "tree-pine"
+      ]
+    },
+    {
+      "id": "tree",
+      "label": "Tree",
+      "category": "Nature",
+      "motion": "The canopy opens above the rooted trunk.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/tree.svg",
+          "dark": "static/dark/tree.svg",
+          "mono": "static/mono/tree.svg"
+        },
+        "animated": {
+          "light": "animated/light/tree.svg",
+          "dark": "animated/dark/tree.svg",
+          "mono": "animated/mono/tree.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_tree",
+        "animated": "ecui_tree_animated",
+        "mono": "ecui_tree_mono"
+      },
+      "aliases": [
+        "tree-deciduous"
+      ]
+    },
+    {
+      "id": "flower",
+      "label": "Flower",
+      "category": "Nature",
+      "motion": "Four petals open around a fixed centre.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/flower.svg",
+          "dark": "static/dark/flower.svg",
+          "mono": "static/mono/flower.svg"
+        },
+        "animated": {
+          "light": "animated/light/flower.svg",
+          "dark": "animated/dark/flower.svg",
+          "mono": "animated/mono/flower.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_flower",
+        "animated": "ecui_flower_animated",
+        "mono": "ecui_flower_mono"
+      },
+      "aliases": [
+        "flower-2"
+      ]
+    },
+    {
+      "id": "sprout",
+      "label": "Sprout",
+      "category": "Nature",
+      "motion": "The paired leaves unfold around their stem.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/sprout.svg",
+          "dark": "static/dark/sprout.svg",
+          "mono": "static/mono/sprout.svg"
+        },
+        "animated": {
+          "light": "animated/light/sprout.svg",
+          "dark": "animated/dark/sprout.svg",
+          "mono": "animated/mono/sprout.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_sprout",
+        "animated": "ecui_sprout_animated",
+        "mono": "ecui_sprout_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "mountain",
+      "label": "Mountain",
+      "category": "Nature",
+      "motion": "The peak ridge is traced above the foothills.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/mountain.svg",
+          "dark": "static/dark/mountain.svg",
+          "mono": "static/mono/mountain.svg"
+        },
+        "animated": {
+          "light": "animated/light/mountain.svg",
+          "dark": "animated/dark/mountain.svg",
+          "mono": "animated/mono/mountain.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_mountain",
+        "animated": "ecui_mountain_animated",
+        "mono": "ecui_mountain_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "sun",
+      "label": "Light theme",
+      "category": "Nature",
+      "motion": "The rays extend around a stable warm disc.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/sun.svg",
+          "dark": "static/dark/sun.svg",
+          "mono": "static/mono/sun.svg"
+        },
+        "animated": {
+          "light": "animated/light/sun.svg",
+          "dark": "animated/dark/sun.svg",
+          "mono": "animated/mono/sun.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_sun",
+        "animated": "ecui_sun_animated",
+        "mono": "ecui_sun_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "moon",
+      "label": "Dark theme",
+      "category": "Nature",
+      "motion": "The crescent contour is revealed without rotating the moon.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/moon.svg",
+          "dark": "static/dark/moon.svg",
+          "mono": "static/mono/moon.svg"
+        },
+        "animated": {
+          "light": "animated/light/moon.svg",
+          "dark": "animated/dark/moon.svg",
+          "mono": "animated/mono/moon.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_moon",
+        "animated": "ecui_moon_animated",
+        "mono": "ecui_moon_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "cloud",
+      "label": "Cloud",
+      "category": "Nature",
+      "motion": "The cloud contour grows from its flat horizon.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/cloud.svg",
+          "dark": "static/dark/cloud.svg",
+          "mono": "static/mono/cloud.svg"
+        },
+        "animated": {
+          "light": "animated/light/cloud.svg",
+          "dark": "animated/dark/cloud.svg",
+          "mono": "animated/mono/cloud.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_cloud",
+        "animated": "ecui_cloud_animated",
+        "mono": "ecui_cloud_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "rainbow",
+      "label": "Rainbow",
+      "category": "Nature",
+      "motion": "The inner rainbow band follows the outer arch.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/rainbow.svg",
+          "dark": "static/dark/rainbow.svg",
+          "mono": "static/mono/rainbow.svg"
+        },
+        "animated": {
+          "light": "animated/light/rainbow.svg",
+          "dark": "animated/dark/rainbow.svg",
+          "mono": "animated/mono/rainbow.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_rainbow",
+        "animated": "ecui_rainbow_animated",
+        "mono": "ecui_rainbow_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "snowflake",
+      "label": "Snowflake",
+      "category": "Nature",
+      "motion": "The crystalline branches are traced from the centre.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/snowflake.svg",
+          "dark": "static/dark/snowflake.svg",
+          "mono": "static/mono/snowflake.svg"
+        },
+        "animated": {
+          "light": "animated/light/snowflake.svg",
+          "dark": "animated/dark/snowflake.svg",
+          "mono": "animated/mono/snowflake.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_snowflake",
+        "animated": "ecui_snowflake_animated",
+        "mono": "ecui_snowflake_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "flame",
+      "label": "Flame",
+      "category": "Nature",
+      "motion": "The inner flame rises within the stable outer silhouette.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/flame.svg",
+          "dark": "static/dark/flame.svg",
+          "mono": "static/mono/flame.svg"
+        },
+        "animated": {
+          "light": "animated/light/flame.svg",
+          "dark": "animated/dark/flame.svg",
+          "mono": "animated/mono/flame.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_flame",
+        "animated": "ecui_flame_animated",
+        "mono": "ecui_flame_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "droplet",
+      "label": "Water drop",
+      "category": "Nature",
+      "motion": "A short reflection travels down the water drop.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/droplet.svg",
+          "dark": "static/dark/droplet.svg",
+          "mono": "static/mono/droplet.svg"
+        },
+        "animated": {
+          "light": "animated/light/droplet.svg",
+          "dark": "animated/dark/droplet.svg",
+          "mono": "animated/mono/droplet.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_droplet",
+        "animated": "ecui_droplet_animated",
+        "mono": "ecui_droplet_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "waves",
+      "label": "Waves",
+      "category": "Nature",
+      "motion": "The centre wave crosses a small horizontal interval.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/waves.svg",
+          "dark": "static/dark/waves.svg",
+          "mono": "static/mono/waves.svg"
+        },
+        "animated": {
+          "light": "animated/light/waves.svg",
+          "dark": "animated/dark/waves.svg",
+          "mono": "animated/mono/waves.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_waves",
+        "animated": "ecui_waves_animated",
+        "mono": "ecui_waves_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "wind",
+      "label": "Wind",
+      "category": "Nature",
+      "motion": "The wind stroke resolves into its curled end.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/wind.svg",
+          "dark": "static/dark/wind.svg",
+          "mono": "static/mono/wind.svg"
+        },
+        "animated": {
+          "light": "animated/light/wind.svg",
+          "dark": "animated/dark/wind.svg",
+          "mono": "animated/mono/wind.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_wind",
+        "animated": "ecui_wind_animated",
+        "mono": "ecui_wind_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "earth",
+      "label": "Earth",
+      "category": "Nature",
+      "motion": "The land contour is traced across a still planet.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/earth.svg",
+          "dark": "static/dark/earth.svg",
+          "mono": "static/mono/earth.svg"
+        },
+        "animated": {
+          "light": "animated/light/earth.svg",
+          "dark": "animated/dark/earth.svg",
+          "mono": "animated/mono/earth.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_earth",
+        "animated": "ecui_earth_animated",
+        "mono": "ecui_earth_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "sunrise",
+      "label": "Sunrise",
+      "category": "Nature",
+      "motion": "The sun rises behind the horizon.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/sunrise.svg",
+          "dark": "static/dark/sunrise.svg",
+          "mono": "static/mono/sunrise.svg"
+        },
+        "animated": {
+          "light": "animated/light/sunrise.svg",
+          "dark": "animated/dark/sunrise.svg",
+          "mono": "animated/mono/sunrise.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_sunrise",
+        "animated": "ecui_sunrise_animated",
+        "mono": "ecui_sunrise_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "eclipse",
+      "label": "Eclipse",
+      "category": "Nature",
+      "motion": "The obscured disc reveals its remaining crescent.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/eclipse.svg",
+          "dark": "static/dark/eclipse.svg",
+          "mono": "static/mono/eclipse.svg"
+        },
+        "animated": {
+          "light": "animated/light/eclipse.svg",
+          "dark": "animated/dark/eclipse.svg",
+          "mono": "animated/mono/eclipse.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_eclipse",
+        "animated": "ecui_eclipse_animated",
+        "mono": "ecui_eclipse_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "cat",
+      "label": "Cat",
+      "category": "Animals",
+      "motion": "One ear inclines as the face remains steady.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/cat.svg",
+          "dark": "static/dark/cat.svg",
+          "mono": "static/mono/cat.svg"
+        },
+        "animated": {
+          "light": "animated/light/cat.svg",
+          "dark": "animated/dark/cat.svg",
+          "mono": "animated/mono/cat.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_cat",
+        "animated": "ecui_cat_animated",
+        "mono": "ecui_cat_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "dog",
+      "label": "Dog",
+      "category": "Animals",
+      "motion": "The floppy ear settles beside the muzzle.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/dog.svg",
+          "dark": "static/dark/dog.svg",
+          "mono": "static/mono/dog.svg"
+        },
+        "animated": {
+          "light": "animated/light/dog.svg",
+          "dark": "animated/dark/dog.svg",
+          "mono": "animated/mono/dog.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_dog",
+        "animated": "ecui_dog_animated",
+        "mono": "ecui_dog_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "bird",
+      "label": "Bird",
+      "category": "Animals",
+      "motion": "The wing folds once against the resting bird.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/bird.svg",
+          "dark": "static/dark/bird.svg",
+          "mono": "static/mono/bird.svg"
+        },
+        "animated": {
+          "light": "animated/light/bird.svg",
+          "dark": "animated/dark/bird.svg",
+          "mono": "animated/mono/bird.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_bird",
+        "animated": "ecui_bird_animated",
+        "mono": "ecui_bird_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "fish",
+      "label": "Fish",
+      "category": "Animals",
+      "motion": "The tail propels one short, restrained stroke.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/fish.svg",
+          "dark": "static/dark/fish.svg",
+          "mono": "static/mono/fish.svg"
+        },
+        "animated": {
+          "light": "animated/light/fish.svg",
+          "dark": "animated/dark/fish.svg",
+          "mono": "animated/mono/fish.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_fish",
+        "animated": "ecui_fish_animated",
+        "mono": "ecui_fish_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "rabbit",
+      "label": "Rabbit",
+      "category": "Animals",
+      "motion": "One long ear inclines at its base.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/rabbit.svg",
+          "dark": "static/dark/rabbit.svg",
+          "mono": "static/mono/rabbit.svg"
+        },
+        "animated": {
+          "light": "animated/light/rabbit.svg",
+          "dark": "animated/dark/rabbit.svg",
+          "mono": "animated/mono/rabbit.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_rabbit",
+        "animated": "ecui_rabbit_animated",
+        "mono": "ecui_rabbit_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "squirrel",
+      "label": "Squirrel",
+      "category": "Animals",
+      "motion": "The curled tail tightens once beside the body.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/squirrel.svg",
+          "dark": "static/dark/squirrel.svg",
+          "mono": "static/mono/squirrel.svg"
+        },
+        "animated": {
+          "light": "animated/light/squirrel.svg",
+          "dark": "animated/dark/squirrel.svg",
+          "mono": "animated/mono/squirrel.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_squirrel",
+        "animated": "ecui_squirrel_animated",
+        "mono": "ecui_squirrel_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "turtle",
+      "label": "Turtle",
+      "category": "Animals",
+      "motion": "The head extends beyond a fixed shell.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/turtle.svg",
+          "dark": "static/dark/turtle.svg",
+          "mono": "static/mono/turtle.svg"
+        },
+        "animated": {
+          "light": "animated/light/turtle.svg",
+          "dark": "animated/dark/turtle.svg",
+          "mono": "animated/mono/turtle.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_turtle",
+        "animated": "ecui_turtle_animated",
+        "mono": "ecui_turtle_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "snail",
+      "label": "Snail",
+      "category": "Animals",
+      "motion": "The feeler extends as the spiral remains still.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/snail.svg",
+          "dark": "static/dark/snail.svg",
+          "mono": "static/mono/snail.svg"
+        },
+        "animated": {
+          "light": "animated/light/snail.svg",
+          "dark": "animated/dark/snail.svg",
+          "mono": "animated/mono/snail.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_snail",
+        "animated": "ecui_snail_animated",
+        "mono": "ecui_snail_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "ladybird",
+      "label": "Ladybird",
+      "category": "Animals",
+      "motion": "The wing seam opens slightly about the head.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/ladybird.svg",
+          "dark": "static/dark/ladybird.svg",
+          "mono": "static/mono/ladybird.svg"
+        },
+        "animated": {
+          "light": "animated/light/ladybird.svg",
+          "dark": "animated/dark/ladybird.svg",
+          "mono": "animated/mono/ladybird.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_ladybird",
+        "animated": "ecui_ladybird_animated",
+        "mono": "ecui_ladybird_mono"
+      },
+      "aliases": [
+        "bug"
+      ]
+    },
+    {
+      "id": "paw",
+      "label": "Paw",
+      "category": "Animals",
+      "motion": "The central paw pad lands beneath the four toe pads.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/paw.svg",
+          "dark": "static/dark/paw.svg",
+          "mono": "static/mono/paw.svg"
+        },
+        "animated": {
+          "light": "animated/light/paw.svg",
+          "dark": "animated/dark/paw.svg",
+          "mono": "animated/mono/paw.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_paw",
+        "animated": "ecui_paw_animated",
+        "mono": "ecui_paw_mono"
+      },
+      "aliases": [
+        "paw-print"
+      ]
+    },
+    {
+      "id": "mouse",
+      "label": "Mouse",
+      "category": "Animals",
+      "motion": "The thin tail uncurls from the resting body.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/mouse.svg",
+          "dark": "static/dark/mouse.svg",
+          "mono": "static/mono/mouse.svg"
+        },
+        "animated": {
+          "light": "animated/light/mouse.svg",
+          "dark": "animated/dark/mouse.svg",
+          "mono": "animated/mono/mouse.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_mouse",
+        "animated": "ecui_mouse_animated",
+        "mono": "ecui_mouse_mono"
+      },
+      "aliases": [
+        "rat"
+      ]
+    },
+    {
+      "id": "worm",
+      "label": "Worm",
+      "category": "Animals",
+      "motion": "The last segment follows a short crawling movement.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/worm.svg",
+          "dark": "static/dark/worm.svg",
+          "mono": "static/mono/worm.svg"
+        },
+        "animated": {
+          "light": "animated/light/worm.svg",
+          "dark": "animated/dark/worm.svg",
+          "mono": "animated/mono/worm.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_worm",
+        "animated": "ecui_worm_animated",
+        "mono": "ecui_worm_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "feather",
+      "label": "Feather",
+      "category": "Animals",
+      "motion": "The quill is traced through the tapered vane.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/feather.svg",
+          "dark": "static/dark/feather.svg",
+          "mono": "static/mono/feather.svg"
+        },
+        "animated": {
+          "light": "animated/light/feather.svg",
+          "dark": "animated/dark/feather.svg",
+          "mono": "animated/mono/feather.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_feather",
+        "animated": "ecui_feather_animated",
+        "mono": "ecui_feather_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "shell",
+      "label": "Shell",
+      "category": "Animals",
+      "motion": "The fan ribs unfold from the shell hinge.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/shell.svg",
+          "dark": "static/dark/shell.svg",
+          "mono": "static/mono/shell.svg"
+        },
+        "animated": {
+          "light": "animated/light/shell.svg",
+          "dark": "animated/dark/shell.svg",
+          "mono": "animated/mono/shell.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_shell",
+        "animated": "ecui_shell_animated",
+        "mono": "ecui_shell_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "clock",
+      "label": "Clock",
+      "category": "Everyday",
+      "motion": "The minute hand advances through a small interval and settles.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/clock.svg",
+          "dark": "static/dark/clock.svg",
+          "mono": "static/mono/clock.svg"
+        },
+        "animated": {
+          "light": "animated/light/clock.svg",
+          "dark": "animated/dark/clock.svg",
+          "mono": "animated/mono/clock.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_clock",
+        "animated": "ecui_clock_animated",
+        "mono": "ecui_clock_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "alarm",
+      "label": "Alarm",
+      "category": "Everyday",
+      "motion": "The paired alarm bells rock once on their mounts.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/alarm.svg",
+          "dark": "static/dark/alarm.svg",
+          "mono": "static/mono/alarm.svg"
+        },
+        "animated": {
+          "light": "animated/light/alarm.svg",
+          "dark": "animated/dark/alarm.svg",
+          "mono": "animated/mono/alarm.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_alarm",
+        "animated": "ecui_alarm_animated",
+        "mono": "ecui_alarm_mono"
+      },
+      "aliases": [
+        "alarm-clock"
+      ]
+    },
+    {
+      "id": "timer",
+      "label": "Timer",
+      "category": "Everyday",
+      "motion": "The timing hand advances without moving the dial.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/timer.svg",
+          "dark": "static/dark/timer.svg",
+          "mono": "static/mono/timer.svg"
+        },
+        "animated": {
+          "light": "animated/light/timer.svg",
+          "dark": "animated/dark/timer.svg",
+          "mono": "animated/mono/timer.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_timer",
+        "animated": "ecui_timer_animated",
+        "mono": "ecui_timer_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "watch",
+      "label": "Watch",
+      "category": "Everyday",
+      "motion": "The watch hand settles on its time mark.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/watch.svg",
+          "dark": "static/dark/watch.svg",
+          "mono": "static/mono/watch.svg"
+        },
+        "animated": {
+          "light": "animated/light/watch.svg",
+          "dark": "animated/dark/watch.svg",
+          "mono": "animated/mono/watch.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_watch",
+        "animated": "ecui_watch_animated",
+        "mono": "ecui_watch_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "calculator",
+      "label": "Calculator",
+      "category": "Everyday",
+      "motion": "The display resolves above a fixed keypad.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/calculator.svg",
+          "dark": "static/dark/calculator.svg",
+          "mono": "static/mono/calculator.svg"
+        },
+        "animated": {
+          "light": "animated/light/calculator.svg",
+          "dark": "animated/dark/calculator.svg",
+          "mono": "animated/mono/calculator.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_calculator",
+        "animated": "ecui_calculator_animated",
+        "mono": "ecui_calculator_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "chart",
+      "label": "Chart",
+      "category": "Everyday",
+      "motion": "The chart line plots from left to right.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/chart.svg",
+          "dark": "static/dark/chart.svg",
+          "mono": "static/mono/chart.svg"
+        },
+        "animated": {
+          "light": "animated/light/chart.svg",
+          "dark": "animated/dark/chart.svg",
+          "mono": "animated/mono/chart.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_chart",
+        "animated": "ecui_chart_animated",
+        "mono": "ecui_chart_mono"
+      },
+      "aliases": [
+        "chart-no-axes-combined"
+      ]
+    },
+    {
+      "id": "pie-chart",
+      "label": "Pie chart",
+      "category": "Everyday",
+      "motion": "The separate sector seats in the chart.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/pie-chart.svg",
+          "dark": "static/dark/pie-chart.svg",
+          "mono": "static/mono/pie-chart.svg"
+        },
+        "animated": {
+          "light": "animated/light/pie-chart.svg",
+          "dark": "animated/dark/pie-chart.svg",
+          "mono": "animated/mono/pie-chart.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_pie_chart",
+        "animated": "ecui_pie_chart_animated",
+        "mono": "ecui_pie_chart_mono"
+      },
+      "aliases": [
+        "chart-pie"
+      ]
+    },
+    {
+      "id": "checklist",
+      "label": "Checklist",
+      "category": "Everyday",
+      "motion": "The first completed item is checked off.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/checklist.svg",
+          "dark": "static/dark/checklist.svg",
+          "mono": "static/mono/checklist.svg"
+        },
+        "animated": {
+          "light": "animated/light/checklist.svg",
+          "dark": "animated/dark/checklist.svg",
+          "mono": "animated/mono/checklist.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_checklist",
+        "animated": "ecui_checklist_animated",
+        "mono": "ecui_checklist_mono"
+      },
+      "aliases": [
+        "list-checks"
+      ]
+    },
+    {
+      "id": "mail",
+      "label": "Mail",
+      "category": "Everyday",
+      "motion": "The envelope flap closes about its top fold.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/mail.svg",
+          "dark": "static/dark/mail.svg",
+          "mono": "static/mono/mail.svg"
+        },
+        "animated": {
+          "light": "animated/light/mail.svg",
+          "dark": "animated/dark/mail.svg",
+          "mono": "animated/mono/mail.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_mail",
+        "animated": "ecui_mail_animated",
+        "mono": "ecui_mail_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "message",
+      "label": "Message",
+      "category": "Everyday",
+      "motion": "The short message is written inside its bubble.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/message.svg",
+          "dark": "static/dark/message.svg",
+          "mono": "static/mono/message.svg"
+        },
+        "animated": {
+          "light": "animated/light/message.svg",
+          "dark": "animated/dark/message.svg",
+          "mono": "animated/mono/message.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_message",
+        "animated": "ecui_message_animated",
+        "mono": "ecui_message_mono"
+      },
+      "aliases": [
+        "message-square"
+      ]
+    },
+    {
+      "id": "phone",
+      "label": "Phone",
+      "category": "Everyday",
+      "motion": "The receiver inclines once from its lower end.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/phone.svg",
+          "dark": "static/dark/phone.svg",
+          "mono": "static/mono/phone.svg"
+        },
+        "animated": {
+          "light": "animated/light/phone.svg",
+          "dark": "animated/dark/phone.svg",
+          "mono": "animated/mono/phone.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_phone",
+        "animated": "ecui_phone_animated",
+        "mono": "ecui_phone_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "video",
+      "label": "Video",
+      "category": "Everyday",
+      "motion": "The lens aperture opens beside the body.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/video.svg",
+          "dark": "static/dark/video.svg",
+          "mono": "static/mono/video.svg"
+        },
+        "animated": {
+          "light": "animated/light/video.svg",
+          "dark": "animated/dark/video.svg",
+          "mono": "animated/mono/video.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_video",
+        "animated": "ecui_video_animated",
+        "mono": "ecui_video_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "megaphone",
+      "label": "Megaphone",
+      "category": "Everyday",
+      "motion": "The sound lines extend beyond the horn.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/megaphone.svg",
+          "dark": "static/dark/megaphone.svg",
+          "mono": "static/mono/megaphone.svg"
+        },
+        "animated": {
+          "light": "animated/light/megaphone.svg",
+          "dark": "animated/dark/megaphone.svg",
+          "mono": "animated/mono/megaphone.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_megaphone",
+        "animated": "ecui_megaphone_animated",
+        "mono": "ecui_megaphone_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "bell",
+      "label": "Notifications",
+      "category": "Everyday",
+      "motion": "The bell swings about its crown and returns to rest.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/bell.svg",
+          "dark": "static/dark/bell.svg",
+          "mono": "static/mono/bell.svg"
+        },
+        "animated": {
+          "light": "animated/light/bell.svg",
+          "dark": "animated/dark/bell.svg",
+          "mono": "animated/mono/bell.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_bell",
+        "animated": "ecui_bell_animated",
+        "mono": "ecui_bell_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "key",
+      "label": "Key",
+      "category": "Everyday",
+      "motion": "The key tooth turns into alignment with the shaft.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/key.svg",
+          "dark": "static/dark/key.svg",
+          "mono": "static/mono/key.svg"
+        },
+        "animated": {
+          "light": "animated/light/key.svg",
+          "dark": "animated/dark/key.svg",
+          "mono": "animated/mono/key.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_key",
+        "animated": "ecui_key_animated",
+        "mono": "ecui_key_mono"
+      },
+      "aliases": [
+        "key-round"
+      ]
+    },
+    {
+      "id": "lock",
+      "label": "Private",
+      "category": "Everyday",
+      "motion": "The shackle seats into the anchored lock body.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/lock.svg",
+          "dark": "static/dark/lock.svg",
+          "mono": "static/mono/lock.svg"
+        },
+        "animated": {
+          "light": "animated/light/lock.svg",
+          "dark": "animated/dark/lock.svg",
+          "mono": "animated/mono/lock.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_lock",
+        "animated": "ecui_lock_animated",
+        "mono": "ecui_lock_mono"
+      },
+      "aliases": [
+        "lock-keyhole"
+      ]
+    },
+    {
+      "id": "compass",
+      "label": "Compass",
+      "category": "Travel",
+      "motion": "The needle finds north and settles.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/compass.svg",
+          "dark": "static/dark/compass.svg",
+          "mono": "static/mono/compass.svg"
+        },
+        "animated": {
+          "light": "animated/light/compass.svg",
+          "dark": "animated/dark/compass.svg",
+          "mono": "animated/mono/compass.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_compass",
+        "animated": "ecui_compass_animated",
+        "mono": "ecui_compass_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "pin",
+      "label": "Place",
+      "category": "Travel",
+      "motion": "The location pin seats on its map point.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/pin.svg",
+          "dark": "static/dark/pin.svg",
+          "mono": "static/mono/pin.svg"
+        },
+        "animated": {
+          "light": "animated/light/pin.svg",
+          "dark": "animated/dark/pin.svg",
+          "mono": "animated/mono/pin.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_pin",
+        "animated": "ecui_pin_animated",
+        "mono": "ecui_pin_mono"
+      },
+      "aliases": [
+        "map-pin"
+      ]
+    },
+    {
+      "id": "map",
+      "label": "Map",
+      "category": "Travel",
+      "motion": "The final map panel opens from its fold.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/map.svg",
+          "dark": "static/dark/map.svg",
+          "mono": "static/mono/map.svg"
+        },
+        "animated": {
+          "light": "animated/light/map.svg",
+          "dark": "animated/dark/map.svg",
+          "mono": "animated/mono/map.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_map",
+        "animated": "ecui_map_animated",
+        "mono": "ecui_map_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "route",
+      "label": "Route",
+      "category": "Travel",
+      "motion": "The route is drawn between its fixed endpoints.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/route.svg",
+          "dark": "static/dark/route.svg",
+          "mono": "static/mono/route.svg"
+        },
+        "animated": {
+          "light": "animated/light/route.svg",
+          "dark": "animated/dark/route.svg",
+          "mono": "animated/mono/route.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_route",
+        "animated": "ecui_route_animated",
+        "mono": "ecui_route_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "globe",
+      "label": "Globe",
+      "category": "Travel",
+      "motion": "The meridian is traced inside the fixed globe.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/globe.svg",
+          "dark": "static/dark/globe.svg",
+          "mono": "static/mono/globe.svg"
+        },
+        "animated": {
+          "light": "animated/light/globe.svg",
+          "dark": "animated/dark/globe.svg",
+          "mono": "animated/mono/globe.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_globe",
+        "animated": "ecui_globe_animated",
+        "mono": "ecui_globe_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "plane",
+      "label": "Plane",
+      "category": "Travel",
+      "motion": "The aircraft advances a short distance along its heading.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/plane.svg",
+          "dark": "static/dark/plane.svg",
+          "mono": "static/mono/plane.svg"
+        },
+        "animated": {
+          "light": "animated/light/plane.svg",
+          "dark": "animated/dark/plane.svg",
+          "mono": "animated/mono/plane.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_plane",
+        "animated": "ecui_plane_animated",
+        "mono": "ecui_plane_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "car",
+      "label": "Car",
+      "category": "Travel",
+      "motion": "The body settles onto two fixed wheels.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/car.svg",
+          "dark": "static/dark/car.svg",
+          "mono": "static/mono/car.svg"
+        },
+        "animated": {
+          "light": "animated/light/car.svg",
+          "dark": "animated/dark/car.svg",
+          "mono": "animated/mono/car.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_car",
+        "animated": "ecui_car_animated",
+        "mono": "ecui_car_mono"
+      },
+      "aliases": [
+        "car-front"
+      ]
+    },
+    {
+      "id": "bike",
+      "label": "Bicycle",
+      "category": "Travel",
+      "motion": "The frame is drawn between anchored wheels.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/bike.svg",
+          "dark": "static/dark/bike.svg",
+          "mono": "static/mono/bike.svg"
+        },
+        "animated": {
+          "light": "animated/light/bike.svg",
+          "dark": "animated/dark/bike.svg",
+          "mono": "animated/mono/bike.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_bike",
+        "animated": "ecui_bike_animated",
+        "mono": "ecui_bike_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "train",
+      "label": "Train",
+      "category": "Travel",
+      "motion": "The train front seats above the rails.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/train.svg",
+          "dark": "static/dark/train.svg",
+          "mono": "static/mono/train.svg"
+        },
+        "animated": {
+          "light": "animated/light/train.svg",
+          "dark": "animated/dark/train.svg",
+          "mono": "animated/mono/train.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_train",
+        "animated": "ecui_train_animated",
+        "mono": "ecui_train_mono"
+      },
+      "aliases": [
+        "train-front"
+      ]
+    },
+    {
+      "id": "bus",
+      "label": "Bus",
+      "category": "Travel",
+      "motion": "The bus body settles on the wheels.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/bus.svg",
+          "dark": "static/dark/bus.svg",
+          "mono": "static/mono/bus.svg"
+        },
+        "animated": {
+          "light": "animated/light/bus.svg",
+          "dark": "animated/dark/bus.svg",
+          "mono": "animated/mono/bus.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_bus",
+        "animated": "ecui_bus_animated",
+        "mono": "ecui_bus_mono"
+      },
+      "aliases": [
+        "bus-front"
+      ]
+    },
+    {
+      "id": "ship",
+      "label": "Ship",
+      "category": "Travel",
+      "motion": "The hull moves through one short swell.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/ship.svg",
+          "dark": "static/dark/ship.svg",
+          "mono": "static/mono/ship.svg"
+        },
+        "animated": {
+          "light": "animated/light/ship.svg",
+          "dark": "animated/dark/ship.svg",
+          "mono": "animated/mono/ship.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_ship",
+        "animated": "ecui_ship_animated",
+        "mono": "ecui_ship_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "sailboat",
+      "label": "Sailboat",
+      "category": "Travel",
+      "motion": "The sail opens from the mast.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/sailboat.svg",
+          "dark": "static/dark/sailboat.svg",
+          "mono": "static/mono/sailboat.svg"
+        },
+        "animated": {
+          "light": "animated/light/sailboat.svg",
+          "dark": "animated/dark/sailboat.svg",
+          "mono": "animated/mono/sailboat.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_sailboat",
+        "animated": "ecui_sailboat_animated",
+        "mono": "ecui_sailboat_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "rocket",
+      "label": "Rocket",
+      "category": "Travel",
+      "motion": "The exhaust extends once beneath the anchored rocket.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/rocket.svg",
+          "dark": "static/dark/rocket.svg",
+          "mono": "static/mono/rocket.svg"
+        },
+        "animated": {
+          "light": "animated/light/rocket.svg",
+          "dark": "animated/dark/rocket.svg",
+          "mono": "animated/mono/rocket.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_rocket",
+        "animated": "ecui_rocket_animated",
+        "mono": "ecui_rocket_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "tent",
+      "label": "Tent",
+      "category": "Travel",
+      "motion": "The entrance flap opens around its ridge.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/tent.svg",
+          "dark": "static/dark/tent.svg",
+          "mono": "static/mono/tent.svg"
+        },
+        "animated": {
+          "light": "animated/light/tent.svg",
+          "dark": "animated/dark/tent.svg",
+          "mono": "animated/mono/tent.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_tent",
+        "animated": "ecui_tent_animated",
+        "mono": "ecui_tent_mono"
+      },
+      "aliases": [
+        "tent-tree"
+      ]
+    },
+    {
+      "id": "luggage",
+      "label": "Luggage",
+      "category": "Travel",
+      "motion": "The telescopic handle rises above the case.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/luggage.svg",
+          "dark": "static/dark/luggage.svg",
+          "mono": "static/mono/luggage.svg"
+        },
+        "animated": {
+          "light": "animated/light/luggage.svg",
+          "dark": "animated/dark/luggage.svg",
+          "mono": "animated/mono/luggage.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_luggage",
+        "animated": "ecui_luggage_animated",
+        "mono": "ecui_luggage_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "backpack",
+      "label": "Backpack",
+      "category": "Travel",
+      "motion": "The front pocket seats on the pack.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/backpack.svg",
+          "dark": "static/dark/backpack.svg",
+          "mono": "static/mono/backpack.svg"
+        },
+        "animated": {
+          "light": "animated/light/backpack.svg",
+          "dark": "animated/dark/backpack.svg",
+          "mono": "animated/mono/backpack.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_backpack",
+        "animated": "ecui_backpack_animated",
+        "mono": "ecui_backpack_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "anchor",
+      "label": "Anchor",
+      "category": "Travel",
+      "motion": "The arms are traced from the central shaft.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/anchor.svg",
+          "dark": "static/dark/anchor.svg",
+          "mono": "static/mono/anchor.svg"
+        },
+        "animated": {
+          "light": "animated/light/anchor.svg",
+          "dark": "animated/dark/anchor.svg",
+          "mono": "animated/mono/anchor.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_anchor",
+        "animated": "ecui_anchor_animated",
+        "mono": "ecui_anchor_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "waypoints",
+      "label": "Waypoints",
+      "category": "Travel",
+      "motion": "The connecting route appears between fixed waypoints.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/waypoints.svg",
+          "dark": "static/dark/waypoints.svg",
+          "mono": "static/mono/waypoints.svg"
+        },
+        "animated": {
+          "light": "animated/light/waypoints.svg",
+          "dark": "animated/dark/waypoints.svg",
+          "mono": "animated/mono/waypoints.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_waypoints",
+        "animated": "ecui_waypoints_animated",
+        "mono": "ecui_waypoints_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "category": "Interests",
+      "motion": "The note stem is traced into its joined beam.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/music.svg",
+          "dark": "static/dark/music.svg",
+          "mono": "static/mono/music.svg"
+        },
+        "animated": {
+          "light": "animated/light/music.svg",
+          "dark": "animated/dark/music.svg",
+          "mono": "animated/mono/music.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_music",
+        "animated": "ecui_music_animated",
+        "mono": "ecui_music_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "camera",
+      "label": "Camera",
+      "category": "Interests",
+      "motion": "The aperture closes slightly and reopens.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/camera.svg",
+          "dark": "static/dark/camera.svg",
+          "mono": "static/mono/camera.svg"
+        },
+        "animated": {
+          "light": "animated/light/camera.svg",
+          "dark": "animated/dark/camera.svg",
+          "mono": "animated/mono/camera.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_camera",
+        "animated": "ecui_camera_animated",
+        "mono": "ecui_camera_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "palette",
+      "label": "Palette",
+      "category": "Interests",
+      "motion": "The final paint well seats in the palette.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/palette.svg",
+          "dark": "static/dark/palette.svg",
+          "mono": "static/mono/palette.svg"
+        },
+        "animated": {
+          "light": "animated/light/palette.svg",
+          "dark": "animated/dark/palette.svg",
+          "mono": "animated/mono/palette.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_palette",
+        "animated": "ecui_palette_animated",
+        "mono": "ecui_palette_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "paintbrush",
+      "label": "Paintbrush",
+      "category": "Interests",
+      "motion": "The brush draws a short finishing stroke.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/paintbrush.svg",
+          "dark": "static/dark/paintbrush.svg",
+          "mono": "static/mono/paintbrush.svg"
+        },
+        "animated": {
+          "light": "animated/light/paintbrush.svg",
+          "dark": "animated/dark/paintbrush.svg",
+          "mono": "animated/mono/paintbrush.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_paintbrush",
+        "animated": "ecui_paintbrush_animated",
+        "mono": "ecui_paintbrush_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "pencil-ruler",
+      "label": "Drafting",
+      "category": "Interests",
+      "motion": "The pencil makes a short drafting pass beside the fixed ruler.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/pencil-ruler.svg",
+          "dark": "static/dark/pencil-ruler.svg",
+          "mono": "static/mono/pencil-ruler.svg"
+        },
+        "animated": {
+          "light": "animated/light/pencil-ruler.svg",
+          "dark": "animated/dark/pencil-ruler.svg",
+          "mono": "animated/mono/pencil-ruler.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_pencil_ruler",
+        "animated": "ecui_pencil_ruler_animated",
+        "mono": "ecui_pencil_ruler_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "scissors",
+      "label": "Scissors",
+      "category": "Interests",
+      "motion": "One blade closes about the central pivot.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/scissors.svg",
+          "dark": "static/dark/scissors.svg",
+          "mono": "static/mono/scissors.svg"
+        },
+        "animated": {
+          "light": "animated/light/scissors.svg",
+          "dark": "animated/dark/scissors.svg",
+          "mono": "animated/mono/scissors.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_scissors",
+        "animated": "ecui_scissors_animated",
+        "mono": "ecui_scissors_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "lightbulb",
+      "label": "Lightbulb",
+      "category": "Interests",
+      "motion": "The filament is traced inside the steady bulb.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/lightbulb.svg",
+          "dark": "static/dark/lightbulb.svg",
+          "mono": "static/mono/lightbulb.svg"
+        },
+        "animated": {
+          "light": "animated/light/lightbulb.svg",
+          "dark": "animated/dark/lightbulb.svg",
+          "mono": "animated/mono/lightbulb.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_lightbulb",
+        "animated": "ecui_lightbulb_animated",
+        "mono": "ecui_lightbulb_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "coffee",
+      "label": "Coffee",
+      "category": "Interests",
+      "motion": "The steam rises above a fixed cup.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/coffee.svg",
+          "dark": "static/dark/coffee.svg",
+          "mono": "static/mono/coffee.svg"
+        },
+        "animated": {
+          "light": "animated/light/coffee.svg",
+          "dark": "animated/dark/coffee.svg",
+          "mono": "animated/mono/coffee.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_coffee",
+        "animated": "ecui_coffee_animated",
+        "mono": "ecui_coffee_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "cooking-pot",
+      "label": "Cooking pot",
+      "category": "Interests",
+      "motion": "The lid lowers onto the pot.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/cooking-pot.svg",
+          "dark": "static/dark/cooking-pot.svg",
+          "mono": "static/mono/cooking-pot.svg"
+        },
+        "animated": {
+          "light": "animated/light/cooking-pot.svg",
+          "dark": "animated/dark/cooking-pot.svg",
+          "mono": "animated/mono/cooking-pot.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_cooking_pot",
+        "animated": "ecui_cooking_pot_animated",
+        "mono": "ecui_cooking_pot_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "utensils",
+      "label": "Utensils",
+      "category": "Interests",
+      "motion": "The cutlery is set down in parallel.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/utensils.svg",
+          "dark": "static/dark/utensils.svg",
+          "mono": "static/mono/utensils.svg"
+        },
+        "animated": {
+          "light": "animated/light/utensils.svg",
+          "dark": "animated/dark/utensils.svg",
+          "mono": "animated/mono/utensils.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_utensils",
+        "animated": "ecui_utensils_animated",
+        "mono": "ecui_utensils_mono"
+      },
+      "aliases": [
+        "utensils-crossed"
+      ]
+    },
+    {
+      "id": "apple",
+      "label": "Apple",
+      "category": "Interests",
+      "motion": "The leaf unfolds from the fruit stem.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/apple.svg",
+          "dark": "static/dark/apple.svg",
+          "mono": "static/mono/apple.svg"
+        },
+        "animated": {
+          "light": "animated/light/apple.svg",
+          "dark": "animated/dark/apple.svg",
+          "mono": "animated/mono/apple.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_apple",
+        "animated": "ecui_apple_animated",
+        "mono": "ecui_apple_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "notebook-tabs",
+      "label": "Tabbed notebook",
+      "category": "Interests",
+      "motion": "The current tab pulls outward from the notebook edge.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/notebook-tabs.svg",
+          "dark": "static/dark/notebook-tabs.svg",
+          "mono": "static/mono/notebook-tabs.svg"
+        },
+        "animated": {
+          "light": "animated/light/notebook-tabs.svg",
+          "dark": "animated/dark/notebook-tabs.svg",
+          "mono": "animated/mono/notebook-tabs.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_notebook_tabs",
+        "animated": "ecui_notebook_tabs_animated",
+        "mono": "ecui_notebook_tabs_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "dumbbell",
+      "label": "Training",
+      "category": "Interests",
+      "motion": "The grip lifts a short controlled interval between the plates.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/dumbbell.svg",
+          "dark": "static/dark/dumbbell.svg",
+          "mono": "static/mono/dumbbell.svg"
+        },
+        "animated": {
+          "light": "animated/light/dumbbell.svg",
+          "dark": "animated/dark/dumbbell.svg",
+          "mono": "animated/mono/dumbbell.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_dumbbell",
+        "animated": "ecui_dumbbell_animated",
+        "mono": "ecui_dumbbell_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "goal",
+      "label": "Goal",
+      "category": "Interests",
+      "motion": "The ball seats at the target line.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/goal.svg",
+          "dark": "static/dark/goal.svg",
+          "mono": "static/mono/goal.svg"
+        },
+        "animated": {
+          "light": "animated/light/goal.svg",
+          "dark": "animated/dark/goal.svg",
+          "mono": "animated/mono/goal.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_goal",
+        "animated": "ecui_goal_animated",
+        "mono": "ecui_goal_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "gamepad",
+      "label": "Gamepad",
+      "category": "Interests",
+      "motion": "The right control presses once within the stable gamepad.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/gamepad.svg",
+          "dark": "static/dark/gamepad.svg",
+          "mono": "static/mono/gamepad.svg"
+        },
+        "animated": {
+          "light": "animated/light/gamepad.svg",
+          "dark": "animated/dark/gamepad.svg",
+          "mono": "animated/mono/gamepad.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_gamepad",
+        "animated": "ecui_gamepad_animated",
+        "mono": "ecui_gamepad_mono"
+      },
+      "aliases": [
+        "gamepad-2"
+      ]
+    },
+    {
+      "id": "headphones",
+      "label": "Headphones",
+      "category": "Interests",
+      "motion": "The ear pad adjusts inward beneath the headband.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/headphones.svg",
+          "dark": "static/dark/headphones.svg",
+          "mono": "static/mono/headphones.svg"
+        },
+        "animated": {
+          "light": "animated/light/headphones.svg",
+          "dark": "animated/dark/headphones.svg",
+          "mono": "animated/mono/headphones.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_headphones",
+        "animated": "ecui_headphones_animated",
+        "mono": "ecui_headphones_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "radio",
+      "label": "Radio",
+      "category": "Interests",
+      "motion": "The tuning needle moves to its station.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/radio.svg",
+          "dark": "static/dark/radio.svg",
+          "mono": "static/mono/radio.svg"
+        },
+        "animated": {
+          "light": "animated/light/radio.svg",
+          "dark": "animated/dark/radio.svg",
+          "mono": "animated/mono/radio.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_radio",
+        "animated": "ecui_radio_animated",
+        "mono": "ecui_radio_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "microphone",
+      "label": "Microphone",
+      "category": "Interests",
+      "motion": "The microphone capsule seats within its fixed cradle.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/microphone.svg",
+          "dark": "static/dark/microphone.svg",
+          "mono": "static/mono/microphone.svg"
+        },
+        "animated": {
+          "light": "animated/light/microphone.svg",
+          "dark": "animated/dark/microphone.svg",
+          "mono": "animated/mono/microphone.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_microphone",
+        "animated": "ecui_microphone_animated",
+        "mono": "ecui_microphone_mono"
+      },
+      "aliases": [
+        "mic"
+      ]
+    },
+    {
+      "id": "case-number",
+      "label": "Case number",
+      "category": "Court",
+      "motion": "The numeric bars are written inside a case tab.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/case-number.svg",
+          "dark": "static/dark/case-number.svg",
+          "mono": "static/mono/case-number.svg"
+        },
+        "animated": {
+          "light": "animated/light/case-number.svg",
+          "dark": "animated/dark/case-number.svg",
+          "mono": "animated/mono/case-number.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_case_number",
+        "animated": "ecui_case_number_animated",
+        "mono": "ecui_case_number_mono"
+      },
+      "aliases": [
+        "hash"
+      ]
+    },
+    {
+      "id": "cnr",
+      "label": "CNR lookup",
+      "category": "Court",
+      "motion": "The code marker scans within fixed corner brackets.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/cnr.svg",
+          "dark": "static/dark/cnr.svg",
+          "mono": "static/mono/cnr.svg"
+        },
+        "animated": {
+          "light": "animated/light/cnr.svg",
+          "dark": "animated/dark/cnr.svg",
+          "mono": "animated/mono/cnr.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_cnr",
+        "animated": "ecui_cnr_animated",
+        "mono": "ecui_cnr_mono"
+      },
+      "aliases": [
+        "scan"
+      ]
+    },
+    {
+      "id": "fir-search",
+      "label": "FIR search",
+      "category": "Court",
+      "motion": "The search lens scans beside the anchored FIR shield.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/fir-search.svg",
+          "dark": "static/dark/fir-search.svg",
+          "mono": "static/mono/fir-search.svg"
+        },
+        "animated": {
+          "light": "animated/light/fir-search.svg",
+          "dark": "animated/dark/fir-search.svg",
+          "mono": "animated/mono/fir-search.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_fir_search",
+        "animated": "ecui_fir_search_animated",
+        "mono": "ecui_fir_search_mono"
+      },
+      "aliases": [
+        "shield-search"
+      ]
+    },
+    {
+      "id": "settings",
+      "label": "Settings",
+      "category": "Navigation",
+      "motion": "One adjustment slider moves precisely along its rail.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/settings.svg",
+          "dark": "static/dark/settings.svg",
+          "mono": "static/mono/settings.svg"
+        },
+        "animated": {
+          "light": "animated/light/settings.svg",
+          "dark": "animated/dark/settings.svg",
+          "mono": "animated/mono/settings.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_settings",
+        "animated": "ecui_settings_animated",
+        "mono": "ecui_settings_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "add",
+      "label": "Add",
+      "category": "Actions",
+      "motion": "The vertical addition stroke extends from the intersection.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/add.svg",
+          "dark": "static/dark/add.svg",
+          "mono": "static/mono/add.svg"
+        },
+        "animated": {
+          "light": "animated/light/add.svg",
+          "dark": "animated/dark/add.svg",
+          "mono": "animated/mono/add.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_add",
+        "animated": "ecui_add_animated",
+        "mono": "ecui_add_mono"
+      },
+      "aliases": [
+        "plus"
+      ]
+    },
+    {
+      "id": "arrow-left",
+      "label": "Back",
+      "category": "Navigation",
+      "motion": "The arrowhead leads a small return movement.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/arrow-left.svg",
+          "dark": "static/dark/arrow-left.svg",
+          "mono": "static/mono/arrow-left.svg"
+        },
+        "animated": {
+          "light": "animated/light/arrow-left.svg",
+          "dark": "animated/dark/arrow-left.svg",
+          "mono": "animated/mono/arrow-left.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_arrow_left",
+        "animated": "ecui_arrow_left_animated",
+        "mono": "ecui_arrow_left_mono"
+      },
+      "aliases": [
+        "back"
+      ]
+    },
+    {
+      "id": "close",
+      "label": "Close",
+      "category": "Navigation",
+      "motion": "The second diagonal completes the close mark.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/close.svg",
+          "dark": "static/dark/close.svg",
+          "mono": "static/mono/close.svg"
+        },
+        "animated": {
+          "light": "animated/light/close.svg",
+          "dark": "animated/dark/close.svg",
+          "mono": "animated/mono/close.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_close",
+        "animated": "ecui_close_animated",
+        "mono": "ecui_close_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "more",
+      "label": "More actions",
+      "category": "Navigation",
+      "motion": "The centre option responds with a single controlled press.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/more.svg",
+          "dark": "static/dark/more.svg",
+          "mono": "static/mono/more.svg"
+        },
+        "animated": {
+          "light": "animated/light/more.svg",
+          "dark": "animated/dark/more.svg",
+          "mono": "animated/mono/more.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_more",
+        "animated": "ecui_more_animated",
+        "mono": "ecui_more_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "chevron-right",
+      "label": "Next",
+      "category": "Navigation",
+      "motion": "The directional stroke leads a short movement and returns.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/chevron-right.svg",
+          "dark": "static/dark/chevron-right.svg",
+          "mono": "static/mono/chevron-right.svg"
+        },
+        "animated": {
+          "light": "animated/light/chevron-right.svg",
+          "dark": "animated/dark/chevron-right.svg",
+          "mono": "animated/mono/chevron-right.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_chevron_right",
+        "animated": "ecui_chevron_right_animated",
+        "mono": "ecui_chevron_right_mono"
+      },
+      "aliases": [
+        "chevron"
+      ]
+    },
+    {
+      "id": "chevron-left",
+      "label": "Previous",
+      "category": "Navigation",
+      "motion": "The directional stroke leads a short movement and returns.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/chevron-left.svg",
+          "dark": "static/dark/chevron-left.svg",
+          "mono": "static/mono/chevron-left.svg"
+        },
+        "animated": {
+          "light": "animated/light/chevron-left.svg",
+          "dark": "animated/dark/chevron-left.svg",
+          "mono": "animated/mono/chevron-left.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_chevron_left",
+        "animated": "ecui_chevron_left_animated",
+        "mono": "ecui_chevron_left_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "chevron-up",
+      "label": "Collapse",
+      "category": "Navigation",
+      "motion": "The directional stroke leads a short movement and returns.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/chevron-up.svg",
+          "dark": "static/dark/chevron-up.svg",
+          "mono": "static/mono/chevron-up.svg"
+        },
+        "animated": {
+          "light": "animated/light/chevron-up.svg",
+          "dark": "animated/dark/chevron-up.svg",
+          "mono": "animated/mono/chevron-up.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_chevron_up",
+        "animated": "ecui_chevron_up_animated",
+        "mono": "ecui_chevron_up_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "chevron-down",
+      "label": "Expand",
+      "category": "Navigation",
+      "motion": "The directional stroke leads a short movement and returns.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/chevron-down.svg",
+          "dark": "static/dark/chevron-down.svg",
+          "mono": "static/mono/chevron-down.svg"
+        },
+        "animated": {
+          "light": "animated/light/chevron-down.svg",
+          "dark": "animated/dark/chevron-down.svg",
+          "mono": "animated/mono/chevron-down.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_chevron_down",
+        "animated": "ecui_chevron_down_animated",
+        "mono": "ecui_chevron_down_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "refresh",
+      "label": "Refresh",
+      "category": "Actions",
+      "motion": "Two arrows trace the refresh cycle once, with their anchors fixed.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/refresh.svg",
+          "dark": "static/dark/refresh.svg",
+          "mono": "static/mono/refresh.svg"
+        },
+        "animated": {
+          "light": "animated/light/refresh.svg",
+          "dark": "animated/dark/refresh.svg",
+          "mono": "animated/mono/refresh.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_refresh",
+        "animated": "ecui_refresh_animated",
+        "mono": "ecui_refresh_mono"
+      },
+      "aliases": [
+        "sync"
+      ]
+    },
+    {
+      "id": "download",
+      "label": "Download",
+      "category": "Actions",
+      "motion": "The arrow moves into the tray.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/download.svg",
+          "dark": "static/dark/download.svg",
+          "mono": "static/mono/download.svg"
+        },
+        "animated": {
+          "light": "animated/light/download.svg",
+          "dark": "animated/dark/download.svg",
+          "mono": "animated/mono/download.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_download",
+        "animated": "ecui_download_animated",
+        "mono": "ecui_download_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "export",
+      "label": "Export",
+      "category": "Actions",
+      "motion": "The arrow leaves the tray and returns to its resting position.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/export.svg",
+          "dark": "static/dark/export.svg",
+          "mono": "static/mono/export.svg"
+        },
+        "animated": {
+          "light": "animated/light/export.svg",
+          "dark": "animated/dark/export.svg",
+          "mono": "animated/mono/export.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_export",
+        "animated": "ecui_export_animated",
+        "mono": "ecui_export_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "import",
+      "label": "Import",
+      "category": "Actions",
+      "motion": "An incoming arrow enters the open file boundary.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/import.svg",
+          "dark": "static/dark/import.svg",
+          "mono": "static/mono/import.svg"
+        },
+        "animated": {
+          "light": "animated/light/import.svg",
+          "dark": "animated/dark/import.svg",
+          "mono": "animated/mono/import.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_import",
+        "animated": "ecui_import_animated",
+        "mono": "ecui_import_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "link",
+      "label": "Link",
+      "category": "Actions",
+      "motion": "The connector is traced between two stable link ends.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/link.svg",
+          "dark": "static/dark/link.svg",
+          "mono": "static/mono/link.svg"
+        },
+        "animated": {
+          "light": "animated/light/link.svg",
+          "dark": "animated/dark/link.svg",
+          "mono": "animated/mono/link.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_link",
+        "animated": "ecui_link_animated",
+        "mono": "ecui_link_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "share",
+      "label": "Share",
+      "category": "Actions",
+      "motion": "The two delivery connections are drawn from the source node.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/share.svg",
+          "dark": "static/dark/share.svg",
+          "mono": "static/mono/share.svg"
+        },
+        "animated": {
+          "light": "animated/light/share.svg",
+          "dark": "animated/dark/share.svg",
+          "mono": "animated/mono/share.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_share",
+        "animated": "ecui_share_animated",
+        "mono": "ecui_share_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "note",
+      "label": "Private note",
+      "category": "Court",
+      "motion": "A short note is written above the turned corner.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/note.svg",
+          "dark": "static/dark/note.svg",
+          "mono": "static/mono/note.svg"
+        },
+        "animated": {
+          "light": "animated/light/note.svg",
+          "dark": "animated/dark/note.svg",
+          "mono": "animated/mono/note.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_note",
+        "animated": "ecui_note_animated",
+        "mono": "ecui_note_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "tag",
+      "label": "Label",
+      "category": "Actions",
+      "motion": "The label seats against its small punched anchor.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/tag.svg",
+          "dark": "static/dark/tag.svg",
+          "mono": "static/mono/tag.svg"
+        },
+        "animated": {
+          "light": "animated/light/tag.svg",
+          "dark": "animated/dark/tag.svg",
+          "mono": "animated/mono/tag.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_tag",
+        "animated": "ecui_tag_animated",
+        "mono": "ecui_tag_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "check",
+      "label": "Confirm",
+      "category": "States",
+      "motion": "The check is written from its short lead stroke.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/check.svg",
+          "dark": "static/dark/check.svg",
+          "mono": "static/mono/check.svg"
+        },
+        "animated": {
+          "light": "animated/light/check.svg",
+          "dark": "animated/dark/check.svg",
+          "mono": "animated/mono/check.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_check",
+        "animated": "ecui_check_animated",
+        "mono": "ecui_check_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "warning",
+      "label": "Needs attention",
+      "category": "States",
+      "motion": "The attention mark extends inside a fixed warning outline.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/warning.svg",
+          "dark": "static/dark/warning.svg",
+          "mono": "static/mono/warning.svg"
+        },
+        "animated": {
+          "light": "animated/light/warning.svg",
+          "dark": "animated/dark/warning.svg",
+          "mono": "animated/mono/warning.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_warning",
+        "animated": "ecui_warning_animated",
+        "mono": "ecui_warning_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "info",
+      "label": "Information",
+      "category": "States",
+      "motion": "The information mark is drawn inside its fixed boundary.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/info.svg",
+          "dark": "static/dark/info.svg",
+          "mono": "static/mono/info.svg"
+        },
+        "animated": {
+          "light": "animated/light/info.svg",
+          "dark": "animated/dark/info.svg",
+          "mono": "animated/mono/info.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_info",
+        "animated": "ecui_info_animated",
+        "mono": "ecui_info_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "help",
+      "label": "Help",
+      "category": "States",
+      "motion": "The information mark is drawn inside its fixed boundary.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/help.svg",
+          "dark": "static/dark/help.svg",
+          "mono": "static/mono/help.svg"
+        },
+        "animated": {
+          "light": "animated/light/help.svg",
+          "dark": "animated/dark/help.svg",
+          "mono": "animated/mono/help.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_help",
+        "animated": "ecui_help_animated",
+        "mono": "ecui_help_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "display",
+      "label": "System theme",
+      "category": "Settings",
+      "motion": "The display division is revealed inside the monitor.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/display.svg",
+          "dark": "static/dark/display.svg",
+          "mono": "static/mono/display.svg"
+        },
+        "animated": {
+          "light": "animated/light/display.svg",
+          "dark": "animated/dark/display.svg",
+          "mono": "animated/mono/display.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_display",
+        "animated": "ecui_display_animated",
+        "mono": "ecui_display_mono"
+      },
+      "aliases": [
+        "system"
+      ]
+    },
+    {
+      "id": "filter",
+      "label": "Filter",
+      "category": "Actions",
+      "motion": "One filter knob moves along its guide.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/filter.svg",
+          "dark": "static/dark/filter.svg",
+          "mono": "static/mono/filter.svg"
+        },
+        "animated": {
+          "light": "animated/light/filter.svg",
+          "dark": "animated/dark/filter.svg",
+          "mono": "animated/mono/filter.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_filter",
+        "animated": "ecui_filter_animated",
+        "mono": "ecui_filter_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "sort",
+      "label": "Sort",
+      "category": "Actions",
+      "motion": "The ordered rows resolve from longest to shortest.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/sort.svg",
+          "dark": "static/dark/sort.svg",
+          "mono": "static/mono/sort.svg"
+        },
+        "animated": {
+          "light": "animated/light/sort.svg",
+          "dark": "animated/dark/sort.svg",
+          "mono": "animated/mono/sort.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_sort",
+        "animated": "ecui_sort_animated",
+        "mono": "ecui_sort_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "stop",
+      "label": "Stop",
+      "category": "Actions",
+      "motion": "The stop face seats within its open boundary.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/stop.svg",
+          "dark": "static/dark/stop.svg",
+          "mono": "static/mono/stop.svg"
+        },
+        "animated": {
+          "light": "animated/light/stop.svg",
+          "dark": "animated/dark/stop.svg",
+          "mono": "animated/mono/stop.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_stop",
+        "animated": "ecui_stop_animated",
+        "mono": "ecui_stop_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "trash",
+      "label": "Remove",
+      "category": "Actions",
+      "motion": "The bin lid lifts from a stable hinge then closes.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/trash.svg",
+          "dark": "static/dark/trash.svg",
+          "mono": "static/mono/trash.svg"
+        },
+        "animated": {
+          "light": "animated/light/trash.svg",
+          "dark": "animated/dark/trash.svg",
+          "mono": "animated/mono/trash.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_trash",
+        "animated": "ecui_trash_animated",
+        "mono": "ecui_trash_mono"
+      },
+      "aliases": [
+        "delete"
+      ]
+    },
+    {
+      "id": "edit",
+      "label": "Edit",
+      "category": "Actions",
+      "motion": "The pencil writes a short diagonal stroke.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/edit.svg",
+          "dark": "static/dark/edit.svg",
+          "mono": "static/mono/edit.svg"
+        },
+        "animated": {
+          "light": "animated/light/edit.svg",
+          "dark": "animated/dark/edit.svg",
+          "mono": "animated/mono/edit.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_edit",
+        "animated": "ecui_edit_animated",
+        "mono": "ecui_edit_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "copy",
+      "label": "Copy",
+      "category": "Actions",
+      "motion": "The front sheet separates briefly from its source.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/copy.svg",
+          "dark": "static/dark/copy.svg",
+          "mono": "static/mono/copy.svg"
+        },
+        "animated": {
+          "light": "animated/light/copy.svg",
+          "dark": "animated/dark/copy.svg",
+          "mono": "animated/mono/copy.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_copy",
+        "animated": "ecui_copy_animated",
+        "mono": "ecui_copy_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "wifi",
+      "label": "Network",
+      "category": "Settings",
+      "motion": "The network arcs are revealed outward from the fixed origin.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/wifi.svg",
+          "dark": "static/dark/wifi.svg",
+          "mono": "static/mono/wifi.svg"
+        },
+        "animated": {
+          "light": "animated/light/wifi.svg",
+          "dark": "animated/dark/wifi.svg",
+          "mono": "animated/mono/wifi.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_wifi",
+        "animated": "ecui_wifi_animated",
+        "mono": "ecui_wifi_mono"
+      },
+      "aliases": [
+        "network"
+      ]
+    },
+    {
+      "id": "history",
+      "label": "History",
+      "category": "Court",
+      "motion": "The time hand returns along a brief past interval.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/history.svg",
+          "dark": "static/dark/history.svg",
+          "mono": "static/mono/history.svg"
+        },
+        "animated": {
+          "light": "animated/light/history.svg",
+          "dark": "animated/dark/history.svg",
+          "mono": "animated/mono/history.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_history",
+        "animated": "ecui_history_animated",
+        "mono": "ecui_history_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "print",
+      "label": "Print",
+      "category": "Actions",
+      "motion": "The printed page advances from the fixed printer.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/print.svg",
+          "dark": "static/dark/print.svg",
+          "mono": "static/mono/print.svg"
+        },
+        "animated": {
+          "light": "animated/light/print.svg",
+          "dark": "animated/dark/print.svg",
+          "mono": "animated/mono/print.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_print",
+        "animated": "ecui_print_animated",
+        "mono": "ecui_print_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "loading",
+      "label": "Working",
+      "category": "States",
+      "motion": "Three short bars advance in sequence; use only while work is active.",
+      "duration": 1200,
+      "loop": true,
+      "paths": {
+        "static": {
+          "light": "static/light/loading.svg",
+          "dark": "static/dark/loading.svg",
+          "mono": "static/mono/loading.svg"
+        },
+        "animated": {
+          "light": "animated/light/loading.svg",
+          "dark": "animated/dark/loading.svg",
+          "mono": "animated/mono/loading.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_loading",
+        "animated": "ecui_loading_animated",
+        "mono": "ecui_loading_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "progress",
+      "label": "Progress",
+      "category": "States",
+      "motion": "The advancing fill travels along a fixed progress track.",
+      "duration": 1200,
+      "loop": true,
+      "paths": {
+        "static": {
+          "light": "static/light/progress.svg",
+          "dark": "static/dark/progress.svg",
+          "mono": "static/mono/progress.svg"
+        },
+        "animated": {
+          "light": "animated/light/progress.svg",
+          "dark": "animated/dark/progress.svg",
+          "mono": "animated/mono/progress.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_progress",
+        "animated": "ecui_progress_animated",
+        "mono": "ecui_progress_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "checkbox-off",
+      "label": "Unselected",
+      "category": "Controls",
+      "motion": "The selection boundary is drawn once.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/checkbox-off.svg",
+          "dark": "static/dark/checkbox-off.svg",
+          "mono": "static/mono/checkbox-off.svg"
+        },
+        "animated": {
+          "light": "animated/light/checkbox-off.svg",
+          "dark": "animated/dark/checkbox-off.svg",
+          "mono": "animated/mono/checkbox-off.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_checkbox_off",
+        "animated": "ecui_checkbox_off_animated",
+        "mono": "ecui_checkbox_off_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "radio-off",
+      "label": "Available option",
+      "category": "Controls",
+      "motion": "The option boundary resolves.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/radio-off.svg",
+          "dark": "static/dark/radio-off.svg",
+          "mono": "static/mono/radio-off.svg"
+        },
+        "animated": {
+          "light": "animated/light/radio-off.svg",
+          "dark": "animated/dark/radio-off.svg",
+          "mono": "animated/mono/radio-off.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_radio_off",
+        "animated": "ecui_radio_off_animated",
+        "mono": "ecui_radio_off_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "switch-off",
+      "label": "Switch off",
+      "category": "Controls",
+      "motion": "The thumb travels to its resting state without moving the track.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/switch-off.svg",
+          "dark": "static/dark/switch-off.svg",
+          "mono": "static/mono/switch-off.svg"
+        },
+        "animated": {
+          "light": "animated/light/switch-off.svg",
+          "dark": "animated/dark/switch-off.svg",
+          "mono": "animated/mono/switch-off.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_switch_off",
+        "animated": "ecui_switch_off_animated",
+        "mono": "ecui_switch_off_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "checkbox-on",
+      "label": "Selected",
+      "category": "Controls",
+      "motion": "The check is drawn.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/checkbox-on.svg",
+          "dark": "static/dark/checkbox-on.svg",
+          "mono": "static/mono/checkbox-on.svg"
+        },
+        "animated": {
+          "light": "animated/light/checkbox-on.svg",
+          "dark": "animated/dark/checkbox-on.svg",
+          "mono": "animated/mono/checkbox-on.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_checkbox_on",
+        "animated": "ecui_checkbox_on_animated",
+        "mono": "ecui_checkbox_on_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "radio-on",
+      "label": "Chosen option",
+      "category": "Controls",
+      "motion": "The centre mark seats.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/radio-on.svg",
+          "dark": "static/dark/radio-on.svg",
+          "mono": "static/mono/radio-on.svg"
+        },
+        "animated": {
+          "light": "animated/light/radio-on.svg",
+          "dark": "animated/dark/radio-on.svg",
+          "mono": "animated/mono/radio-on.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_radio_on",
+        "animated": "ecui_radio_on_animated",
+        "mono": "ecui_radio_on_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "switch-on",
+      "label": "Switch on",
+      "category": "Controls",
+      "motion": "The thumb travels to its resting state without moving the track.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/switch-on.svg",
+          "dark": "static/dark/switch-on.svg",
+          "mono": "static/mono/switch-on.svg"
+        },
+        "animated": {
+          "light": "animated/light/switch-on.svg",
+          "dark": "animated/dark/switch-on.svg",
+          "mono": "animated/mono/switch-on.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_switch_on",
+        "animated": "ecui_switch_on_animated",
+        "mono": "ecui_switch_on_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "transfer",
+      "label": "Court transfer",
+      "category": "Court",
+      "motion": "The second transfer arrow follows the first.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/transfer.svg",
+          "dark": "static/dark/transfer.svg",
+          "mono": "static/mono/transfer.svg"
+        },
+        "animated": {
+          "light": "animated/light/transfer.svg",
+          "dark": "animated/dark/transfer.svg",
+          "mono": "animated/mono/transfer.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_transfer",
+        "animated": "ecui_transfer_animated",
+        "mono": "ecui_transfer_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "status-pending",
+      "label": "Pending",
+      "category": "States",
+      "motion": "The clock hand marks an active case.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/status-pending.svg",
+          "dark": "static/dark/status-pending.svg",
+          "mono": "static/mono/status-pending.svg"
+        },
+        "animated": {
+          "light": "animated/light/status-pending.svg",
+          "dark": "animated/dark/status-pending.svg",
+          "mono": "animated/mono/status-pending.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_status_pending",
+        "animated": "ecui_status_pending_animated",
+        "mono": "ecui_status_pending_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "status-disposed",
+      "label": "Disposed",
+      "category": "States",
+      "motion": "The completion mark is applied within the case boundary.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/status-disposed.svg",
+          "dark": "static/dark/status-disposed.svg",
+          "mono": "static/mono/status-disposed.svg"
+        },
+        "animated": {
+          "light": "animated/light/status-disposed.svg",
+          "dark": "animated/dark/status-disposed.svg",
+          "mono": "animated/mono/status-disposed.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_status_disposed",
+        "animated": "ecui_status_disposed_animated",
+        "mono": "ecui_status_disposed_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "status-undated",
+      "label": "Date not fixed",
+      "category": "States",
+      "motion": "The open date interval is written beneath the binding.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/status-undated.svg",
+          "dark": "static/dark/status-undated.svg",
+          "mono": "static/mono/status-undated.svg"
+        },
+        "animated": {
+          "light": "animated/light/status-undated.svg",
+          "dark": "animated/dark/status-undated.svg",
+          "mono": "animated/mono/status-undated.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_status_undated",
+        "animated": "ecui_status_undated_animated",
+        "mono": "ecui_status_undated_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "status-error",
+      "label": "Fetch error",
+      "category": "States",
+      "motion": "The error mark resolves inside the response boundary.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/status-error.svg",
+          "dark": "static/dark/status-error.svg",
+          "mono": "static/mono/status-error.svg"
+        },
+        "animated": {
+          "light": "animated/light/status-error.svg",
+          "dark": "animated/dark/status-error.svg",
+          "mono": "animated/mono/status-error.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_status_error",
+        "animated": "ecui_status_error_animated",
+        "mono": "ecui_status_error_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "court-order",
+      "label": "Court order",
+      "category": "Court",
+      "motion": "The order receives its seal after the text is written.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/court-order.svg",
+          "dark": "static/dark/court-order.svg",
+          "mono": "static/mono/court-order.svg"
+        },
+        "animated": {
+          "light": "animated/light/court-order.svg",
+          "dark": "animated/dark/court-order.svg",
+          "mono": "animated/mono/court-order.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_court_order",
+        "animated": "ecui_court_order_animated",
+        "mono": "ecui_court_order_mono"
+      },
+      "aliases": [
+        "orders"
+      ]
+    },
+    {
+      "id": "fir-document",
+      "label": "FIR document",
+      "category": "Court",
+      "motion": "The FIR shield is resolved over its record sheet.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/fir-document.svg",
+          "dark": "static/dark/fir-document.svg",
+          "mono": "static/mono/fir-document.svg"
+        },
+        "animated": {
+          "light": "animated/light/fir-document.svg",
+          "dark": "animated/dark/fir-document.svg",
+          "mono": "animated/mono/fir-document.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_fir_document",
+        "animated": "ecui_fir_document_animated",
+        "mono": "ecui_fir_document_mono"
+      },
+      "aliases": [
+        "fir-pdf"
+      ]
+    },
+    {
+      "id": "empty-cases",
+      "label": "No saved cases",
+      "category": "Empty states",
+      "motion": "The empty filing line is drawn in the open case.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/empty-cases.svg",
+          "dark": "static/dark/empty-cases.svg",
+          "mono": "static/mono/empty-cases.svg"
+        },
+        "animated": {
+          "light": "animated/light/empty-cases.svg",
+          "dark": "animated/dark/empty-cases.svg",
+          "mono": "animated/mono/empty-cases.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_empty_cases",
+        "animated": "ecui_empty_cases_animated",
+        "mono": "ecui_empty_cases_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "empty-search",
+      "label": "No search results",
+      "category": "Empty states",
+      "motion": "The empty result bar appears inside the fixed lens.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/empty-search.svg",
+          "dark": "static/dark/empty-search.svg",
+          "mono": "static/mono/empty-search.svg"
+        },
+        "animated": {
+          "light": "animated/light/empty-search.svg",
+          "dark": "animated/dark/empty-search.svg",
+          "mono": "animated/mono/empty-search.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_empty_search",
+        "animated": "ecui_empty_search_animated",
+        "mono": "ecui_empty_search_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "empty-calendar",
+      "label": "No diary events",
+      "category": "Empty states",
+      "motion": "The empty day marker is written on the calendar.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/empty-calendar.svg",
+          "dark": "static/dark/empty-calendar.svg",
+          "mono": "static/mono/empty-calendar.svg"
+        },
+        "animated": {
+          "light": "animated/light/empty-calendar.svg",
+          "dark": "animated/dark/empty-calendar.svg",
+          "mono": "animated/mono/empty-calendar.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_empty_calendar",
+        "animated": "ecui_empty_calendar_animated",
+        "mono": "ecui_empty_calendar_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "empty-orders",
+      "label": "No court orders",
+      "category": "Empty states",
+      "motion": "The blank order line resolves beneath the page fold.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/empty-orders.svg",
+          "dark": "static/dark/empty-orders.svg",
+          "mono": "static/mono/empty-orders.svg"
+        },
+        "animated": {
+          "light": "animated/light/empty-orders.svg",
+          "dark": "animated/dark/empty-orders.svg",
+          "mono": "animated/mono/empty-orders.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_empty_orders",
+        "animated": "ecui_empty_orders_animated",
+        "mono": "ecui_empty_orders_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "empty-history",
+      "label": "No hearing history",
+      "category": "Empty states",
+      "motion": "The empty timeline segment is drawn between the endpoints.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/empty-history.svg",
+          "dark": "static/dark/empty-history.svg",
+          "mono": "static/mono/empty-history.svg"
+        },
+        "animated": {
+          "light": "animated/light/empty-history.svg",
+          "dark": "animated/dark/empty-history.svg",
+          "mono": "animated/mono/empty-history.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_empty_history",
+        "animated": "ecui_empty_history_animated",
+        "mono": "ecui_empty_history_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "empty-notes",
+      "label": "Save before adding notes",
+      "category": "Empty states",
+      "motion": "The addition mark appears on the unsaved note.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/empty-notes.svg",
+          "dark": "static/dark/empty-notes.svg",
+          "mono": "static/mono/empty-notes.svg"
+        },
+        "animated": {
+          "light": "animated/light/empty-notes.svg",
+          "dark": "animated/dark/empty-notes.svg",
+          "mono": "animated/mono/empty-notes.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_empty_notes",
+        "animated": "ecui_empty_notes_animated",
+        "mono": "ecui_empty_notes_mono"
+      },
+      "aliases": []
+    },
+    {
+      "id": "notification-fetch",
+      "label": "Fetching notification",
+      "category": "States",
+      "motion": "The incoming record line seats inside the notification tray.",
+      "duration": 800,
+      "loop": false,
+      "paths": {
+        "static": {
+          "light": "static/light/notification-fetch.svg",
+          "dark": "static/dark/notification-fetch.svg",
+          "mono": "static/mono/notification-fetch.svg"
+        },
+        "animated": {
+          "light": "animated/light/notification-fetch.svg",
+          "dark": "animated/dark/notification-fetch.svg",
+          "mono": "animated/mono/notification-fetch.svg"
+        }
+      },
+      "android": {
+        "static": "ecui_notification_fetch",
+        "animated": "ecui_notification_fetch_animated",
+        "mono": "ecui_notification_fetch_mono"
+      },
+      "aliases": []
+    }
+  ],
+  "aliases": {
+    "case": "briefcase",
+    "calendar-days": "calendar",
+    "scale": "scales",
+    "landmark": "courthouse",
+    "court": "courthouse",
+    "book-open": "book",
+    "scroll-text": "scroll",
+    "clipboard-list": "clipboard",
+    "file-text": "document",
+    "file": "document",
+    "folder-open": "folder",
+    "library-big": "library",
+    "building-2": "building",
+    "graduation-cap": "graduation",
+    "user-round": "person",
+    "profile": "person",
+    "users-round": "people",
+    "contact-round": "contact",
+    "person-standing": "standing",
+    "heart-handshake": "care",
+    "venetian-mask": "theatre",
+    "shield-check": "shield",
+    "tree-pine": "pine",
+    "tree-deciduous": "tree",
+    "flower-2": "flower",
+    "bug": "ladybird",
+    "paw-print": "paw",
+    "rat": "mouse",
+    "alarm-clock": "alarm",
+    "chart-no-axes-combined": "chart",
+    "chart-pie": "pie-chart",
+    "list-checks": "checklist",
+    "message-square": "message",
+    "key-round": "key",
+    "lock-keyhole": "lock",
+    "map-pin": "pin",
+    "car-front": "car",
+    "train-front": "train",
+    "bus-front": "bus",
+    "tent-tree": "tent",
+    "gamepad-2": "gamepad",
+    "mic": "microphone",
+    "utensils-crossed": "utensils",
+    "hash": "case-number",
+    "scan": "cnr",
+    "shield-search": "fir-search",
+    "plus": "add",
+    "back": "arrow-left",
+    "chevron": "chevron-right",
+    "sync": "refresh",
+    "system": "display",
+    "delete": "trash",
+    "network": "wifi",
+    "cause-list": "clipboard",
+    "parties": "people",
+    "orders": "court-order",
+    "fir-pdf": "fir-document"
+  }
+}

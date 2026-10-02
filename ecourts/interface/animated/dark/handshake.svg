@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Agreement" class="ecui-handshake-dark-motion">
+<title>Agreement</title>
+<desc>The meeting hands join with a small inward movement.</desc>
+<defs><linearGradient id="ecui-handshake-dark-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-handshake-dark-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-handshake-dark-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-handshake-dark-motion-p1{0%{transform:translateX(-1.4px)}26%{transform:translateX(-0.8px)}58%{transform:translateX(0.08px)}82%{transform:translateX(0px)}100%{transform:translateX(0px)}}.ecui-handshake-dark-motion .p2{transform-box:view-box;transform-origin:12px 12px;animation:ecui-handshake-dark-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-handshake-dark-motion-p2{0%{transform:translateX(1.4px)}26%{transform:translateX(0.8px)}58%{transform:translateX(-0.08px)}82%{transform:translateX(0px)}100%{transform:translateX(0px)}}}</style>
+<path class="p0" d="M3 7L6 5L10 8M21 7L18 5L13 7L9 11Q10 13 12 11L13 10L18 15L15 18L11 20L5 14L3 15" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
+<path class="p1" d="M3 8L5.5 7L8.5 13L6 15Z" fill="url(#ecui-handshake-dark-motion-accent)"/>
+<path class="p2" d="M18.5 7L21 8L18 15L15.5 13Z" fill="url(#ecui-handshake-dark-motion-accent)"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Glasses" class="ecui-glasses-light">
+<title>Glasses</title>
+<desc>Glasses. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-glasses-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<path class="p0" d="M3.5 13L5 6H8M20.5 13L19 6H16M10 14Q12 12 14 14" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p1" d="M6 12H7.5Q10 12 10 14.5V15.5Q10 18 7.5 18H6Q3.5 18 3.5 15.5V14.5Q3.5 12 6 12Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p2" d="M16.5 12H18Q20.5 12 20.5 14.5V15.5Q20.5 18 18 18H16.5Q14 18 14 15.5V14.5Q14 12 16.5 12Z" fill="none" stroke="url(#ecui-glasses-light-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

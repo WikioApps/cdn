@@ -1,0 +1,52 @@
+{
+  "checkedAt": "2026-10-02T10:34:35.364574+00:00",
+  "catalogIcons": 197,
+  "svgFiles": 1182,
+  "androidDrawables": 591,
+  "androidSupportingXmlFiles": 3,
+  "mappedSourceRecords": 715,
+  "auditedSourceFiles": 144,
+  "profileChoicesPerBranch": 140,
+  "missingMappings": 0,
+  "protectedBaseline": "34626d9bdecf5471bdb7a72d9ab48aa71800837d",
+  "protectedFilesUnchanged": 41,
+  "checks": {
+    "allSvgAndAndroidXmlParsed": true,
+    "externalSvgResourcesOrScripts": 0,
+    "nontrivialLegacyPathsReused": 0,
+    "svgFramesSampledMs": [
+      0,
+      208,
+      464,
+      656,
+      800,
+      1200
+    ],
+    "outOfViewBoxParts": 0,
+    "browser": "Headless Chromium 153",
+    "browserErrors": [],
+    "reducedMotionAnimations": 0,
+    "desktopWidthPx": 1320,
+    "mobileWidthPx": 390,
+    "mobileHorizontalOverflow": false,
+    "galleryFeatures": [
+      "all 197 entries",
+      "legacy alias search",
+      "category and text filters",
+      "icon detail dialog",
+      "source mapping navigation",
+      "glass branch filter",
+      "mono mode",
+      "16px mode",
+      "system reduced motion"
+    ],
+    "androidResourceCompiler": "AAPT2 9.4.1-15978811",
+    "androidCompilation": "passed",
+    "selfContainedPreview": true
+  },
+  "limits": [
+    "Android resources were compiled, but no APK, emulator or device playback was tested.",
+    "Browser checks used Chromium; other browser engines were not tested.",
+    "CDN availability is reported separately in url-status.json."
+  ]
+}

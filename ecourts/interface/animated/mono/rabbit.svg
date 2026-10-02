@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Rabbit" class="ecui-rabbit-mono-motion">
+<title>Rabbit</title>
+<desc>One long ear inclines at its base.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-rabbit-mono-motion .p1{transform-box:view-box;transform-origin:14px 10px;animation:ecui-rabbit-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-rabbit-mono-motion-p1{0%{transform:rotate(-7deg)}26%{transform:rotate(-3deg)}58%{transform:rotate(1.5deg)}82%{transform:rotate(0deg)}100%{transform:rotate(0deg)}}}</style>
+<path class="p0" d="M8 11Q4 3 7 3Q10 3 11 10M10 10Q19 7 20 14Q22 16 19 17Q18 21 12 21Q5 21 5 16Q5 12 8 11Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M13 10Q12 2 15 2Q18 2 16 10Z" fill="currentColor"/>
+<path class="p2" d="M16.5 13.5H16.6M9 18H13" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

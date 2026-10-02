@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:width="24dp" android:height="24dp" android:viewportWidth="24" android:viewportHeight="24">
+<group android:name="g0" android:pivotX="12" android:pivotY="12">
+<path android:name="p0" android:pathData="M4 14V11Q4 3 12 3Q20 3 20 11V14" android:fillColor="@android:color/transparent" android:strokeColor="@color/ecui_ink" android:strokeWidth="1.65" android:strokeLineCap="round" android:strokeLineJoin="round"/>
+</group>
+<group android:name="g1" android:pivotX="12" android:pivotY="12">
+<path android:name="p1" android:pathData="M5 12H6Q7.5 12 7.5 13.5V18.5Q7.5 20 6 20H5Q3.5 20 3.5 18.5V13.5Q3.5 12 5 12Z" android:fillColor="@android:color/transparent" android:strokeColor="@color/ecui_ink" android:strokeWidth="1.65" android:strokeLineCap="round" android:strokeLineJoin="round"/>
+</group>
+<group android:name="g2" android:pivotX="12" android:pivotY="12">
+<path android:name="p2" android:pathData="M18 12H19Q20.5 12 20.5 13.5V18.5Q20.5 20 19 20H18Q16.5 20 16.5 18.5V13.5Q16.5 12 18 12Z" ><aapt:attr name="android:fillColor"><gradient android:startX="4" android:startY="3" android:endX="20" android:endY="22" android:type="linear"><item android:offset="0" android:color="@color/ecui_accent"/><item android:offset="1" android:color="@color/ecui_accent_end"/></gradient></aapt:attr></path>
+</group>
+</vector>

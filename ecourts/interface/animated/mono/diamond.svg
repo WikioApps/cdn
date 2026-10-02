@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Diamond" class="ecui-diamond-mono-motion">
+<title>Diamond</title>
+<desc>The perimeter is drawn once around the identity shape.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-diamond-mono-motion .p1{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-diamond-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-diamond-mono-motion-p1{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
+<path class="p0" d="M12.000 3.700L20.300 12.000L12.000 20.300L3.700 12.000Z" fill="currentColor" opacity="0.12"/>
+<path class="p1" d="M12.000 3.700L20.300 12.000L12.000 20.300L3.700 12.000Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1"/>
+<path class="p2" d="M10.4 12a1.6 1.6 0 1 0 3.2 0a1.6 1.6 0 1 0 -3.2 0Z" fill="currentColor"/>
+</svg>

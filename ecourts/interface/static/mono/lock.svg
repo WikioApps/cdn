@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Private" class="ecui-lock-mono">
+<title>Private</title>
+<desc>Private. Original eCourts interface icon.</desc>
+<path class="p0" d="M7.5 10H16.5Q19 10 19 12.5V18.5Q19 21 16.5 21H7.5Q5 21 5 18.5V12.5Q5 10 7.5 10Z" fill="currentColor" opacity="0.12"/>
+<path class="p1" d="M7.5 10H16.5Q19 10 19 12.5V18.5Q19 21 16.5 21H7.5Q5 21 5 18.5V12.5Q5 10 7.5 10Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p2" d="M8 10V7Q8 3 12 3Q16 3 16 7V10" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p3" d="M12 14V17" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

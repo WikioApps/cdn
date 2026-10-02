@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Flame" class="ecui-flame-light">
+<title>Flame</title>
+<desc>Flame. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-flame-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<path class="p0" d="M11 3Q10 9 6 12Q2 17 7 20Q12 23 17 19Q22 14 16 8Q16 12 13 12Q15 7 11 3Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p1" d="M11 13Q6 19 12 20Q17 19 13 15L12 17Z" fill="url(#ecui-flame-light-accent)"/>
+</svg>

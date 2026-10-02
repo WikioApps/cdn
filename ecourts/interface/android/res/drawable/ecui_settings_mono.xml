@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:width="24dp" android:height="24dp" android:viewportWidth="24" android:viewportHeight="24">
+<group android:name="g0" android:pivotX="12" android:pivotY="12">
+<path android:name="p0" android:pathData="M4 6H20M4 12H20M4 18H20" android:fillColor="@android:color/transparent" android:strokeColor="@color/ecui_mono" android:strokeWidth="1.65" android:strokeLineCap="round" android:strokeLineJoin="round"/>
+</group>
+<group android:name="g1" android:pivotX="12" android:pivotY="12">
+<path android:name="p1" android:pathData="M8 4H9Q10 4 10 5V7Q10 8 9 8H8Q7 8 7 7V5Q7 4 8 4Z" android:fillColor="@color/ecui_mono"/>
+</group>
+<group android:name="g2" android:pivotX="12" android:pivotY="12">
+<path android:name="p2" android:pathData="M15 10H16Q17 10 17 11V13Q17 14 16 14H15Q14 14 14 13V11Q14 10 15 10Z" android:fillColor="@color/ecui_mono"/>
+</group>
+<group android:name="g3" android:pivotX="12" android:pivotY="12">
+<path android:name="p3" android:pathData="M10 16H11Q12 16 12 17V19Q12 20 11 20H10Q9 20 9 19V17Q9 16 10 16Z" android:fillColor="@color/ecui_mono"/>
+</group>
+</vector>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Rainbow" class="ecui-rainbow-mono">
+<title>Rainbow</title>
+<desc>Rainbow. Original eCourts interface icon.</desc>
+<path class="p0" d="M3.5 19V13A8.5 8.5 0 0 1 20.5 13V19M7 19V13A5 5 0 0 1 17 13V19" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M10.5 19V13A1.5 1.5 0 0 1 13.5 13V19" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

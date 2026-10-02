@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Edit" class="ecui-edit-light-motion">
+<title>Edit</title>
+<desc>The pencil writes a short diagonal stroke.</desc>
+<defs><linearGradient id="ecui-edit-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-edit-light-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-edit-light-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-edit-light-motion-p1{0%{transform:translateX(-1.3px)}26%{transform:translateX(-0.8px)}58%{transform:translateX(0.7px)}82%{transform:translateX(0.15px)}100%{transform:translateX(0px)}}}</style>
+<path class="p0" d="M4 20.5H20" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p1" d="M5 16L6 11.5L16 2.5L20.5 7L10.5 16Z" fill="url(#ecui-edit-light-motion-accent)"/>
+<path class="p2" d="M14 4.5L18.5 9" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Export" class="ecui-export-dark">
+<title>Export</title>
+<desc>Export. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-export-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
+<path class="p0" d="M4 14V19Q4 20 5 20H19Q20 20 20 19V14" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
+<path class="p1" d="M12 15V3M7.5 7.5L12 3L16.5 7.5" fill="none" stroke="url(#ecui-export-dark-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

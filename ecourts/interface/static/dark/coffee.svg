@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Coffee" class="ecui-coffee-dark">
+<title>Coffee</title>
+<desc>Coffee. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-coffee-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
+<path class="p0" d="M4 9H16V15Q16 19 10 19Q4 19 4 15ZM16 10H19Q23 13 19 16H16M3 21H18" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
+<path class="p1" d="M8 6Q6 4 8 2M12 6Q10 4 12 2" fill="none" stroke="url(#ecui-coffee-dark-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

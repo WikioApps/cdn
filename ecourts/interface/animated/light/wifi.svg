@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Network" class="ecui-wifi-light-motion">
+<title>Network</title>
+<desc>The network arcs are revealed outward from the fixed origin.</desc>
+<defs><linearGradient id="ecui-wifi-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-wifi-light-motion .p1{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-wifi-light-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-wifi-light-motion-p1{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
+<path class="p0" d="M10.5 19a1.5 1.5 0 1 0 3 0a1.5 1.5 0 1 0 -3 0Z" fill="url(#ecui-wifi-light-motion-accent)"/>
+<path class="p1" d="M8 15Q12 11.5 16 15M5 11Q12 5 19 11M2 7Q12-1 22 7" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1" style="stroke:var(--ec-icon-ink,#482F36)"/>
+</svg>

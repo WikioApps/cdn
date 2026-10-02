@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Worm" class="ecui-worm-dark">
+<title>Worm</title>
+<desc>Worm. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-worm-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
+<path class="p0" d="M4 6Q7 2 10 6Q12 9 10 12Q8 16 12 18Q16 20 19 16" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
+<path class="p1" d="M16 16a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0 -5 0Z" fill="url(#ecui-worm-dark-accent)"/>
+<path class="p2" d="M6 8L8 9M6 13L9 14M10 20L11 18" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
+</svg>

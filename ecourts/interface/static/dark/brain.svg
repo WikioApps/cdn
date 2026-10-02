@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Thinking" class="ecui-brain-dark">
+<title>Thinking</title>
+<desc>Thinking. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-brain-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
+<path class="p0" d="M11.5 5Q7 1.5 5.5 6Q2.5 7 4 11Q1.5 15 5 17Q5 22 11.5 19V5ZM12.5 5Q17 1.5 18.5 6Q21.5 7 20 11Q22.5 15 19 17Q19 22 12.5 19V5Z" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
+<path class="p1" d="M6.5 9L9 11V15M17.5 9L15 11V15" fill="none" stroke="url(#ecui-brain-dark-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

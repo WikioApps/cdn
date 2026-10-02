@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Lightbulb" class="ecui-lightbulb-dark">
+<title>Lightbulb</title>
+<desc>Lightbulb. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-lightbulb-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
+<path class="p0" d="M8 16Q3.5 12 5.5 7Q8 1 14 3Q22 5 19 12L16 16V18H8ZM9 21H15" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
+<path class="p1" d="M12 17V11L9 8M12 11L15 8" fill="none" stroke="url(#ecui-lightbulb-dark-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

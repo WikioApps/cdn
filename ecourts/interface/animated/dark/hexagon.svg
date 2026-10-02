@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Hexagon" class="ecui-hexagon-dark-motion">
+<title>Hexagon</title>
+<desc>The perimeter is drawn once around the identity shape.</desc>
+<defs><linearGradient id="ecui-hexagon-dark-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-hexagon-dark-motion .p1{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-hexagon-dark-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-hexagon-dark-motion-p1{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
+<path class="p0" d="M19.188 7.850L19.188 16.150L12.000 20.300L4.812 16.150L4.812 7.850L12.000 3.700Z" fill="#FFAC8A" opacity="0.12" style="fill:var(--ec-icon-soft,#FFAC8A)"/>
+<path class="p1" d="M19.188 7.850L19.188 16.150L12.000 20.300L4.812 16.150L4.812 7.850L12.000 3.700Z" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
+<path class="p2" d="M10.4 12a1.6 1.6 0 1 0 3.2 0a1.6 1.6 0 1 0 -3.2 0Z" fill="url(#ecui-hexagon-dark-motion-accent)"/>
+</svg>

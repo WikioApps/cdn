@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Fetching notification" class="ecui-notification-fetch-mono-motion">
+<title>Fetching notification</title>
+<desc>The incoming record line seats inside the notification tray.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-notification-fetch-mono-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-notification-fetch-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-notification-fetch-mono-motion-p1{0%{transform:translateY(-2px)}26%{transform:translateY(-1px)}58%{transform:translateY(0.2px)}82%{transform:translateY(0px)}100%{transform:translateY(0px)}}}</style>
+<path class="p0" d="M5 16V21H19V16" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M12 3V15M7 10L12 15L17 10" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

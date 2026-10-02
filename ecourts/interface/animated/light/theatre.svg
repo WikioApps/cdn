@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Theatre" class="ecui-theatre-light-motion">
+<title>Theatre</title>
+<desc>The theatrical mask inclines from its top edge.</desc>
+<defs><linearGradient id="ecui-theatre-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-theatre-light-motion .p0{transform-box:view-box;transform-origin:12px 6px;animation:ecui-theatre-light-motion-p0 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-theatre-light-motion-p0{0%{transform:rotate(-5deg)}26%{transform:rotate(-3deg)}58%{transform:rotate(0.8deg)}82%{transform:rotate(0deg)}100%{transform:rotate(0deg)}}}</style>
+<path class="p0" d="M3.5 6Q12 10 20.5 6V12Q20.5 18 12 21Q3.5 18 3.5 12Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p1" d="M7 11L9 12M15 12L17 11M8.5 15Q12 18 15.5 15" fill="none" stroke="url(#ecui-theatre-light-motion-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Trophy" class="ecui-trophy-mono-motion">
+<title>Trophy</title>
+<desc>The cup seats above the fixed stem.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-trophy-mono-motion .p1{transform-box:view-box;transform-origin:12px 12px;animation:ecui-trophy-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-trophy-mono-motion-p1{0%{transform:translateY(-2.1px)}26%{transform:translateY(-0.7px)}58%{transform:translateY(0.18px)}82%{transform:translateY(0px)}100%{transform:translateY(0px)}}}</style>
+<path class="p0" d="M12 15V20M8 21H16M5.5 5H3.5V8Q3.5 11 7 11M18.5 5H20.5V8Q20.5 11 17 11" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M6 3.5H18V8Q18 15 12 15Q6 15 6 8Z" fill="currentColor"/>
+</svg>

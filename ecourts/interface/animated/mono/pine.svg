@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Pine" class="ecui-pine-mono-motion">
+<title>Pine</title>
+<desc>The upper branch tier grows along the trunk.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-pine-mono-motion .p1{transform-box:view-box;transform-origin:12px 18px;animation:ecui-pine-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-pine-mono-motion-p1{0%{transform:scaleY(0.7)}26%{transform:scaleY(0.85)}58%{transform:scaleY(1.02)}82%{transform:scaleY(1)}100%{transform:scaleY(1)}}}</style>
+<path class="p0" d="M12 16V21M4 18L8 12H5.5L10 6" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M12 3L18.5 12H16L20 18H12Z" fill="currentColor"/>
+</svg>

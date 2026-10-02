@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Hand" class="ecui-hand-dark">
+<title>Hand</title>
+<desc>Hand. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-hand-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
+<path class="p0" d="M8 12V5.5Q8 4 9.5 4Q11 4 11 5.5V10M11 6V3.8Q11 2.5 12.5 2.5Q14 2.5 14 4V10M14 6Q14 4.5 15.5 4.5Q17 4.5 17 6V11M17 8Q20 7 20 10V14Q20 20.5 13 20.5Q9 20.5 7 18L3.5 13.5Q2.5 12 4 11.5Q5 11 8 14" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
+<path class="p1" d="M11 17H16V18.5H11Z" fill="url(#ecui-hand-dark-accent)"/>
+</svg>

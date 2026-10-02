@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Settings" class="ecui-settings-dark">
+<title>Settings</title>
+<desc>Settings. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-settings-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
+<path class="p0" d="M4 6H20M4 12H20M4 18H20" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
+<path class="p1" d="M8 4H9Q10 4 10 5V7Q10 8 9 8H8Q7 8 7 7V5Q7 4 8 4Z" fill="url(#ecui-settings-dark-accent)"/>
+<path class="p2" d="M15 10H16Q17 10 17 11V13Q17 14 16 14H15Q14 14 14 13V11Q14 10 15 10Z" fill="url(#ecui-settings-dark-accent)"/>
+<path class="p3" d="M10 16H11Q12 16 12 17V19Q12 20 11 20H10Q9 20 9 19V17Q9 16 10 16Z" fill="url(#ecui-settings-dark-accent)"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Sort" class="ecui-sort-mono-motion">
+<title>Sort</title>
+<desc>The ordered rows resolve from longest to shortest.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-sort-mono-motion .p0{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-sort-mono-motion-p0 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-sort-mono-motion-p0{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
+<path class="p0" d="M4 6H15M4 12H12M4 18H9" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1"/>
+<path class="p1" d="M19 5V19M16 16L19 19L22 16" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

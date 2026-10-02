@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Mountain" class="ecui-mountain-mono-motion">
+<title>Mountain</title>
+<desc>The peak ridge is traced above the foothills.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-mountain-mono-motion .p2{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-mountain-mono-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-mountain-mono-motion-p2{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
+<path class="p0" d="M3 20L10 5L16 16L19 11L22 20Z" fill="currentColor" opacity="0.12"/>
+<path class="p1" d="M3 20L10 5L16 16L19 11L22 20Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p2" d="M7 11L10 12.5L12.5 10" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1"/>
+</svg>

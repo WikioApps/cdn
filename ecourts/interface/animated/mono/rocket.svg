@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Rocket" class="ecui-rocket-mono-motion">
+<title>Rocket</title>
+<desc>The exhaust extends once beneath the anchored rocket.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-rocket-mono-motion .p1{transform-box:view-box;transform-origin:8px 17px;animation:ecui-rocket-mono-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-rocket-mono-motion-p1{0%{transform:scaleY(0.5)}26%{transform:scaleY(0.75)}58%{transform:scaleY(1.04)}82%{transform:scaleY(1)}100%{transform:scaleY(1)}}}</style>
+<path class="p0" d="M9 15Q7 7 17 3Q22 13 13 17ZM9 12L4 13L3 18L8 17M15 16L14 21L19 20L20 15" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M7 17L4 21L9 19Z" fill="currentColor"/>
+<path class="p2" d="M13.2 8.5a1.8 1.8 0 1 0 3.6 0a1.8 1.8 0 1 0 -3.6 0Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

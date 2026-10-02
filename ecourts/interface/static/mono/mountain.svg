@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Mountain" class="ecui-mountain-mono">
+<title>Mountain</title>
+<desc>Mountain. Original eCourts interface icon.</desc>
+<path class="p0" d="M3 20L10 5L16 16L19 11L22 20Z" fill="currentColor" opacity="0.12"/>
+<path class="p1" d="M3 20L10 5L16 16L19 11L22 20Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p2" d="M7 11L10 12.5L12.5 10" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

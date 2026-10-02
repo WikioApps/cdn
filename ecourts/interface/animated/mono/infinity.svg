@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Infinity" class="ecui-infinity-mono-motion">
+<title>Infinity</title>
+<desc>One continuous stroke resolves the two connected loops.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-infinity-mono-motion .p0{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-infinity-mono-motion-p0 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-infinity-mono-motion-p0{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
+<path class="p0" d="M12 12C8 5 3.5 6 3.5 11C3.5 17 8 18 12 12C16 6 20.5 6 20.5 12C20.5 18 16 18 12 12Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1"/>
+</svg>

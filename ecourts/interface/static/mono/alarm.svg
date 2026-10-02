@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Alarm" class="ecui-alarm-mono">
+<title>Alarm</title>
+<desc>Alarm. Original eCourts interface icon.</desc>
+<path class="p0" d="M5 13a7 7 0 1 0 14 0a7 7 0 1 0 -14 0Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M12 9V13L15 15M7 19L5 21M17 19L19 21" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p2" d="M3 7L6.5 3.5L8 5L4.5 8.5Z" fill="currentColor"/>
+<path class="p3" d="M16 5L17.5 3.5L21 7L19.5 8.5Z" fill="currentColor"/>
+</svg>

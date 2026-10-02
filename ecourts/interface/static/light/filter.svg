@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Filter" class="ecui-filter-light">
+<title>Filter</title>
+<desc>Filter. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-filter-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<path class="p0" d="M4 6H20M6 12H18M9 18H15" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p1" d="M14 4H15Q16 4 16 5V7Q16 8 15 8H14Q13 8 13 7V5Q13 4 14 4Z" fill="url(#ecui-filter-light-accent)"/>
+<path class="p2" d="M9 10H10Q11 10 11 11V13Q11 14 10 14H9Q8 14 8 13V11Q8 10 9 10Z" fill="url(#ecui-filter-light-accent)"/>
+</svg>

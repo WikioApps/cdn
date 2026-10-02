@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Star" class="ecui-star-light">
+<title>Star</title>
+<desc>Star. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-star-light-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<path class="p0" d="M12 3.5L14.5 8.8L20.5 9.5L16.2 13.6L17.3 19.7L12 16.8L6.7 19.7L7.8 13.6L3.5 9.5L9.5 8.8Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p1" d="M12 3.5L14.5 8.8L12 11L9.5 8.8Z" fill="url(#ecui-star-light-accent)"/>
+</svg>

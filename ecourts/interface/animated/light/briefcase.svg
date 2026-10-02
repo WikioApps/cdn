@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Cases" class="ecui-briefcase-light-motion">
+<title>Cases</title>
+<desc>The clasp seats as the case folio closes.</desc>
+<defs><linearGradient id="ecui-briefcase-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-briefcase-light-motion .p4{transform-box:view-box;transform-origin:12px 12px;animation:ecui-briefcase-light-motion-p4 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-briefcase-light-motion-p4{0%{transform:translateY(-2.1px)}26%{transform:translateY(-0.7px)}58%{transform:translateY(0.18px)}82%{transform:translateY(0px)}100%{transform:translateY(0px)}}}</style>
+<path class="p0" d="M6 7H18Q20.5 7 20.5 9.5V17.5Q20.5 20 18 20H6Q3.5 20 3.5 17.5V9.5Q3.5 7 6 7Z" fill="#E9543E" opacity="0.12" style="fill:var(--ec-icon-soft,#E9543E)"/>
+<path class="p1" d="M8.5 6.5V5Q8.5 3.5 10 3.5H14Q15.5 3.5 15.5 5V6.5" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p2" d="M6 7H18Q20.5 7 20.5 9.5V17.5Q20.5 20 18 20H6Q3.5 20 3.5 17.5V9.5Q3.5 7 6 7Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p3" d="M4 11.5Q12 15 20 11.5" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p4" d="M11.5 11.5H12.5Q13.5 11.5 13.5 12.5V14.5Q13.5 15.5 12.5 15.5H11.5Q10.5 15.5 10.5 14.5V12.5Q10.5 11.5 11.5 11.5Z" fill="url(#ecui-briefcase-light-motion-accent)"/>
+</svg>

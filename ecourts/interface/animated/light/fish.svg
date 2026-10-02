@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Fish" class="ecui-fish-light-motion">
+<title>Fish</title>
+<desc>The tail propels one short, restrained stroke.</desc>
+<defs><linearGradient id="ecui-fish-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-fish-light-motion .p1{transform-box:view-box;transform-origin:7px 12px;animation:ecui-fish-light-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-fish-light-motion-p1{0%{transform:rotate(-8deg)}26%{transform:rotate(5deg)}58%{transform:rotate(-2deg)}82%{transform:rotate(0.5deg)}100%{transform:rotate(0deg)}}}</style>
+<path class="p0" d="M7 12Q13 2 21 12Q13 22 7 12ZM15.5 7Q13.5 12 15.5 17M18 11.5H18.1" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p1" d="M7 12L3 7V17Z" fill="url(#ecui-fish-light-motion-accent)"/>
+</svg>

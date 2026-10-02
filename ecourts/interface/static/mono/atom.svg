@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Atom" class="ecui-atom-mono">
+<title>Atom</title>
+<desc>Atom. Original eCourts interface icon.</desc>
+<path class="p0" d="M10.2 12a1.8 1.8 0 1 0 3.6 0a1.8 1.8 0 1 0 -3.6 0Z" fill="currentColor"/>
+<path class="p1" d="M4 5C8 1 24 17 20 20C16 24 0 9 4 5ZM20 5C16 1 0 17 4 20C8 24 24 9 20 5Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

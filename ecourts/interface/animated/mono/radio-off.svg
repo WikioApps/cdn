@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Available option" class="ecui-radio-off-mono-motion">
+<title>Available option</title>
+<desc>The option boundary resolves.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-radio-off-mono-motion .p0{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-radio-off-mono-motion-p0 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-radio-off-mono-motion-p0{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
+<path class="p0" d="M4 12a8 8 0 1 0 16 0a8 8 0 1 0 -16 0Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1"/>
+<path class="p1" d="M12 4A8 8 0 0 1 20 12" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

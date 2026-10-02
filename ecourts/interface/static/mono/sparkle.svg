@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Sparkle" class="ecui-sparkle-mono">
+<title>Sparkle</title>
+<desc>Sparkle. Original eCourts interface icon.</desc>
+<path class="p0" d="M12 3.5L14.5 9.5L20.5 12L14.5 14.5L12 20.5L9.5 14.5L3.5 12L9.5 9.5Z" fill="currentColor" opacity="0.12"/>
+<path class="p1" d="M12 3.5L14.5 9.5L20.5 12L14.5 14.5L12 20.5L9.5 14.5L3.5 12L9.5 9.5Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

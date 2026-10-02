@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Library" class="ecui-library-light-motion">
+<title>Library</title>
+<desc>The last volume leans into its shelf position.</desc>
+<defs><linearGradient id="ecui-library-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-library-light-motion .p1{transform-box:view-box;transform-origin:18px 18px;animation:ecui-library-light-motion-p1 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-library-light-motion-p1{0%{transform:rotate(6deg)}26%{transform:rotate(4deg)}58%{transform:rotate(-0.7deg)}82%{transform:rotate(0.1deg)}100%{transform:rotate(0deg)}}}</style>
+<path class="p0" d="M3.5 20.5H21M4.5 4H9V18H4.5ZM11 4H14V18H11Z" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p1" d="M16 5L19 4.5L21 17.5L18 18Z" fill="url(#ecui-library-light-motion-accent)"/>
+</svg>

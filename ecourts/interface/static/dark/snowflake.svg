@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Snowflake" class="ecui-snowflake-dark">
+<title>Snowflake</title>
+<desc>Snowflake. Original eCourts interface icon.</desc>
+<defs><linearGradient id="ecui-snowflake-dark-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#FFD1A6" style="stop-color:var(--ec-icon-accent,#FFD1A6)"/><stop offset="1" stop-color="#FF9271" style="stop-color:var(--ec-icon-accent-end,#FF9271)"/></linearGradient></defs>
+<path class="p0" d="M12 3V21M4.2 7.5L19.8 16.5M4.2 16.5L19.8 7.5" fill="none" stroke="#F7E9E2" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#F7E9E2)"/>
+<path class="p1" d="M9 4L12 7L15 4M9 20L12 17L15 20M4 10L7 10V7M20 14H17V17" fill="none" stroke="url(#ecui-snowflake-dark-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

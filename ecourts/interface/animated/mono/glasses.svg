@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Glasses" class="ecui-glasses-mono-motion">
+<title>Glasses</title>
+<desc>The second lens aligns with the bridge.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-glasses-mono-motion .p2{transform-box:view-box;transform-origin:12px 12px;animation:ecui-glasses-mono-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-glasses-mono-motion-p2{0%{transform:translateY(-1.5px)}26%{transform:translateY(-0.5px)}58%{transform:translateY(0.1px)}82%{transform:translateY(0px)}100%{transform:translateY(0px)}}}</style>
+<path class="p0" d="M3.5 13L5 6H8M20.5 13L19 6H16M10 14Q12 12 14 14" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M6 12H7.5Q10 12 10 14.5V15.5Q10 18 7.5 18H6Q3.5 18 3.5 15.5V14.5Q3.5 12 6 12Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p2" d="M16.5 12H18Q20.5 12 20.5 14.5V15.5Q20.5 18 18 18H16.5Q14 18 14 15.5V14.5Q14 12 16.5 12Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

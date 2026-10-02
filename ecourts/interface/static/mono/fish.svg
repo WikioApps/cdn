@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Fish" class="ecui-fish-mono">
+<title>Fish</title>
+<desc>Fish. Original eCourts interface icon.</desc>
+<path class="p0" d="M7 12Q13 2 21 12Q13 22 7 12ZM15.5 7Q13.5 12 15.5 17M18 11.5H18.1" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M7 12L3 7V17Z" fill="currentColor"/>
+</svg>

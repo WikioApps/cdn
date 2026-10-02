@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Accessibility" class="ecui-accessibility-light-motion">
+<title>Accessibility</title>
+<desc>The open arms extend around a stable centre.</desc>
+<defs><linearGradient id="ecui-accessibility-light-motion-accent" gradientUnits="userSpaceOnUse" x1="4" y1="3" x2="20" y2="22"><stop stop-color="#E9543E" style="stop-color:var(--ec-icon-accent,#E9543E)"/><stop offset="1" stop-color="#C93639" style="stop-color:var(--ec-icon-accent-end,#C93639)"/></linearGradient></defs>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-accessibility-light-motion .p2{transform-box:view-box;transform-origin:12px 10px;animation:ecui-accessibility-light-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-accessibility-light-motion-p2{0%{transform:scaleY(0.65)}26%{transform:scaleY(0.8)}58%{transform:scaleY(1.02)}82%{transform:scaleY(1)}100%{transform:scaleY(1)}}}</style>
+<path class="p0" d="M10 4.5a2 2 0 1 0 4 0a2 2 0 1 0 -4 0Z" fill="url(#ecui-accessibility-light-motion-accent)"/>
+<path class="p1" d="M12 9V14M8.5 20L12 14L15.5 20" fill="none" stroke="#482F36" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--ec-icon-ink,#482F36)"/>
+<path class="p2" d="M5 8L12 10L19 8" fill="none" stroke="url(#ecui-accessibility-light-motion-accent)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Sailboat" class="ecui-sailboat-mono">
+<title>Sailboat</title>
+<desc>Sailboat. Original eCourts interface icon.</desc>
+<path class="p0" d="M12 3V18M3 18H21L18 21H6Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M10 5L3.5 15H10Z" fill="currentColor"/>
+<path class="p2" d="M14 7L20 15H14Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

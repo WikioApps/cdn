@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Share" class="ecui-share-mono-motion">
+<title>Share</title>
+<desc>The two delivery connections are drawn from the source node.</desc>
+<style>@media(prefers-reduced-motion:no-preference){.ecui-share-mono-motion .p2{stroke-dasharray:1;stroke-dashoffset:0;transform-box:view-box;transform-origin:12px 12px;animation:ecui-share-mono-motion-p2 800ms cubic-bezier(.3,0,.2,1) 1 backwards}@keyframes ecui-share-mono-motion-p2{0%{stroke-dashoffset:1}15%{stroke-dashoffset:1}80%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}}</style>
+<path class="p0" d="M2.5 12a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0 -5 0Z" fill="currentColor"/>
+<path class="p1" d="M16.5 5a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0 -5 0ZM16.5 19a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0 -5 0Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p2" d="M7.5 11L16.5 6M7.5 13L16.5 18" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" pathLength="1"/>
+</svg>

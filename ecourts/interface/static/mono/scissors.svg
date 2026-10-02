@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Scissors" class="ecui-scissors-mono">
+<title>Scissors</title>
+<desc>Scissors. Original eCourts interface icon.</desc>
+<path class="p0" d="M3 17.5a3 3 0 1 0 6 0a3 3 0 1 0 -6 0ZM15 17.5a3 3 0 1 0 6 0a3 3 0 1 0 -6 0Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p1" d="M8 15.5L19 3.5" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p2" d="M16 15.5L5 3.5" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

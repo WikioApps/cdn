@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="Footprints" class="ecui-footprints-mono">
+<title>Footprints</title>
+<desc>Footprints. Original eCourts interface icon.</desc>
+<path class="p0" d="M5 3.5Q8 2.5 8 6V12H4.5V8Q3 6 5 3.5Z" fill="currentColor"/>
+<path class="p1" d="M4.5 15H8V18Q6 20 4.5 18Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="p2" d="M16 7.5Q19 6.5 19 10V16H15.5V12Q14 10 16 7.5Z" fill="currentColor"/>
+<path class="p3" d="M15.5 19H19V20Q17 22 15.5 20Z" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
